@@ -6,5 +6,10 @@
   "124": {
     "hero_name": "escanor and jean",
     "lane": "Gold Lane"
+  },
+  "143": {
+    "hero_name": "leomord",
+    "lane": "Mid Lane",
+    "role": "Mage"
   }
 }
