@@ -61,5 +61,13 @@
     "role": "Tank",
     "head_icon": "nsmc",
     "portrait_icon": "smmd"
+  },
+  "107": {
+    "hero_name": "selena",
+    "lane": "Roam Lane",
+    "role": "Assassin",
+    "head_icon": "msmc",
+    "portrait_icon": "janc",
+    "script": "namx"
   }
 }
