@@ -14,5 +14,13 @@
     "head_icon": "https:\\\/\\\/github.com\\\/zetsuya05\\\/others_2026\\\/raw\\\/refs\\\/heads\\\/main\\\/images%20-%202026-06-16T014521.387.jpeg",
     "portrait_icon": "https:\\\/\\\/github.com\\\/zetsuya05\\\/others_2026\\\/raw\\\/refs\\\/heads\\\/main\\\/images%20-%202026-06-16T014521.387.jpeg",
     "script": "https:\\\/\\\/github.com\\\/zetsuya05\\\/others_2026\\\/raw\\\/refs\\\/heads\\\/main\\\/images%20-%202026-06-16T014521.387.jpeg"
+  },
+  "75": {
+    "hero_name": "nsncc",
+    "lane": "Mid Lane",
+    "role": "Fighter",
+    "head_icon": "jenc",
+    "portrait_icon": "nsnc",
+    "script": "nsnx"
   }
 }
