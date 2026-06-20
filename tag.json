@@ -2,5 +2,9 @@
     "msndn": {
         "tag_name": "msndn",
         "tag_link": "wmdmmf"
+    },
+    "g": {
+        "tag_name": "g",
+        "tag_link": "g"
     }
 }
