@@ -4,7 +4,10 @@
         "skin_name": "heartfloat"
     },
     "2": {
-        "hero_name": "helcurt",
-        "skin_name": "enfm"
+        "hero_name": "fanny",
+        "skin_name": "skylark",
+        "portrait_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/10\/Hero174-portrait.png\/revision\/latest?cb=20220525164704",
+        "background_link": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQPskD3WY4lHxl3PeaOWbPXflEcyEmcFcn_prKAdb79Pz7D6o9zLDeiWXs&s=10",
+        "script_link": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_luckybox.zip"
     }
 }
