@@ -54,5 +54,12 @@
     "role": "Assassin",
     "head_icon": "nd",
     "portrait_icon": "jd"
+  },
+  "115": {
+    "hero_name": "hilda",
+    "lane": "Roam Lane",
+    "role": "Tank",
+    "head_icon": "nsmc",
+    "portrait_icon": "smmd"
   }
 }
