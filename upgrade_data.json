@@ -1,6 +1,10 @@
 {
     "Fanny_1": {
         "hero_name": "Fanny",
-        "tag_name": "Backup"
+        "tag_name": "Backup",
+        "name": "nsmmd",
+        "portrait": "msmxx",
+        "background": "nsmdm",
+        "script": "jsjsnd"
     }
 }
