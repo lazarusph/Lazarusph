@@ -24,10 +24,10 @@
     "fanny_4": {
         "hero_name": "fanny",
         "skin_name": "Galactic Starhawk",
-        "tag_name": "Elite",
         "portrait_link": "https:\/\/github.com\/zetsuya05\/january_2026\/raw\/refs\/heads\/main\/images%20(71)_1.jpeg",
         "background_link": "https:\/\/github.com\/zetsuya05\/january_2026\/raw\/refs\/heads\/main\/images%20(71)_1.jpeg",
-        "script_link": "https:\/\/github.com\/zetsuya05\/january_2026\/raw\/refs\/heads\/main\/images%20(71)_1.jpeg"
+        "script_link": "https:\/\/github.com\/zetsuya05\/january_2026\/raw\/refs\/heads\/main\/images%20(71)_1.jpeg",
+        "tag_name": "Covenant"
     },
     "fanny_5": {
         "hero_name": "fanny",
