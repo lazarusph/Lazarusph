@@ -14,5 +14,13 @@
     "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
     "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
     "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Chou\/Chou%20Default\/Chou%20Backup.zip"
+  },
+  "3": {
+    "hero_name": "Gusion",
+    "lane": "Jungle Lane",
+    "role": "Assassin",
+    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a2\/Hero561-portrait.png\/revision\/latest?cb=20240611065025",
+    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a2\/Hero561-portrait.png\/revision\/latest?cb=20240611065025",
+    "script": "https:\/\/github.com\/zetsuya05\/assa_feb2026\/raw\/main\/gusion_backup.zip"
   }
 }
