@@ -17,10 +17,10 @@
     "fanny_3": {
         "hero_name": "fanny",
         "skin_name": "Campus Youth",
-        "tag_name": "Elite",
         "portrait_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
         "background_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
-        "script_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702"
+        "script_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
+        "tag_name": "Covenant"
     },
     "fanny_4": {
         "hero_name": "fanny",
