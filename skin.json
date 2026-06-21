@@ -30,5 +30,13 @@
         "background_link": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSe6QXgTnUkToF46LAWtoiYzFdnKkhNe5V17KOR4mSjheqpzU1mc9epFLA&s=10",
         "script_link": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Chou\/Chou%20Default\/Chou%20Epic.zip",
         "tag_name": "Epic"
+    },
+    "Chou_2": {
+        "hero_name": "Chou",
+        "skin_name": "King of Muaythai",
+        "portrait_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/af\/Hero264-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20220525164852",
+        "background_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a0\/Chou_%28King_of_Muay_Thai%29.jpg\/revision\/latest?cb=20230819020003",
+        "script_link": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Chou\/Chou%20Default\/Chou%20Elite.zip",
+        "tag_name": ""
     }
 }
