@@ -6,5 +6,13 @@
         "background_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/46\/Hirara_lore_2.jpg\/revision\/latest?cb=20260611083312",
         "script_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/19\/Hero1331-portrait.png\/revision\/latest?cb=20260618091411",
         "tag_name": "Elite"
+    },
+    "fanny_1": {
+        "hero_name": "fanny",
+        "skin_name": "Galactic Starhawk",
+        "portrait_link": "https:\/\/github.com\/zetsuya05\/january_2026\/raw\/refs\/heads\/main\/images%20(71)_1.jpeg",
+        "background_link": "https:\/\/github.com\/zetsuya05\/january_2026\/raw\/refs\/heads\/main\/images%20(71)_1.jpeg",
+        "script_link": "https:\/\/github.com\/zetsuya05\/january_2026\/raw\/refs\/heads\/main\/images%20(71)_1.jpeg",
+        "tag_name": "Type"
     }
 }
