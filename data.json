@@ -1,1 +1,10 @@
-
+{
+  "1": {
+    "hero_name": "Fanny",
+    "lane": "Jungle Lane",
+    "role": "Assassin",
+    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero171-portrait.png\/revision\/latest?cb=20240605151224",
+    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero171-portrait.png\/revision\/latest?cb=20240605151224",
+    "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_backup.zip"
+  }
+}
