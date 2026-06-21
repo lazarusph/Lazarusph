@@ -8,10 +8,11 @@
     },
     "fanny_2": {
         "hero_name": "fanny",
-        "skin_name": "skylark",
-        "portrait_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/10\/Hero174-portrait.png\/revision\/latest?cb=20220525164704",
-        "background_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/10\/Hero174-portrait.png\/revision\/latest?cb=20220525164704",
-        "script_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/10\/Hero174-portrait.png\/revision\/latest?cb=20220525164704"
+        "skin_name": "Galactic Starhawk",
+        "portrait_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d6\/Hero101710-portrait.png\/revision\/latest?cb=20220714031230",
+        "background_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d6\/Hero101710-portrait.png\/revision\/latest?cb=20220714031230",
+        "script_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d6\/Hero101710-portrait.png\/revision\/latest?cb=20220714031230",
+        "tag_name": "Elite"
     },
     "fanny_3": {
         "hero_name": "fanny",
