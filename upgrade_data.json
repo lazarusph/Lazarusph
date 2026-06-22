@@ -22,5 +22,13 @@
     "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/5b\/Hero177-portrait.png\/revision\/latest?cb=20220525164707",
     "background": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRbeTsR8ynos3relUWje8GjTu93fL7gJ5-1Yg3sdGAnchNDZDRncttiinQ&s=10",
     "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_lightborn.zip"
+  },
+  "Alucard_1": {
+    "hero_name": "Alucard",
+    "tag_name": "Legend",
+    "name": "Obsidian Blade",
+    "portrait": "https:\/\/github.com\/Mexi23\/Feb_2026\/raw\/refs\/heads\/main\/orca-image-1328348968.jpeg.jpeg",
+    "background": "https:\/\/github.com\/Mexi23\/Feb_2026\/raw\/refs\/heads\/main\/FB_IMG_1774425700292.jpg",
+    "script": "https:\/\/github.com\/zetsuya05\/january\/raw\/refs\/heads\/main\/alucard_legend-revamped.zip"
   }
 }
