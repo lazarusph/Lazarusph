@@ -1,34 +1,43 @@
 {
-  "Fanny_1": {
-    "hero_name": "Fanny",
-    "tag_name": "Elite",
-    "name": "Campus Youth",
-    "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
-    "background": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Fanny\/Fanny%20Default\/Fanny%20Elite.zip"
-  },
-  "Fanny_2": {
-    "hero_name": "Fanny",
-    "tag_name": "Epic",
-    "name": "Skylark",
-    "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/10\/Hero174-portrait.png\/revision\/latest?cb=20220525164704",
-    "background": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQPskD3WY4lHxl3PeaOWbPXflEcyEmcFcn_prKAdb79Pz7D6o9zLDeiWXs&s=10",
-    "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_luckybox.zip"
-  },
-  "Fanny_3": {
-    "hero_name": "Fanny",
-    "tag_name": "Lightborn",
-    "name": "Lightborn",
-    "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/5b\/Hero177-portrait.png\/revision\/latest?cb=20220525164707",
-    "background": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRbeTsR8ynos3relUWje8GjTu93fL7gJ5-1Yg3sdGAnchNDZDRncttiinQ&s=10",
-    "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_lightborn.zip"
-  },
-  "Alucard_1": {
-    "hero_name": "Alucard",
-    "tag_name": "Legend",
-    "name": "Obsidian Blade",
-    "portrait": "https:\/\/github.com\/Mexi23\/Feb_2026\/raw\/refs\/heads\/main\/orca-image-1328348968.jpeg.jpeg",
-    "background": "https:\/\/github.com\/Mexi23\/Feb_2026\/raw\/refs\/heads\/main\/FB_IMG_1774425700292.jpg",
-    "script": "https:\/\/github.com\/zetsuya05\/january\/raw\/refs\/heads\/main\/alucard_legend-revamped.zip"
-  }
+    "Fanny_1": {
+        "hero_name": "Fanny",
+        "tag_name": "Elite",
+        "name": "Campus Youth",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
+        "background": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
+        "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Fanny\/Fanny%20Default\/Fanny%20Elite.zip"
+    },
+    "Fanny_2": {
+        "hero_name": "Fanny",
+        "tag_name": "Epic",
+        "name": "Skylark",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/10\/Hero174-portrait.png\/revision\/latest?cb=20220525164704",
+        "background": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQPskD3WY4lHxl3PeaOWbPXflEcyEmcFcn_prKAdb79Pz7D6o9zLDeiWXs&s=10",
+        "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_luckybox.zip"
+    },
+    "Fanny_3": {
+        "hero_name": "Fanny",
+        "tag_name": "Lightborn",
+        "name": "Lightborn",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/5b\/Hero177-portrait.png\/revision\/latest?cb=20220525164707",
+        "background": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRbeTsR8ynos3relUWje8GjTu93fL7gJ5-1Yg3sdGAnchNDZDRncttiinQ&s=10",
+        "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_lightborn.zip"
+    },
+    "Alucard_1": {
+        "hero_name": "Alucard",
+        "tag_name": "Legend",
+        "name": "Obsidian Blade",
+        "portrait": "https:\/\/github.com\/Mexi23\/Feb_2026\/raw\/refs\/heads\/main\/orca-image-1328348968.jpeg.jpeg",
+        "background": "https:\/\/github.com\/Mexi23\/Feb_2026\/raw\/refs\/heads\/main\/FB_IMG_1774425700292.jpg",
+        "script": "https:\/\/github.com\/zetsuya05\/january\/raw\/refs\/heads\/main\/alucard_legend-revamped.zip"
+    },
+    "Alucard_1_1": {
+        "name": "Lightborn",
+        "hero_name": "Alucard",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/13\/Hero079-portrait.png\/revision\/latest?cb=20220920090132",
+        "background": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/13\/Hero079-portrait.png\/revision\/latest?cb=20220920090132",
+        "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Alucard\/Alucard%20Lightborn\/Alucard%20Lightborn%20Backup.zip",
+        "tag_name": "Lightborn",
+        "timestamp": 1782153684678
+    }
 }
