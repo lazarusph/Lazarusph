@@ -14,5 +14,13 @@
     "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/10\/Hero174-portrait.png\/revision\/latest?cb=20220525164704",
     "background": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQPskD3WY4lHxl3PeaOWbPXflEcyEmcFcn_prKAdb79Pz7D6o9zLDeiWXs&s=10",
     "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_luckybox.zip"
+  },
+  "Fanny_3": {
+    "hero_name": "Fanny",
+    "tag_name": "Elite",
+    "name": "Lightborn",
+    "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/5b\/Hero177-portrait.png\/revision\/latest?cb=20220525164707",
+    "background": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRbeTsR8ynos3relUWje8GjTu93fL7gJ5-1Yg3sdGAnchNDZDRncttiinQ&s=10",
+    "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_lightborn.zip"
   }
 }
