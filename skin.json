@@ -6,5 +6,13 @@
         "background_link": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
         "script_link": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Fanny\/Fanny%20Default\/Fanny%20Elite.zip",
         "tag_name": "Elite"
+    },
+    "Alucard_1": {
+        "hero_name": "Alucard",
+        "skin_name": "Obsidian Blade",
+        "portrait_link": "https:\/\/github.com\/Mexi23\/Feb_2026\/raw\/refs\/heads\/main\/orca-image-1328348968.jpeg.jpeg",
+        "background_link": "https:\/\/github.com\/Mexi23\/Feb_2026\/raw\/refs\/heads\/main\/FB_IMG_1774425700292.jpg",
+        "script_link": "https:\/\/github.com\/zetsuya05\/january\/raw\/refs\/heads\/main\/alucard_legend-revamped.zip",
+        "tag_name": "Backup"
     }
 }
