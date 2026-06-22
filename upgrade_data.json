@@ -6,5 +6,13 @@
     "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
     "background": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
     "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Fanny\/Fanny%20Default\/Fanny%20Elite.zip"
+  },
+  "Fanny_2": {
+    "hero_name": "Fanny",
+    "tag_name": "Backup",
+    "name": "Skylark",
+    "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/10\/Hero174-portrait.png\/revision\/latest?cb=20220525164704",
+    "background": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQPskD3WY4lHxl3PeaOWbPXflEcyEmcFcn_prKAdb79Pz7D6o9zLDeiWXs&s=10",
+    "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_luckybox.zip"
   }
 }
