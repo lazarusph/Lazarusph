@@ -2,7 +2,12 @@
     "Emote": {
         "name": "Emote",
         "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/28\/Genius%21.png\/revision\/latest\/scale-to-width-down\/100?cb=20220118062722",
-        "script": "https:\/\/github.com\/Maharlikoders\/random-files\/raw\/main\/emoji.zip"
+        "script": "https:\/\/github.com\/Maharlikoders\/random-files\/raw\/main\/emoji.zip",
+        "1": {
+            "name": "Long Legged",
+            "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f0\/Long-Legged.png",
+            "script": "https:\/\/github.com\/lanz132\/EMOTE\/raw\/main\/12.zip"
+        }
     },
     "Recall": {
         "name": "Recall",
