@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "hero_name": "Obsidian Blade",
+        "tag_name": "Aspirant",
+        "name": "Elite",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/14\/Hero078-portrait.png\/revision\/latest?cb=20220525164443",
+        "background": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/14\/Hero078-portrait.png\/revision\/latest?cb=20220525164443",
+        "script": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/14\/Hero078-portrait.png\/revision\/latest?cb=20220525164443",
+        "id": "Obsidian Blade_1"
+    }
+]
