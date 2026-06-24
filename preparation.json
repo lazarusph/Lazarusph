@@ -33,6 +33,11 @@
             "name": "Starlight",
             "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/cb\/Starlight_Notification.png",
             "script": "https:\/\/github.com\/lanz132\/NOTIFICATION\/raw\/main\/6.zip"
+        },
+        "1": {
+            "name": "Summer Gala",
+            "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c6\/Summer_Gala_Notification.png",
+            "script": "https:\/\/github.com\/lanz132\/NOTIFICATION\/raw\/main\/5.zip"
         }
     }
 }
