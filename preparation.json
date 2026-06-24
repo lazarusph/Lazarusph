@@ -15,5 +15,12 @@
             "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c5\/Hello%21.png\/revision\/latest?cb=20200710050206",
             "script": "https:\/\/github.com\/lanz132\/EMOTE\/raw\/main\/8.zip"
         }
+    },
+    "Recall": {
+        "1": {
+            "name": "Seal of Anvil",
+            "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e3\/Seal_of_Anvil_Crawlers_Recall_Effect.png\/revision\/latest\/scale-to-width-down\/100?cb=20211204",
+            "script": "https:\/\/github.com\/azizboy2007\/CHIN-11\/raw\/main\/KLASIK%20SEAL%20OF%20ANVIL.zip"
+        }
     }
 }
