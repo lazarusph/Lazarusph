@@ -4,6 +4,11 @@
             "name": "Nice Job!",
             "image": "https:\/\/github.com\/lanz132\/EMOTES\/raw\/main\/Exavier.png",
             "script": "https:\/\/github.com\/lanz132\/EMOTE\/raw\/main\/104..zip"
+        },
+        "2": {
+            "name": "Energetic",
+            "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d9\/Feel_Energetic%21.png\/revision\/latest?cb=20200709141530",
+            "script": "https:\/\/github.com\/lanz132\/EMOTE\/raw\/main\/6.zip"
         }
     }
 }
