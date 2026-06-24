@@ -19,6 +19,11 @@
             "name": "Harmonia",
             "image": "https:\/\/github.com\/lanz132\/EMOTES\/raw\/main\/Eeudora.png",
             "script": "https:\/\/github.com\/lanz132\/EMOTE\/raw\/main\/112..zip"
+        },
+        "5": {
+            "name": "Our song!",
+            "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ea\/Our_Song.png\/revision\/latest?cb=20210411094336",
+            "script": "https:\/\/github.com\/lanz132\/EMOTE\/raw\/main\/15.zip"
         }
     },
     "Recall": {
