@@ -38,6 +38,11 @@
             "name": "Summer Gala",
             "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c6\/Summer_Gala_Notification.png",
             "script": "https:\/\/github.com\/lanz132\/NOTIFICATION\/raw\/main\/5.zip"
+        },
+        "3": {
+            "name": "Lightborn Declaration",
+            "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/53\/Lightborn%27s_Declaration_Notification.png",
+            "script": "https:\/\/github.com\/lanz132\/NOTIFICATION\/raw\/main\/3.zip"
         }
     }
 }
