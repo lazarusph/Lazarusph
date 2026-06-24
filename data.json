@@ -6,10 +6,5 @@
         "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero071-portrait.png\/revision\/latest?cb=20240605132947",
         "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero071-portrait.png\/revision\/latest?cb=20240605132947",
         "script": "https:\/\/github.com\/zetsuya05\/january\/raw\/refs\/heads\/main\/alucard_backup.zip"
-    },
-    "1": {
-        "hero_name": "Fanny",
-        "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero171-portrait.png\/revision\/latest?cb=20240605151224",
-        "hero_type": "Tank"
     }
 }
