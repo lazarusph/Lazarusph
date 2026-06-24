@@ -14,6 +14,11 @@
             "name": "I appreciate You",
             "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/83\/I_appreciate_you..png\/revision\/latest?cb=20200710045028",
             "script": "https:\/\/github.com\/lanz132\/EMOTE\/raw\/main\/5.zip"
+        },
+        "4": {
+            "name": "Harmonia",
+            "image": "https:\/\/github.com\/lanz132\/EMOTES\/raw\/main\/Eeudora.png",
+            "script": "https:\/\/github.com\/lanz132\/EMOTE\/raw\/main\/112..zip"
         }
     },
     "Recall": {
