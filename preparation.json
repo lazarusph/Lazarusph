@@ -1,1 +1,9 @@
-
+{
+    "Emote": {
+        "1": {
+            "name": "Nice Job!",
+            "image": "https:\/\/github.com\/lanz132\/EMOTES\/raw\/main\/Exavier.png",
+            "script": "https:\/\/github.com\/lanz132\/EMOTE\/raw\/main\/104..zip"
+        }
+    }
+}
