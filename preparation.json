@@ -26,6 +26,11 @@
             "name": "Fire Crown",
             "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7c\/Fire_Crown_Recall_Effect.png\/revision\/latest\/scale-to-width-down\/100?cb=20211204085112",
             "script": "https:\/\/github.com\/azizboy2007\/CHIN-11\/raw\/main\/KLASIK%20FIRE%20CROWN.zip"
+        },
+        "3": {
+            "name": "TNC Pro",
+            "image": "https:\/\/github.com\/injector-origin\/mobile-legends-api\/raw\/main\/assets\/preparation\/recall\/TNC%20Pro%20Team.jpg",
+            "script": "https:\/\/github.com\/Maharlikoders\/Preparation\/raw\/main\/Recalls\/Replacement%20to%20Classic%20Recall\/Classic%20Recall%20to%20TNC%20Recall%20Effect.zip"
         }
     },
     "Notification": {
