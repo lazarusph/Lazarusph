@@ -3,5 +3,10 @@
         "name": "Emote",
         "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/28\/Genius%21.png\/revision\/latest\/scale-to-width-down\/100?cb=20220118062722",
         "script": "https:\/\/github.com\/Maharlikoders\/random-files\/raw\/main\/emoji.zip"
+    },
+    "Recall": {
+        "name": "Recall",
+        "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/5c\/Classic_Recall_Effect.png\/revision\/latest\/scale-to-width-down\/100?cb=20211204090007",
+        "script": "https:\/\/github.com\/Maharlikoders\/Preparation\/raw\/main\/Recalls\/Replacement%20to%20Classic%20Recall\/Classic%20Recall%20Backup.zip"
     }
 }
