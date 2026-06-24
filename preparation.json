@@ -21,6 +21,11 @@
             "name": "Seal of Anvil",
             "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e3\/Seal_of_Anvil_Crawlers_Recall_Effect.png\/revision\/latest\/scale-to-width-down\/100?cb=20211204",
             "script": "https:\/\/github.com\/azizboy2007\/CHIN-11\/raw\/main\/KLASIK%20SEAL%20OF%20ANVIL.zip"
+        },
+        "2": {
+            "name": "Fire Crown",
+            "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7c\/Fire_Crown_Recall_Effect.png\/revision\/latest\/scale-to-width-down\/100?cb=20211204085112",
+            "script": "https:\/\/github.com\/azizboy2007\/CHIN-11\/raw\/main\/KLASIK%20FIRE%20CROWN.zip"
         }
     }
 }
