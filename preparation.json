@@ -27,5 +27,12 @@
             "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7c\/Fire_Crown_Recall_Effect.png\/revision\/latest\/scale-to-width-down\/100?cb=20211204085112",
             "script": "https:\/\/github.com\/azizboy2007\/CHIN-11\/raw\/main\/KLASIK%20FIRE%20CROWN.zip"
         }
+    },
+    "Notification": {
+        "2": {
+            "name": "Starlight",
+            "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/cb\/Starlight_Notification.png",
+            "script": "https:\/\/github.com\/lanz132\/NOTIFICATION\/raw\/main\/6.zip"
+        }
     }
 }
