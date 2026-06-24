@@ -25,19 +25,10 @@
     },
     "Alucard_1": {
         "hero_name": "Alucard",
-        "tag_name": "Legend",
-        "name": "Obsidian Blade",
-        "portrait": "https:\/\/github.com\/Mexi23\/Feb_2026\/raw\/refs\/heads\/main\/orca-image-1328348968.jpeg.jpeg",
-        "background": "https:\/\/github.com\/Mexi23\/Feb_2026\/raw\/refs\/heads\/main\/FB_IMG_1774425700292.jpg",
-        "script": "https:\/\/github.com\/zetsuya05\/january\/raw\/refs\/heads\/main\/alucard_legend-revamped.zip"
-    },
-    "Alucard_1_1": {
-        "name": "Lightborn",
-        "hero_name": "Alucard",
+        "tag_name": "Lightborn",
+        "name": "Sword Master",
         "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/13\/Hero079-portrait.png\/revision\/latest?cb=20220920090132",
         "background": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/13\/Hero079-portrait.png\/revision\/latest?cb=20220920090132",
-        "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Alucard\/Alucard%20Lightborn\/Alucard%20Lightborn%20Backup.zip",
-        "tag_name": "Lightborn",
-        "timestamp": 1782153684678
+        "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Alucard\/Alucard%20Lightborn\/Alucard%20Lightborn%20Backup.zip"
     }
 }
