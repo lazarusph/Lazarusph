@@ -78,5 +78,13 @@
     "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/88\/Hero041-portrait.png\/revision\/latest?cb=20240605132522",
     "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/88\/Hero041-portrait.png\/revision\/latest?cb=20240605132522",
     "script": "https:\/\/github.com\/zetsuya05\/s2s\/raw\/refs\/heads\/main\/alice_backup.zip"
+  },
+  "11": {
+    "hero_name": "Khaleed",
+    "lane": "Exp Lane",
+    "role": "Fighter",
+    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c6\/Hero981-portrait.png\/revision\/latest?cb=20220525170258",
+    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c6\/Hero981-portrait.png\/revision\/latest?cb=20220525170258",
+    "script": "https:\/\/github.com\/missnapokita\/June2024-K-L-M\/raw\/main\/khaleed%20backup.zip"
   }
 }
