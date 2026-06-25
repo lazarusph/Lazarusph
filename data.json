@@ -1,66 +1,66 @@
 {
-  "1": {
-    "hero_name": "Alucard",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero071-portrait.png\/revision\/latest?cb=20240605132947",
-    "script": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero071-portrait.png\/revision\/latest?cb=20240605132947",
-    "role": "Fighter",
-    "lane": "Mid Lane",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero071-portrait.png\/revision\/latest?cb=20240605132947"
-  },
-  "2": {
-    "hero_name": "Fanny",
-    "lane": "Jungle Lane",
-    "role": "Assassin",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero171-portrait.png\/revision\/latest?cb=20240605151224",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero171-portrait.png\/revision\/latest?cb=20240605151224",
-    "script": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero171-portrait.png\/revision\/latest?cb=20240605151224"
-  },
-  "3": {
-    "hero_name": "Selena",
-    "lane": "Jungle Lane",
-    "role": "Assassin",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a4\/Hero631-portrait.png\/revision\/latest?cb=20240122041957",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a4\/Hero631-portrait.png\/revision\/latest?cb=20240122041957",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Selena\/Selena%20Default\/Selena%20Backup.zip"
-  },
-  "4": {
-    "hero_name": "Chou",
-    "lane": "Roam Lane",
-    "role": "Fighter",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Chou\/Chou%20Default\/Chou%20Backup.zip"
-  },
-  "5": {
-    "hero_name": "Cyclops",
-    "lane": "Mid Lane",
-    "role": "Mage",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/09\/Hero331-portrait.png\/revision\/latest?cb=20240122082946",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/09\/Hero331-portrait.png\/revision\/latest?cb=20240122082946",
-    "script": "https:\/\/github.com\/tin0521\/dec2025\/raw\/refs\/heads\/main\/cyclops_backup.zip"
-  },
-  "6": {
-    "hero_name": "Aldous",
-    "lane": "Exp Lane",
-    "role": "Fighter",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/61\/Hero641-portrait.png\/revision\/latest?cb=20240501075708",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/61\/Hero641-portrait.png\/revision\/latest?cb=20240501075708",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Aldous\/Aldous%20Default\/Aldous%20Backup.zip"
-  },
-  "7": {
-    "hero_name": "Tigrel",
-    "lane": "Roam Lane",
-    "role": "Tank",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b8\/Hero061-portrait.png\/revision\/latest?cb=20240605132742",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b8\/Hero061-portrait.png\/revision\/latest?cb=20240605132742",
-    "script": "https:\/\/github.com\/zetsuya05\/tank_feb2026\/raw\/main\/tigrel_backup.zip"
-  },
-  "10": {
-    "hero_name": "Lesley",
-    "lane": "Gold Lane",
-    "role": "Marksman",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f1\/Hero531-portrait.png\/revision\/latest?cb=20240623134201",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f1\/Hero531-portrait.png\/revision\/latest?cb=20240623134201",
-    "script": "https:\/\/github.com\/zetsuya05\/s2s\/raw\/refs\/heads\/main\/lesley_backup.zip"
-  }
+    "1": {
+        "hero_name": "Alucard",
+        "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero071-portrait.png\/revision\/latest?cb=20240605132947",
+        "script": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero071-portrait.png\/revision\/latest?cb=20240605132947",
+        "role": "Fighter",
+        "lane": "Mid Lane",
+        "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero071-portrait.png\/revision\/latest?cb=20240605132947"
+    },
+    "2": {
+        "hero_name": "Fanny",
+        "lane": "Jungle Lane",
+        "role": "Assassin",
+        "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero171-portrait.png\/revision\/latest?cb=20240605151224",
+        "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero171-portrait.png\/revision\/latest?cb=20240605151224",
+        "script": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero171-portrait.png\/revision\/latest?cb=20240605151224"
+    },
+    "3": {
+        "hero_name": "Selena",
+        "lane": "Jungle Lane",
+        "role": "Assassin",
+        "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a4\/Hero631-portrait.png\/revision\/latest?cb=20240122041957",
+        "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a4\/Hero631-portrait.png\/revision\/latest?cb=20240122041957",
+        "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Selena\/Selena%20Default\/Selena%20Backup.zip"
+    },
+    "4": {
+        "hero_name": "Chou",
+        "lane": "Roam Lane",
+        "role": "Fighter",
+        "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
+        "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
+        "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Chou\/Chou%20Default\/Chou%20Backup.zip"
+    },
+    "5": {
+        "hero_name": "Cyclops",
+        "lane": "Mid Lane",
+        "role": "Mage",
+        "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/09\/Hero331-portrait.png\/revision\/latest?cb=20240122082946",
+        "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/09\/Hero331-portrait.png\/revision\/latest?cb=20240122082946",
+        "script": "https:\/\/github.com\/tin0521\/dec2025\/raw\/refs\/heads\/main\/cyclops_backup.zip"
+    },
+    "6": {
+        "hero_name": "Aldous",
+        "lane": "Exp Lane",
+        "role": "Fighter",
+        "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/61\/Hero641-portrait.png\/revision\/latest?cb=20240501075708",
+        "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/61\/Hero641-portrait.png\/revision\/latest?cb=20240501075708",
+        "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Aldous\/Aldous%20Default\/Aldous%20Backup.zip"
+    },
+    "7": {
+        "hero_name": "Tigrel",
+        "lane": "Roam Lane",
+        "role": "Tank",
+        "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b8\/Hero061-portrait.png\/revision\/latest?cb=20240605132742",
+        "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b8\/Hero061-portrait.png\/revision\/latest?cb=20240605132742",
+        "script": "https:\/\/github.com\/zetsuya05\/tank_feb2026\/raw\/main\/tigrel_backup.zip"
+    },
+    "8": {
+        "hero_name": "Lesley",
+        "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f1\/Hero531-portrait.png\/revision\/latest?cb=20240623134201",
+        "script": "https:\/\/github.com\/zetsuya05\/s2s\/raw\/refs\/heads\/main\/lesley_backup.zip",
+        "role": "Marksman",
+        "lane": "Gold Lane",
+        "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f1\/Hero531-portrait.png\/revision\/latest?cb=20240623134201"
+    }
 }
