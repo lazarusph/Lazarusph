@@ -54,5 +54,13 @@
     "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b8\/Hero061-portrait.png\/revision\/latest?cb=20240605132742",
     "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b8\/Hero061-portrait.png\/revision\/latest?cb=20240605132742",
     "script": "https:\/\/github.com\/zetsuya05\/tank_feb2026\/raw\/main\/tigrel_backup.zip"
+  },
+  "10": {
+    "hero_name": "Lesley",
+    "lane": "Gold Lane",
+    "role": "Marksman",
+    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f1\/Hero531-portrait.png\/revision\/latest?cb=20240623134201",
+    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f1\/Hero531-portrait.png\/revision\/latest?cb=20240623134201",
+    "script": "https:\/\/github.com\/zetsuya05\/s2s\/raw\/refs\/heads\/main\/lesley_backup.zip"
   }
 }
