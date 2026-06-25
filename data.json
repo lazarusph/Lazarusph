@@ -70,5 +70,13 @@
     "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0f\/Hero991-portrait.png\/revision\/latest?cb=20240103093200",
     "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0f\/Hero991-portrait.png\/revision\/latest?cb=20240103093200",
     "script": "https:\/\/github.com\/missnapokita\/June-2024-B-C-D\/raw\/main\/barats%20backup.zip"
+  },
+  "10": {
+    "hero_name": "Alice",
+    "lane": "Mid Lane",
+    "role": "Mage",
+    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/88\/Hero041-portrait.png\/revision\/latest?cb=20240605132522",
+    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/88\/Hero041-portrait.png\/revision\/latest?cb=20240605132522",
+    "script": "https:\/\/github.com\/zetsuya05\/s2s\/raw\/refs\/heads\/main\/alice_backup.zip"
   }
 }
