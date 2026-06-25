@@ -22,5 +22,13 @@
     "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a4\/Hero631-portrait.png\/revision\/latest?cb=20240122041957",
     "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a4\/Hero631-portrait.png\/revision\/latest?cb=20240122041957",
     "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Selena\/Selena%20Default\/Selena%20Backup.zip"
+  },
+  "4": {
+    "hero_name": "Chou",
+    "lane": "Roam Lane",
+    "role": "Fighter",
+    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
+    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
+    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Chou\/Chou%20Default\/Chou%20Backup.zip"
   }
 }
