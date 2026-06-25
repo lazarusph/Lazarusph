@@ -30,5 +30,13 @@
     "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
     "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
     "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Chou\/Chou%20Default\/Chou%20Backup.zip"
+  },
+  "5": {
+    "hero_name": "Cyclops",
+    "lane": "Mid Lane",
+    "role": "Mage",
+    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/09\/Hero331-portrait.png\/revision\/latest?cb=20240122082946",
+    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/09\/Hero331-portrait.png\/revision\/latest?cb=20240122082946",
+    "script": "https:\/\/github.com\/tin0521\/dec2025\/raw\/refs\/heads\/main\/cyclops_backup.zip"
   }
 }
