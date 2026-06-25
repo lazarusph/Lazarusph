@@ -38,5 +38,13 @@
     "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/09\/Hero331-portrait.png\/revision\/latest?cb=20240122082946",
     "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/09\/Hero331-portrait.png\/revision\/latest?cb=20240122082946",
     "script": "https:\/\/github.com\/tin0521\/dec2025\/raw\/refs\/heads\/main\/cyclops_backup.zip"
+  },
+  "6": {
+    "hero_name": "Aldous",
+    "lane": "Exp Lane",
+    "role": "Fighter",
+    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/61\/Hero641-portrait.png\/revision\/latest?cb=20240501075708",
+    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/61\/Hero641-portrait.png\/revision\/latest?cb=20240501075708",
+    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Aldous\/Aldous%20Default\/Aldous%20Backup.zip"
   }
 }
