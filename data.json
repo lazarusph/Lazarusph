@@ -94,5 +94,13 @@
     "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b3\/Hero101-portrait.png\/revision\/latest?cb=20240605133441",
     "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b3\/Hero101-portrait.png\/revision\/latest?cb=20240605133441",
     "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/franco_backup.zip"
+  },
+  "13": {
+    "hero_name": "Yin",
+    "lane": "Jungle Lane",
+    "role": "Fighter",
+    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/bc\/Hero1131-portrait.png\/revision\/latest?cb=20240122084641",
+    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/bc\/Hero1131-portrait.png\/revision\/latest?cb=20240122084641",
+    "script": "https:\/\/github.com\/tin0521\/dec2025\/raw\/refs\/heads\/main\/yin_backup.zip"
   }
 }
