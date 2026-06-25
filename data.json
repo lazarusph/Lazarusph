@@ -86,5 +86,13 @@
     "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c6\/Hero981-portrait.png\/revision\/latest?cb=20220525170258",
     "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c6\/Hero981-portrait.png\/revision\/latest?cb=20220525170258",
     "script": "https:\/\/github.com\/missnapokita\/June2024-K-L-M\/raw\/main\/khaleed%20backup.zip"
+  },
+  "12": {
+    "hero_name": "Franco",
+    "lane": "Roam Lane",
+    "role": "Tank",
+    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b3\/Hero101-portrait.png\/revision\/latest?cb=20240605133441",
+    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b3\/Hero101-portrait.png\/revision\/latest?cb=20240605133441",
+    "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/franco_backup.zip"
   }
 }
