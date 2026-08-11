@@ -118,5 +118,13 @@
     "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/17\/Hero481-portrait.png\/revision\/latest?cb=20240112141634",
     "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/17\/Hero481-portrait.png\/revision\/latest?cb=20240112141634",
     "script": "https:\/\/github.com\/missnapokita\/June-2024-C\/raw\/main\/diggie%20backup.zip"
+  },
+  "16": {
+    "hero_name": "Alpha",
+    "lane": "Exp Lane",
+    "role": "Fighter",
+    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b0\/Hero281-portrait.png\/revision\/latest?cb=20240517115107",
+    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b0\/Hero281-portrait.png\/revision\/latest?cb=20240517115107",
+    "script": "Alpha"
   }
 }
