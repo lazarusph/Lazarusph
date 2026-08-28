@@ -1,26 +1,2522 @@
 {
+    "Saber_1": {
+        "hero_name": "Saber",
+        "tag_name": "no",
+        "name": "Fullmetal Ronin",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/20\/Hero035-portrait.png\/revision\/latest?cb=20220525164330",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/saber%20backup.zip"
+    },
+    "Saber_2": {
+        "hero_name": "Saber",
+        "tag_name": "no",
+        "name": "Golden Flash",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/99\/Hero032-portrait.png\/revision\/latest?cb=20220525164327",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/saber%20backup.zip"
+    },
+    "Karina_1": {
+        "hero_name": "Karina",
+        "tag_name": "no",
+        "name": "Phantom Blade",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d3\/Hero082-portrait.png\/revision\/latest?cb=20220525164455",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/Zong-Patcher-V10@main\/Karina%20Backup.zip"
+    },
+    "Karina_2": {
+        "hero_name": "Karina",
+        "tag_name": "no",
+        "name": "Black Pearl",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/04\/Hero084-portrait.png\/revision\/latest?cb=20220525164457",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/Zong-Patcher-V10@main\/Karina%20Backup.zip"
+    },
+    "Karina_3": {
+        "hero_name": "Karina",
+        "tag_name": "no",
+        "name": "Spider Lily",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/31\/Hero085-portrait.png\/revision\/latest?cb=20220525164458",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/Zong-Patcher-V10@main\/Karina%20Backup.zip"
+    },
+    "Karina_4": {
+        "hero_name": "Karina",
+        "tag_name": "no",
+        "name": "Blood Moon",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a7\/Hero089-portrait.png\/revision\/latest?cb=20220525164502",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/Zong-Patcher-V10@main\/Karina%20Backup.zip"
+    },
     "Fanny_1": {
         "hero_name": "Fanny",
-        "tag_name": "Elite",
+        "tag_name": "no",
         "name": "Campus Youth",
         "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
-        "background": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero172-portrait.png\/revision\/latest?cb=20220525164702",
-        "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Fanny\/Fanny%20Default\/Fanny%20Elite.zip"
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Fanny\/Fanny%20Elite\/Fanny%20Elite%20Backup.zip"
     },
     "Fanny_2": {
         "hero_name": "Fanny",
-        "tag_name": "Epic",
-        "name": "Skylark",
-        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/10\/Hero174-portrait.png\/revision\/latest?cb=20220525164704",
-        "background": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQPskD3WY4lHxl3PeaOWbPXflEcyEmcFcn_prKAdb79Pz7D6o9zLDeiWXs&s=10",
-        "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_luckybox.zip"
+        "tag_name": "no",
+        "name": "Punk Princess",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ef\/Hero173-portrait.png\/revision\/latest?cb=20220525164703",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Fanny\/Fanny%20s3\/Fanny%20s3%20Backup.zip"
+    },
+    "Fanny_3": {
+        "hero_name": "Fanny",
+        "tag_name": "no",
+        "name": "Lifeguard",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7d\/Hero176-portrait.png\/revision\/latest?cb=20220525164706",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Fanny\/Fanny%20Special\/Fanny%20Summer%20Backup.zip"
+    },
+    "Fanny_4": {
+        "hero_name": "Fanny",
+        "tag_name": "no",
+        "name": "Royal Cavalry",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f4\/Hero175-portrait.png\/revision\/latest?cb=20220525164705",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Fanny\/Fanny%20Starlight\/Fanny%20Starlight%20Backup.zip"
+    },
+    "Fanny_5": {
+        "hero_name": "Fanny",
+        "tag_name": "no",
+        "name": "Lightborn - Ranger",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/5b\/Hero177-portrait.png\/revision\/latest?cb=20220525164707",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Fanny\/Fanny%20Lightborn\/Fanny%20Lightborn%20Backup.zip"
+    },
+    "Fanny_6": {
+        "hero_name": "Fanny",
+        "tag_name": "no",
+        "name": "Christmas Carnival - Fanny",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a3\/Hero178-portrait.png\/revision\/latest?cb=20220525164708",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/fanny%20backup.zip"
+    },
+    "Fanny_7": {
+        "hero_name": "Fanny",
+        "tag_name": "no",
+        "name": "Imperial Warrior",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/95\/Hero179-portrait.png\/revision\/latest?cb=20220525164709",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/fanny%20backup.zip"
+    },
+    "Fanny_8": {
+        "hero_name": "Fanny",
+        "tag_name": "no",
+        "name": "Heart Afloat",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero101711-portrait.png\/revision\/latest?cb=20230212035453",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/fanny%20backup.zip"
+    },
+    "Hayabusa_1": {
+        "hero_name": "Hayabusa",
+        "tag_name": "no",
+        "name": "Future Enforcer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/59\/Hero213-portrait.png\/revision\/latest?cb=20220525164752",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/haya%20backup.zip"
+    },
+    "Hayabusa_2": {
+        "hero_name": "Hayabusa",
+        "tag_name": "no",
+        "name": "Techie Ninja",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e2\/Hero219-portrait.png\/revision\/latest?cb=20221118130654",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/haya%20backup.zip"
+    },
+    "Hayabusa_3": {
+        "hero_name": "Hayabusa",
+        "tag_name": "no",
+        "name": "Spacetime Shadow",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/6f\/Hero212-portrait.png\/revision\/latest?cb=20220525164751",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/haya%20backup.zip"
+    },
+    "Hayabusa_4": {
+        "hero_name": "Hayabusa",
+        "tag_name": "no",
+        "name": "Biological Weapon",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/40\/Hero217-portrait.png\/revision\/latest?cb=20220525164756",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/haya%20backup.zip"
+    },
+    "Hayabusa_5": {
+        "hero_name": "Hayabusa",
+        "tag_name": "no",
+        "name": "Sushi Master",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/30\/Hero214-portrait.png\/revision\/latest?cb=20220628175954",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/haya%20backup.zip"
+    },
+    "Hayabusa_6": {
+        "hero_name": "Hayabusa",
+        "tag_name": "no",
+        "name": "Shadow of Obscurity",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/79\/Hero216-portrait.png\/revision\/latest?cb=20220525164755",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/ZongHubSCRIPT@main\/Haya%20Backup.zip"
+    },
+    "Yi Sun-Shin_1": {
+        "hero_name": "Yi Sun-Shin",
+        "tag_name": "no",
+        "name": "Major General",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/00\/Hero302-portrait.png\/revision\/latest?cb=20220525164949",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-W-X-Y@main\/yss%20backup.zip"
+    },
+    "Yi Sun-Shin_2": {
+        "hero_name": "Yi Sun-Shin",
+        "tag_name": "no",
+        "name": "Apocalypse Agent",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/58\/Hero303-portrait.png\/revision\/latest?cb=20220525164950",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-W-X-Y@main\/yss%20backup.zip"
+    },
+    "Yi Sun-Shin_3": {
+        "hero_name": "Yi Sun-Shin",
+        "tag_name": "no",
+        "name": "Roguish Ranger",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b4\/Hero304-portrait.png\/revision\/latest?cb=20220525164951",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-W-X-Y@main\/yss%20backup.zip"
+    },
+    "Yi Sun-Shin_4": {
+        "hero_name": "Yi Sun-Shin",
+        "tag_name": "no",
+        "name": "Azure Sentry",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3b\/Hero306-portrait.png\/revision\/latest?cb=20220525164954",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-W-X-Y@main\/yss%20backup.zip"
+    },
+    "Yi Sun-Shin_5": {
+        "hero_name": "Yi Sun-Shin",
+        "tag_name": "no",
+        "name": "Fleet Warden",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8a\/Hero307-portrait.png\/revision\/latest?cb=20220628180302",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-W-X-Y@main\/yss%20backup.zip"
+    },
+    "Harley_1": {
+        "hero_name": "Harley",
+        "tag_name": "no",
+        "name": "Naughty Joker",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/35\/Hero422-portrait.png\/revision\/latest?cb=20220525165202",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/harley%20backup.zip"
+    },
+    "Harley_2": {
+        "hero_name": "Harley",
+        "tag_name": "no",
+        "name": "Pulsar Prodigy",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/ba\/Hero428-portrait.png\/revision\/latest?cb=20220915122657",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/harley%20backup.zip"
+    },
+    "Harley_3": {
+        "hero_name": "Harley",
+        "tag_name": "no",
+        "name": "Royal Magister",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ef\/Hero423-portrait.png\/revision\/latest?cb=20220525165203",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/harley%20backup.zip"
+    },
+    "Lancelot_1": {
+        "hero_name": "Lancelot",
+        "tag_name": "no",
+        "name": "Bren. Esports",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/32\/Hero479-portrait.png\/revision\/latest?cb=20220525165252",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Lancelot\/Lancelot%20Champion\/Lancelot%20Champion%20Backup.zip"
+    },
+    "Lancelot_2": {
+        "hero_name": "Lancelot",
+        "tag_name": "no",
+        "name": "Empyrean Flame",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/25\/Hero104710-portrait.png\/revision\/latest?cb=20220804115345",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Lancelot\/Lancelot%20Dragon%20Tamer\/Lancelot%20Dragon%20Tamer%20Backup.zip"
+    },
+    "Lancelot_3": {
+        "hero_name": "Lancelot",
+        "tag_name": "no",
+        "name": "Marques of Blades",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/05\/Hero104711-portrait.png\/revision\/latest?cb=20230917045336",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lance%20backup.zip"
+    },
+    "Lancelot_4": {
+        "hero_name": "Lancelot",
+        "tag_name": "no",
+        "name": "Floral Knight",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3a\/Hero477-portrait.png\/revision\/latest?cb=20220525165250",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lance%20backup.zip"
+    },
+    "Lancelot_5": {
+        "hero_name": "Lancelot",
+        "tag_name": "no",
+        "name": "Masked Knight",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/fb\/Hero472-portrait.png\/revision\/latest?cb=20220525165245",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lance%20backup.zip"
+    },
+    "Lancelot_6": {
+        "hero_name": "Lancelot",
+        "tag_name": "no",
+        "name": "Dark Earl",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b1\/Hero475-portrait.png\/revision\/latest?cb=20220525165248",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lance%20backup.zip"
+    },
+    "Lancelot_7": {
+        "hero_name": "Lancelot",
+        "tag_name": "no",
+        "name": "Christmas Carnival - Lancelot",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/4f\/Hero473-portrait.png\/revision\/latest?cb=20220525165246",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Lancelot\/Lancelot%20Christmas\/Lancelot%20Christmas%20Backup.zip"
+    },
+    "Helcurt_1": {
+        "hero_name": "Helcurt",
+        "tag_name": "no",
+        "name": "Ice Scythe",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/83\/Hero513-portrait.png\/revision\/latest?cb=20220525165334",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/helcurt%20backup.zip"
+    },
+    "Helcurt_2": {
+        "hero_name": "Helcurt",
+        "tag_name": "no",
+        "name": "Exoracial Executer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/76\/Hero512-portrait.png\/revision\/latest?cb=20240524095044",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/helcurt%20backup.zip"
+    },
+    "Gusion_1": {
+        "hero_name": "Gusion",
+        "tag_name": "no",
+        "name": "Hairstylist",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3f\/Hero563-portrait.png\/revision\/latest?cb=20220525165444",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/gusion%20backup.zip"
+    },
+    "Gusion_2": {
+        "hero_name": "Gusion",
+        "tag_name": "no",
+        "name": "Moonlight Sonata",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/57\/Hero562-portrait.png\/revision\/latest?cb=20220909095408",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/gusion%20backup.zip"
+    },
+    "Gusion_3": {
+        "hero_name": "Gusion",
+        "tag_name": "no",
+        "name": "Soul Revelation",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/26\/Hero105610-portrait.png\/revision\/latest?cb=20220714031432",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/gusion%20backup.zip"
+    },
+    "Gusion_4": {
+        "hero_name": "Gusion",
+        "tag_name": "no",
+        "name": "Cyber Ops",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/82\/Hero564-portrait.png\/revision\/latest?cb=20220525165446",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/gusion%20backup.zip"
+    },
+    "Gusion_5": {
+        "hero_name": "Gusion",
+        "tag_name": "no",
+        "name": "V.E.N.O.M. Emperor Scorpion",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3f\/Hero566-portrait.png\/revision\/latest?cb=20220525165448",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/gusion%20backup.zip"
+    },
+    "Gusion_6": {
+        "hero_name": "Gusion",
+        "tag_name": "no",
+        "name": "Dangerous Liaison",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/74\/Hero565-portrait.png\/revision\/latest?cb=20220915121902",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/gusion%20backup.zip"
+    },
+    "Gusion_7": {
+        "hero_name": "Gusion",
+        "tag_name": "no",
+        "name": "Desert Spider",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/00\/Hero105613-portrait.png\/revision\/latest?cb=20240619171236",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/ZongHubSCRIPT@main\/Gusion%20Backup.zip"
+    },
+    "Selena_1": {
+        "hero_name": "Selena",
+        "tag_name": "no",
+        "name": "Gothic Curse",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/92\/Hero637-portrait.png\/revision\/latest?cb=20220525165608",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/selena%20backup.zip"
+    },
+    "Selena_2": {
+        "hero_name": "Selena",
+        "tag_name": "no",
+        "name": "Wasp Queen",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b6\/Hero632-portrait.png\/revision\/latest?cb=20220525165603",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/selena%20backup.zip"
+    },
+    "Selena_3": {
+        "hero_name": "Selena",
+        "tag_name": "no",
+        "name": "Double Identity",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3f\/Hero635-portrait.png\/revision\/latest?cb=20220525165606",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/selena%20backup.zip"
+    },
+    "Hanzo_1": {
+        "hero_name": "Hanzo",
+        "tag_name": "no",
+        "name": "Undead King",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/51\/Hero693-portrait.png\/revision\/latest?cb=20250117142003",
+        "background": "no",
+        "script": ""
+    },
+    "Hanzo_2": {
+        "hero_name": "Hanzo",
+        "tag_name": "no",
+        "name": "Insidous Tutor",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/29\/Hero694-portrait.png\/revision\/latest?cb=20250117142005",
+        "background": "no",
+        "script": ""
+    },
+    "Hanzo_3": {
+        "hero_name": "Hanzo",
+        "tag_name": "no",
+        "name": "The Pale Phantom",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/49\/Hero692-portrait.png\/revision\/latest?cb=20250109154330",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/ZongHubSCRIPT@main\/Hanzo%20Backup.zip"
+    },
+    "Ling_1": {
+        "hero_name": "Ling",
+        "tag_name": "no",
+        "name": "Night Shade",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/57\/Hero844-portrait.png\/revision\/latest?cb=20220525170017",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP1\/master\/backup%20ling.zip"
+    },
+    "Ling_2": {
+        "hero_name": "Ling",
+        "tag_name": "no",
+        "name": "Fiery Dance",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/be\/Hero842-portrait.png\/revision\/latest?cb=20240619154306",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP1\/master\/backup%20ling.zip"
+    },
+    "Ling_3": {
+        "hero_name": "Ling",
+        "tag_name": "no",
+        "name": "Street Funk",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0d\/Hero843-portrait.png\/revision\/latest?cb=20220525170016",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP1\/master\/backup%20ling.zip"
+    },
+    "Ling_4": {
+        "hero_name": "Ling",
+        "tag_name": "no",
+        "name": "Cosmo Guard",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e1\/Hero845-portrait.png\/revision\/latest?cb=20220525170019",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP1\/master\/backup%20ling.zip"
+    },
+    "Benedetta_1": {
+        "hero_name": "Benedetta",
+        "tag_name": "no",
+        "name": "Honor Blade",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0f\/Hero972-portrait.png\/revision\/latest?cb=20220525170253",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Benedetta\/Benedetta%20Basic\/Benedetta%20Basic%20Backup.zip"
+    },
+    "Benedetta_2": {
+        "hero_name": "Benedetta",
+        "tag_name": "no",
+        "name": "Moonblade",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/6a\/Hero975-portrait.png\/revision\/latest?cb=20220525170256",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-B-C-D@main\/benedetta%20backup.zip"
+    },
+    "Benedetta_3": {
+        "hero_name": "Benedetta",
+        "tag_name": "no",
+        "name": "Street Blow",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/21\/Hero973-portrait.png\/revision\/latest?cb=20220525170254",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-B-C-D@main\/benedetta%20backup.zip"
+    },
+    "Benedetta_4": {
+        "hero_name": "Benedetta",
+        "tag_name": "no",
+        "name": "Quantum Edge",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/dc\/Hero977-portrait.png\/revision\/latest?cb=20240314065930",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-B-C-D@main\/benedetta%20backup.zip"
+    },
+    "Aamon_1": {
+        "hero_name": "Aamon",
+        "tag_name": "no",
+        "name": "Night's Edge",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3a\/Hero1092-portrait.png\/revision\/latest?cb=20220525170510",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/JhoweeMylab\/Assassin-Backup@main\/Aamon%20Backup.zip"
+    },
+    "Aamon_2": {
+        "hero_name": "Aamon",
+        "tag_name": "no",
+        "name": "Noble Crest",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a4\/Hero1093-portrait.png\/revision\/latest?cb=20220628175950",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/JhoweeMylab\/Assassin-Backup@main\/Aamon%20Backup.zip"
+    },
+    "Julian_1": {
+        "hero_name": "Julian",
+        "tag_name": "no",
+        "name": "Silent Edge",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/de\/Hero1162-portrait.png\/revision\/latest?cb=20220525170651",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/julian%20backup.zip"
+    },
+    "Nolan_1": {
+        "hero_name": "Nolan",
+        "tag_name": "no",
+        "name": "Voidwalker",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e7\/Hero1222-portrait.png\/revision\/latest?cb=20231227085831",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/injector-origin\/mobile-legends-script@main\/assets\/scripts\/hero\/122\/122.zip"
+    },
+    "Nolan_2": {
+        "hero_name": "Nolan",
+        "tag_name": "no",
+        "name": "Fashion Mogul",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c0\/Hero1223-portrait.png\/revision\/latest?cb=20240502082224",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/missnapokita\/Nov2024fix\/main\/nolan%20backup.zip"
+    },
+    "Suyou_1": {
+        "hero_name": "Suyou",
+        "tag_name": "no",
+        "name": "Venerated Vigilance",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/32\/Hero1262-portrait.png\/revision\/latest?cb=20241002022300",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/ZongHubSCRIPT@main\/F15%20Suyou%20Backup.zip"
+    },
+    "Alice_1": {
+        "hero_name": "Alice",
+        "tag_name": "no",
+        "name": "Spirit Woman",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/53\/Hero042-portrait.png\/revision\/latest?cb=20220525164349",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/june-2024@main\/Alice%20Backup.zip"
+    },
+    "Tigreal_1": {
+        "hero_name": "Tigreal",
+        "tag_name": "no",
+        "name": "Dark Guardian",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/9e\/Hero062-portrait.png\/revision\/latest?cb=20220525164420",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP2\/master\/backup%20tigreal.zip"
+    },
+    "Akai_1": {
+        "hero_name": "Akai",
+        "tag_name": "no",
+        "name": "Summer Party",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c6\/Hero092-portrait.png\/revision\/latest?cb=20220525164513",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/ZongHubSCRIPT\/main\/AKAI%20BACKUP.zip"
+    },
+    "Akai_2": {
+        "hero_name": "Akai",
+        "tag_name": "no",
+        "name": "Akazonae Samurai",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/39\/Hero094-portrait.png\/revision\/latest?cb=20220525164515",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/ZongHubSCRIPT\/main\/AKAI%20BACKUP.zip"
+    },
+    "Akai_3": {
+        "hero_name": "Akai",
+        "tag_name": "no",
+        "name": "Stream Recluse",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/80\/Hero096-portrait.png\/revision\/latest?cb=20220525164517",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/ZongHubSCRIPT\/main\/AKAI%20BACKUP.zip"
+    },
+    "Franco_1": {
+        "hero_name": "Franco",
+        "tag_name": "no",
+        "name": "Bone Crusher",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/86\/Hero108-portrait.png\/revision\/latest?cb=20220525164529",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/franco%20backup.zip"
+    },
+    "Franco_2": {
+        "hero_name": "Franco",
+        "tag_name": "no",
+        "name": "Locomotive",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f0\/Hero104-portrait.png\/revision\/latest?cb=20220525164525",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/franco%20backup.zip"
+    },
+    "Franco_3": {
+        "hero_name": "Franco",
+        "tag_name": "no",
+        "name": "Masterchef",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a8\/Hero102-portrait.png\/revision\/latest?cb=20220525164523",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/franco%20backup.zip"
+    },
+    "Johnson_1": {
+        "hero_name": "Johnson",
+        "tag_name": "no",
+        "name": "Fire Chief",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/97\/Hero322-portrait.png\/revision\/latest?cb=20220525165011",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/johnson%20backup.zip"
+    },
+    "Johnson_2": {
+        "hero_name": "Johnson",
+        "tag_name": "no",
+        "name": "Jeepney Racer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/cf\/Hero324-portrait.png\/revision\/latest?cb=20220525165016",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/TANK-SHIROTOOLS@main\/JOHNSON%20BACKUP.zip"
+    },
+    "Johnson_3": {
+        "hero_name": "Johnson",
+        "tag_name": "no",
+        "name": "Death Ride",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/18\/Hero326-portrait.png\/revision\/latest?cb=20220525165018",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/TANK-SHIROTOOLS@main\/JOHNSON%20BACKUP.zip"
+    },
+    "Johnson_4": {
+        "hero_name": "Johnson",
+        "tag_name": "no",
+        "name": "Starblazer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/02\/Hero328-portrait.png\/revision\/latest?cb=20230917045307",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/TANK-SHIROTOOLS@main\/JOHNSON%20BACKUP.zip"
+    },
+    "Johnson_5": {
+        "hero_name": "Johnson",
+        "tag_name": "no",
+        "name": "S.A.B.E.R. Automata",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/81\/Hero323-portrait.png\/revision\/latest?cb=20220525165012",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/TANK-SHIROTOOLS@main\/JOHNSON%20BACKUP.zip"
+    },
+    "Gatotkaca_1": {
+        "hero_name": "Gatotkaca",
+        "tag_name": "no",
+        "name": "Mighty Guardian",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/cf\/Hero412-portrait.png\/revision\/latest?cb=20220525165155",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/gatot%20backup.zip"
+    },
+    "Belerick_1": {
+        "hero_name": "Belerick",
+        "tag_name": "no",
+        "name": "Tiger Claw",
+        "portrait": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/JCGameUtility@main\/belerick_basic.jpg",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/zong-patcher-v19\/main\/Belerick%20Backup.zip"
+    },
+    "Belerick_2": {
+        "hero_name": "Belerick",
+        "tag_name": "no",
+        "name": "Emerald Guardian",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/36\/Hero705-portrait.png\/revision\/latest?cb=20220525165735",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/zong-patcher-v19\/main\/Belerick%20Backup.zip"
+    },
+    "Belerick_3": {
+        "hero_name": "Belerick",
+        "tag_name": "no",
+        "name": "The Deep One",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/1e\/Hero704-portrait.png\/revision\/latest?cb=20220525165734",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/zong-patcher-v19\/main\/Belerick%20Backup.zip"
+    },
+    "Belerick_4": {
+        "hero_name": "Belerick",
+        "tag_name": "no",
+        "name": "Torch Guardian",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/2d\/Hero703-portrait.png\/revision\/latest?cb=20220525165732",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/zong-patcher-v19\/main\/Belerick%20Backup.zip"
+    },
+    "Khufra_1": {
+        "hero_name": "Khufra",
+        "tag_name": "no",
+        "name": "Desert Owl",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/74\/Hero782-portrait.png\/revision\/latest?cb=20220525165825",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/khufra%20backup.zip"
+    },
+    "Khufra_2": {
+        "hero_name": "Khufra",
+        "tag_name": "no",
+        "name": "Apophis",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/db\/Hero783-portrait.png\/revision\/latest?cb=20220525165826",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/khufra%20backup.zip"
+    },
+    "Khufra_3": {
+        "hero_name": "Khufra",
+        "tag_name": "no",
+        "name": "Gentleman Thief",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/79\/Hero784-portrait.png\/revision\/latest?cb=20220525165827",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/khufra%20backup.zip"
+    },
+    "Khufra_4": {
+        "hero_name": "Khufra",
+        "tag_name": "no",
+        "name": "Iron Hook",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/05\/Hero787-portrait.png\/revision\/latest?cb=20230316133740",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/TankD@main\/khufra_def_backup.zip"
+    },
+    "Esmeralda_1": {
+        "hero_name": "Esmeralda",
+        "tag_name": "no",
+        "name": "Poison Vine",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/70\/Hero813-portrait.png\/revision\/latest?cb=20220525165934",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/esme%20backup.zip"
+    },
+    "Esmeralda_2": {
+        "hero_name": "Esmeralda",
+        "tag_name": "no",
+        "name": "Ruddy Dusk",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e8\/Hero812-portrait.png\/revision\/latest?cb=20220525165933",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/esme%20backup.zip"
+    },
+    "Esmeralda_3": {
+        "hero_name": "Esmeralda",
+        "tag_name": "no",
+        "name": "Cleopatra",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/26\/Hero815-portrait.png\/revision\/latest?cb=20220525165936",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/esme%20backup.zip"
+    },
+    "Atlas_1": {
+        "hero_name": "Atlas",
+        "tag_name": "no",
+        "name": "Reactor Core",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/4f\/Hero932-portrait.png\/revision\/latest?cb=20220525170223",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/TANK-SCEIPT-SHIROO@main\/ATLAS%20BACKUP.zip"
+    },
+    "Barats_1": {
+        "hero_name": "Barats",
+        "tag_name": "no",
+        "name": "Armored Lizard",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/84\/Hero992-portrait.png\/revision\/latest?cb=20220525170307",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-B-C-D@main\/barats%20backup.zip"
+    },
+    "Edith_1": {
+        "hero_name": "Edith",
+        "tag_name": "no",
+        "name": "Celestial Safeguard",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/1a\/Hero1112-portrait.png\/revision\/latest?cb=20220525170534",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/edith%20backup.zip"
+    },
+    "Estes_1": {
+        "hero_name": "Estes",
+        "tag_name": "no",
+        "name": "Holy Priest",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a3\/Hero342-portrait.png\/revision\/latest?cb=20220525165042",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/SUPPORT-SHIROTOOLS\/main\/ESTES%20BACKUP.zip"
+    },
+    "Estes_2": {
+        "hero_name": "Estes",
+        "tag_name": "no",
+        "name": "White Crane",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b8\/Hero344-portrait.png\/revision\/latest?cb=20220525165044",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/SUPPORT-SHIROTOOLS\/main\/ESTES%20BACKUP.zip"
+    },
+    "Angela_1": {
+        "hero_name": "Angela",
+        "tag_name": "no",
+        "name": "Dove&Love",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f9\/Hero552-portrait.png\/revision\/latest?cb=20220525165431",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/october-2023-marksman@main\/angela%20backup.zip"
+    },
+    "Angela_2": {
+        "hero_name": "Angela",
+        "tag_name": "no",
+        "name": "Scream Doll",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/eb\/Hero555-portrait.png\/revision\/latest?cb=20220525165434",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/october-2023-marksman@main\/angela%20backup.zip"
+    },
+    "Angela_3": {
+        "hero_name": "Angela",
+        "tag_name": "no",
+        "name": "Shanghai Maiden",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/6d\/Hero553-portrait.png\/revision\/latest?cb=20220525165432",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/october-2023-marksman@main\/angela%20backup.zip"
+    },
+    "Angela_4": {
+        "hero_name": "Angela",
+        "tag_name": "no",
+        "name": "Summer Vibes",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b1\/Hero556-portrait.png\/revision\/latest?cb=20220525165435",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/october-2023-marksman@main\/angela%20backup.zip"
+    },
+    "Angela_5": {
+        "hero_name": "Angela",
+        "tag_name": "no",
+        "name": "V.E.N.O.M. Vespid",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/93\/Hero554-portrait.png\/revision\/latest?cb=20220525165433",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/ZongHubSCRIPT\/main\/ANGELA%20BACKUP.zip"
+    },
+    "Floryn_1": {
+        "hero_name": "Floryn",
+        "tag_name": "no",
+        "name": "Springtide",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a0\/Hero1122-portrait.png\/revision\/latest?cb=20220525170547",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/SUPPORT-SHIROTOOLS@main\/FLORYN%20BACKUP.zip"
+    },
+    "Floryn_2": {
+        "hero_name": "Floryn",
+        "tag_name": "no",
+        "name": "Paw Power",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/eb\/Hero1124-portrait.png\/revision\/latest?cb=20230212035445",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/SUPPORT-SHIROTOOLS@main\/FLORYN%20BACKUP.zip"
+    },
+    "Kalea_1": {
+        "hero_name": "Kalea",
+        "tag_name": "no",
+        "name": "Shimmering Waves",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/60\/Hero1282-portrait.png\/revision\/latest?cb=20250307123931",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/April-2025@main\/kalea%20backup.zip"
+    },
+    "Miya_1": {
+        "hero_name": "Miya",
+        "tag_name": "no",
+        "name": "Burning Bow",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero012-portrait.png\/revision\/latest?cb=20220525164206",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/october-2023-marksman@main\/miya%20backup.zip"
+    },
+    "Miya_2": {
+        "hero_name": "Miya",
+        "tag_name": "no",
+        "name": "Captain Thorns",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/05\/Hero014-portrait.png\/revision\/latest?cb=20220525164219",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/october-2023-marksman@main\/miya%20backup.zip"
+    },
+    "Miya_3": {
+        "hero_name": "Miya",
+        "tag_name": "no",
+        "name": "Jungle Ranger",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3e\/Hero019-portrait.png\/revision\/latest?cb=20220525164245",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/october-2023-marksman@main\/miya%20backup.zip"
+    },
+    "Miya_4": {
+        "hero_name": "Miya",
+        "tag_name": "no",
+        "name": "Moon Priestess",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/40\/Hero100110-portrait.png\/revision\/latest?cb=20220224220136",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/october-2023-marksman@main\/miya%20backup.zip"
+    },
+    "Miya_5": {
+        "hero_name": "Miya",
+        "tag_name": "no",
+        "name": "Suzuhime",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d2\/Hero018-portrait.png\/revision\/latest?cb=20220525164240",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/MARKSMAN-SHIRO\/main\/MIYA%20BACKUP.zip"
+    },
+    "Miya_6": {
+        "hero_name": "Miya",
+        "tag_name": "no",
+        "name": "Honor",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/09\/Hero015-portrait.png\/revision\/latest?cb=20220525164225",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/azizboy2007\/MARKSMAN-SHIRO\/main\/MIYA%20BACKUP.zip"
+    },
+    "Miya_7": {
+        "hero_name": "Miya",
+        "tag_name": "no",
+        "name": "Sweet Fantasy",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a1\/Hero017-portrait.png\/revision\/latest?cb=20220525164235",
+        "background": "no",
+        "script": "https:\/\/"
+    },
+    "Miya_8": {
+        "hero_name": "Miya",
+        "tag_name": "no",
+        "name": "Christmas Carnival - Miya",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/67\/Hero013-portrait.png\/revision\/latest?cb=20220525164212",
+        "background": "no",
+        "script": "https:\/\/"
+    },
+    "Bruno_1": {
+        "hero_name": "Bruno",
+        "tag_name": "no",
+        "name": "Street Football",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b0\/Hero124-portrait.png\/revision\/latest?cb=20220525164550",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-B-C-D@main\/bruno%20backup.zip"
+    },
+    "Bruno_2": {
+        "hero_name": "Bruno",
+        "tag_name": "no",
+        "name": "Vanguard Elite",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/28\/Hero122-portrait.png\/revision\/latest?cb=20220525164547",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-B-C-D@main\/bruno%20backup.zip"
+    },
+    "Bruno_3": {
+        "hero_name": "Bruno",
+        "tag_name": "no",
+        "name": "Best DJ",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e6\/Hero123-portrait.png\/revision\/latest?cb=20220525164549",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-B-C-D@main\/bruno%20backup.zip"
+    },
+    "Clint_1": {
+        "hero_name": "Clint",
+        "tag_name": "no",
+        "name": "Sun n Sand",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8a\/Hero132-portrait.png\/revision\/latest?cb=20220525164557",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/clint%20backup.zip"
+    },
+    "Clint_2": {
+        "hero_name": "Clint",
+        "tag_name": "no",
+        "name": "Guns and Roses",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d5\/Hero133-portrait.png\/revision\/latest?cb=20220525164557",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/clint%20backup.zip"
+    },
+    "Clint_3": {
+        "hero_name": "Clint",
+        "tag_name": "no",
+        "name": "Rock and Roll",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/39\/Hero134-portrait.png\/revision\/latest?cb=20220525164558",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/clint%20backup.zip"
+    },
+    "Clint_4": {
+        "hero_name": "Clint",
+        "tag_name": "no",
+        "name": "Witch Hunter",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b9\/Hero136-portrait.png\/revision\/latest?cb=20220525164601",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/clint%20backup.zip"
+    },
+    "Layla_1": {
+        "hero_name": "Layla",
+        "tag_name": "no",
+        "name": "Green Flash",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/18\/Hero182-portrait.png\/revision\/latest?cb=20220525164719",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP1\/master\/backup%20layla.zip"
+    },
+    "Layla_2": {
+        "hero_name": "Layla",
+        "tag_name": "no",
+        "name": "Bunny Babe",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/56\/Hero183-portrait.png\/revision\/latest?cb=20220525164720",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP1\/master\/backup%20layla.zip"
+    },
+    "Layla_3": {
+        "hero_name": "Layla",
+        "tag_name": "no",
+        "name": "Classic Malefic Gunner",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/22\/Hero186-portrait.png\/revision\/latest?cb=20220525164723",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/lanz132\/MM-UPGRADE@main\/LAYLA_BACK_UP.zip"
+    },
+    "Moskov_1": {
+        "hero_name": "Moskov",
+        "tag_name": "no",
+        "name": "Decapitator",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/ae\/Hero317-portrait.png\/revision\/latest?cb=20220525165005",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/moskov%20backup.zip"
+    },
+    "Moskov_2": {
+        "hero_name": "Moskov",
+        "tag_name": "no",
+        "name": "Spear of Bone Dragon",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/73\/Hero312-portrait.png\/revision\/latest?cb=20240114104739",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/moskov%20backup.zip"
+    },
+    "Moskov_3": {
+        "hero_name": "Moskov",
+        "tag_name": "no",
+        "name": "Yasha",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/97\/Hero314-portrait.png\/revision\/latest?cb=20220525165000",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/moskov%20backup.zip"
+    },
+    "Moskov_4": {
+        "hero_name": "Moskov",
+        "tag_name": "no",
+        "name": "Javelin Champion",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/65\/Hero315-portrait.png\/revision\/latest?cb=20220525165001",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/moskov%20backup.zip"
+    },
+    "Moskov_5": {
+        "hero_name": "Moskov",
+        "tag_name": "no",
+        "name": "Violet Spear",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c2\/Hero103110-portrait.png\/revision\/latest?cb=20230316133752",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/moskov%20backup.zip"
+    },
+    "Moskov_6": {
+        "hero_name": "Moskov",
+        "tag_name": "no",
+        "name": "Blood Spear",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/cc\/Hero318-portrait.png\/revision\/latest?cb=20220525165006",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/moskov%20backup.zip"
+    },
+    "Karrie_1": {
+        "hero_name": "Karrie",
+        "tag_name": "no",
+        "name": "Rising Star",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ee\/Hero402-portrait.png\/revision\/latest?cb=20220525165144",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/Mm@main\/karrie_def_backup.zip"
+    },
+    "Karrie_2": {
+        "hero_name": "Karrie",
+        "tag_name": "no",
+        "name": "Bladed Mantis",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/4c\/Hero403-portrait.png\/revision\/latest?cb=20220525165145",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/Mm@main\/karrie_def_backup.zip"
+    },
+    "Karrie_3": {
+        "hero_name": "Karrie",
+        "tag_name": "no",
+        "name": "Dragon Queen",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e7\/Hero404-portrait.png\/revision\/latest?cb=20220525165146",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/Mm@main\/karrie_def_backup.zip"
+    },
+    "Karrie_4": {
+        "hero_name": "Karrie",
+        "tag_name": "no",
+        "name": "Jester",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/17\/Hero405-portrait.png\/revision\/latest?cb=20220525165147",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/Mm@main\/karrie_def_backup.zip"
+    },
+    "Karrie_5": {
+        "hero_name": "Karrie",
+        "tag_name": "no",
+        "name": "Wheel of Justice",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a6\/Hero409-portrait.png\/revision\/latest?cb=20220525165151",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/Mm@main\/karrie_def_backup.zip"
+    },
+    "Irithel_1": {
+        "hero_name": "Irithel",
+        "tag_name": "no",
+        "name": "Silver Cyclone",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d1\/Hero432-portrait.png\/revision\/latest?cb=20220525165211",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-ad-ons@main\/irithel%20backup.zip"
+    },
+    "Irithel_2": {
+        "hero_name": "Irithel",
+        "tag_name": "no",
+        "name": "Nightarrow",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/21\/Hero434-portrait.png\/revision\/latest?cb=20220525165213",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-ad-ons@main\/irithel%20backup.zip"
+    },
+    "Irithel_3": {
+        "hero_name": "Irithel",
+        "tag_name": "no",
+        "name": "Hellfire",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/30\/Hero433-portrait.png\/revision\/latest?cb=20220525165212",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-ad-ons@main\/irithel%20backup.zip"
+    },
+    "Lesley_1": {
+        "hero_name": "Lesley",
+        "tag_name": "no",
+        "name": "Royal Musketeer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/bf\/Hero532-portrait.png\/revision\/latest?cb=20220824141746",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lesley%20backup.zip"
+    },
+    "Lesley_2": {
+        "hero_name": "Lesley",
+        "tag_name": "no",
+        "name": "General Rosa",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a8\/Hero533-portrait.png\/revision\/latest?cb=20220525165401",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lesley%20backup.zip"
+    },
+    "Lesley_3": {
+        "hero_name": "Lesley",
+        "tag_name": "no",
+        "name": "Cheergunner",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/32\/Hero534-portrait.png\/revision\/latest?cb=20220525165402",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lesley%20backup.zip"
+    },
+    "Lesley_4": {
+        "hero_name": "Lesley",
+        "tag_name": "no",
+        "name": "Dangerous Love",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/fa\/Hero536-portrait.png\/revision\/latest?cb=20220915121813",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lesley%20backup.zip"
+    },
+    "Lesley_5": {
+        "hero_name": "Lesley",
+        "tag_name": "no",
+        "name": "Lethal Lady",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/04\/Hero538-portrait.png\/revision\/latest?cb=20220525165407",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lesley%20backup.zip"
+    },
+    "Hanabi_1": {
+        "hero_name": "Hanabi",
+        "tag_name": "no",
+        "name": "Viper",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/99\/Hero603-portrait.png\/revision\/latest?cb=20220525165523",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/hanabi%20backup.zip"
+    },
+    "Hanabi_2": {
+        "hero_name": "Hanabi",
+        "tag_name": "no",
+        "name": "Resplendent Iris",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/be\/Hero602-portrait.png\/revision\/latest?cb=20221216103133",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/hanabi%20backup.zip"
+    },
+    "Hanabi_3": {
+        "hero_name": "Hanabi",
+        "tag_name": "no",
+        "name": "Field Op",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/bc\/Hero607-portrait.png\/revision\/latest?cb=20220525165527",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/hanabi%20backup.zip"
+    },
+    "Hanabi_4": {
+        "hero_name": "Hanabi",
+        "tag_name": "no",
+        "name": "Fiery Moth",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/4d\/Hero605-portrait.png\/revision\/latest?cb=20220525165525",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/hanabi%20backup.zip"
+    },
+    "Claude_1": {
+        "hero_name": "Claude",
+        "tag_name": "no",
+        "name": "Blazing Trace",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/21\/Hero658-portrait.png\/revision\/latest?cb=20241201052817",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/claude%20backup.zip"
+    },
+    "Claude_2": {
+        "hero_name": "Claude",
+        "tag_name": "no",
+        "name": "Earth's Mightiest",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/2f\/Hero657-portrait.png\/revision\/latest?cb=20220525165640",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/claude%20backup.zip"
+    },
+    "Claude_3": {
+        "hero_name": "Claude",
+        "tag_name": "no",
+        "name": "Golden Bullet",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f9\/Hero652-portrait.png\/revision\/latest?cb=20220525165635",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/claude%20backup.zip"
+    },
+    "Claude_4": {
+        "hero_name": "Claude",
+        "tag_name": "no",
+        "name": "Lifeguard - claude",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/1e\/Hero655-portrait.png\/revision\/latest?cb=20220525165638",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/claude%20backup.zip"
+    },
+    "Kimmy_1": {
+        "hero_name": "Kimmy",
+        "tag_name": "no",
+        "name": "Steam Researcher",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/80\/Hero712-portrait.png\/revision\/latest?cb=20220525165739",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Kimmy\/Kimmy%20Basic\/Kimmy%20Basic%20Backup.zip"
+    },
+    "Kimmy_2": {
+        "hero_name": "Kimmy",
+        "tag_name": "no",
+        "name": "Bio Frontier",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/38\/Hero713-portrait.png\/revision\/latest?cb=20220525165740",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Kimmy\/Kimmy%20Starlight\/Kimmy%20Starlight%20Backup.zip"
+    },
+    "Kimmy_3": {
+        "hero_name": "Kimmy",
+        "tag_name": "no",
+        "name": "Charge Leader",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/4f\/Hero715-portrait.png\/revision\/latest?cb=20220525165742",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Kimmy\/Kimmy%20Special%20-%20Charge%20Leader\/Kimmy%20Special%20-%20Charge%20Leader%20Backup.zip"
+    },
+    "Kimmy_4": {
+        "hero_name": "Kimmy",
+        "tag_name": "no",
+        "name": "Frost Wing",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/62\/Hero716-portrait.png\/revision\/latest?cb=20220525165743",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/kimmy%20backup.zip"
+    },
+    "Kimmy_5": {
+        "hero_name": "Kimmy",
+        "tag_name": "no",
+        "name": "Rising Nova",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero718-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20240114132958",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Kimmy\/Kimmy%20Special%20-%20Rising%20Nova\/Kimmy%20Special%20-%20Rising%20Nova%20Backup.zip"
+    },
+    "Kimmy_6": {
+        "hero_name": "Kimmy",
+        "tag_name": "no",
+        "name": "High Seas Cadet",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/96\/Hero719-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20241017120358",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Kimmy\/Kimmy%20Elite\/Kimmy%20Elite%20Backup.zip"
+    },
+    "Granger_1": {
+        "hero_name": "Granger",
+        "tag_name": "no",
+        "name": "Doomsday Terminator",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/85\/Hero793-portrait.png\/revision\/latest?cb=20220525165842",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/granger%20backup.zip"
+    },
+    "Granger_2": {
+        "hero_name": "Granger",
+        "tag_name": "no",
+        "name": "Bardic Whisper",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f6\/Hero792-portrait.png\/revision\/latest?cb=20220525165840",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/granger%20backup.zip"
+    },
+    "Granger_3": {
+        "hero_name": "Granger",
+        "tag_name": "no",
+        "name": "Biosoldier",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero794-portrait.png\/revision\/latest?cb=20220525165843",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/granger%20backup.zip"
+    },
+    "Wanwan_1": {
+        "hero_name": "Wanwan",
+        "tag_name": "no",
+        "name": "Darting Star",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0d\/Hero892-portrait.png\/revision\/latest?cb=20220525170126",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP2\/master\/backup%20wanwan.zip"
+    },
+    "Wanwan_2": {
+        "hero_name": "Wanwan",
+        "tag_name": "no",
+        "name": "Shoujo Commander",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/1c\/Hero893-portrait.png\/revision\/latest?cb=20220525170127",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP2\/master\/backup%20wanwan.zip"
+    },
+    "Wanwan_3": {
+        "hero_name": "Wanwan",
+        "tag_name": "no",
+        "name": "Teen Pop",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/2d\/Hero894-portrait.png\/revision\/latest?cb=20220525170128",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP2\/master\/backup%20wanwan.zip"
+    },
+    "Wanwan_4": {
+        "hero_name": "Wanwan",
+        "tag_name": "no",
+        "name": "E-Girl",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/82\/Hero896-portrait.png\/revision\/latest?cb=20220525170131",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/Mm@main\/wan_def_backup.zip"
+    },
+    "Brody_1": {
+        "hero_name": "Brody",
+        "tag_name": "no",
+        "name": "Quantum Grip",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/33\/Hero1006-portrait.png\/revision\/latest?cb=20230212035442",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-B-C-D@main\/Brody%20backup.zip"
+    },
+    "Brody_2": {
+        "hero_name": "Brody",
+        "tag_name": "no",
+        "name": "Nameless Stray",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e9\/Hero1002-portrait.png\/revision\/latest?cb=20220525170319",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Brody\/Brody%20Basic\/Brody%20Basic%20Backup.zip"
+    },
+    "Brody_3": {
+        "hero_name": "Brody",
+        "tag_name": "no",
+        "name": "Lethal Fang",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f5\/Hero1004-portrait.png\/revision\/latest?cb=20220525170321",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-B-C-D@main\/Brody%20backup.zip"
+    },
+    "Natan_1": {
+        "hero_name": "Natan",
+        "tag_name": "no",
+        "name": "Chaos Hunter",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8d\/Hero1073-portrait.png\/revision\/latest?cb=20220525170444",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-N-O-P@main\/natan%20backup.zip"
+    },
+    "Natan_2": {
+        "hero_name": "Natan",
+        "tag_name": "no",
+        "name": "Time Wielder",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d8\/Hero1072-portrait.png\/revision\/latest?cb=20220525170443",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-N-O-P@main\/natan%20backup.zip"
+    },
+    "Natan_3": {
+        "hero_name": "Natan",
+        "tag_name": "no",
+        "name": "Captain Chrono",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/62\/Hero1074-portrait.png\/revision\/latest?cb=20220628180007",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-N-O-P@main\/natan%20backup.zip"
+    },
+    "Melissa_1": {
+        "hero_name": "Melissa",
+        "tag_name": "no",
+        "name": "Twinge Weaver",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b4\/Hero1142-portrait.png\/revision\/latest?cb=20220525170622",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/melissa%20backup.zip"
+    },
+    "Nana_1": {
+        "hero_name": "Nana",
+        "tag_name": "no",
+        "name": "Clockwork Maid",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/5c\/Hero052-portrait.png\/revision\/latest?cb=20220525164404",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-N-O-P@main\/nana%20backup.zip"
+    },
+    "Nana_2": {
+        "hero_name": "Nana",
+        "tag_name": "no",
+        "name": "Slumber Party",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/41\/Hero054-portrait.png\/revision\/latest?cb=20220525164406",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-N-O-P@main\/nana%20backup.zip"
+    },
+    "Nana_3": {
+        "hero_name": "Nana",
+        "tag_name": "no",
+        "name": "Graveyard Party",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/64\/Hero053-portrait.png\/revision\/latest?cb=20220525164405",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-N-O-P@main\/nana%20backup.zip"
+    },
+    "Eudora_1": {
+        "hero_name": "Eudora",
+        "tag_name": "no",
+        "name": "Flame Red Lips",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/68\/Hero152-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20220525164631",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/eudora_def_backup.zip"
+    },
+    "Eudora_2": {
+        "hero_name": "Eudora",
+        "tag_name": "no",
+        "name": "Christmas Carnival - eudora",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/24\/Hero153-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20220525164632",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/eudora_def_backup.zip"
+    },
+    "Eudora_3": {
+        "hero_name": "Eudora",
+        "tag_name": "no",
+        "name": "Vivo Selfie Goddess",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/26\/Hero155-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20220525164634",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/eudora_def_backup.zip"
+    },
+    "Eudora_4": {
+        "hero_name": "Eudora",
+        "tag_name": "no",
+        "name": "Countess Scarlet",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b0\/Hero156-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20220525164635",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/eudora_def_backup.zip"
+    },
+    "Eudora_5": {
+        "hero_name": "Eudora",
+        "tag_name": "no",
+        "name": "Cosmic Voyage",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/2d\/Hero157-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20220724063929",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/eudora_def_backup.zip"
+    },
+    "Eudora_6": {
+        "hero_name": "Eudora",
+        "tag_name": "no",
+        "name": "Atomic Pop Eudora",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/14\/Hero158-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20230316133651",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/eudora_def_backup.zip"
+    },
+    "Gord_1": {
+        "hero_name": "Gord",
+        "tag_name": "no",
+        "name": "Professor of Hell",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero232-portrait.png\/revision\/latest?cb=20220525164816",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Gord\/Gord%20Basic\/Gord%20Basic%20Backup.zip"
+    },
+    "Gord_2": {
+        "hero_name": "Gord",
+        "tag_name": "no",
+        "name": "New Baron",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/75\/Hero236-portrait.png\/revision\/latest?cb=20220525164820",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Gord\/Gord%20s21\/Gord%20s21%20Backup.zip"
+    },
+    "Gord_3": {
+        "hero_name": "Gord",
+        "tag_name": "no",
+        "name": "Christmas Carnival - gord",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d9\/Hero233-portrait.png\/revision\/latest?cb=20220525164817",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Gord\/Gord%20Christmas%20Carnival\/Gord%20Christmas%20Carnival%20Backup.zip"
+    },
+    "Kagura_1": {
+        "hero_name": "Kagura",
+        "tag_name": "no",
+        "name": "Flower Season",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/00\/Hero252-portrait.png\/revision\/latest?cb=20220525164840",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/kagura%20backup.zip"
+    },
+    "Kagura_2": {
+        "hero_name": "Kagura",
+        "tag_name": "no",
+        "name": "Cherry Witch",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/18\/Hero253-portrait.png\/revision\/latest?cb=20220525164841",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/kagura%20backup.zip"
+    },
+    "Kagura_3": {
+        "hero_name": "Kagura",
+        "tag_name": "no",
+        "name": "Rainy Walk",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d5\/Hero256-portrait.png\/revision\/latest?cb=20220525164844",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/kagura%20backup.zip"
+    },
+    "Kagura_4": {
+        "hero_name": "Kagura",
+        "tag_name": "no",
+        "name": "Summer Festival",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0a\/Hero254-portrait.png\/revision\/latest?cb=20220628175959",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/kagura%20backup.zip"
+    },
+    "Cyclops_1": {
+        "hero_name": "Cyclops",
+        "tag_name": "no",
+        "name": "Exorcist Cyclops",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/05\/Hero332-portrait.png\/revision\/latest?cb=20220525165023",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/cyclops%20backup.zip"
+    },
+    "Cyclops_2": {
+        "hero_name": "Cyclops",
+        "tag_name": "no",
+        "name": "Super Adventurer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/6d\/Hero333-portrait.png\/revision\/latest?cb=20220525165024",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/cyclops%20backup.zip"
+    },
+    "Cyclops_3": {
+        "hero_name": "Cyclops",
+        "tag_name": "no",
+        "name": "Zombie Bambino",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e4\/Hero336-portrait.png\/revision\/latest?cb=20220525165030",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/cyclops%20backup.zip"
+    },
+    "Aurora_1": {
+        "hero_name": "Aurora",
+        "tag_name": "no",
+        "name": "Nature's Throne",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e5\/Hero362-portrait.png\/revision\/latest?cb=20240212111012",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Aurora\/Aurora%20Basic\/Aurora%20Basic%20Backup.zip"
+    },
+    "Aurora_2": {
+        "hero_name": "Aurora",
+        "tag_name": "no",
+        "name": "Heartbreak Empress",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e3\/Hero363-portrait.png\/revision\/latest?cb=20240212112411",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Aurora\/Aurora%20Starlight\/Aurora%20Starlight%20Backup.zip"
+    },
+    "Aurora_3": {
+        "hero_name": "Aurora",
+        "tag_name": "no",
+        "name": "Foxy Lady",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/bd\/Hero364-portrait.png\/revision\/latest?cb=20220525165103",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Aurora\/Aurora%20Lunar%20Fest\/Aurora%20Lunar%20Fest%20Backup.zip"
+    },
+    "Vexana_1": {
+        "hero_name": "Vexana",
+        "tag_name": "no",
+        "name": "Lucent Beacon",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3e\/Hero382-portrait.png\/revision\/latest?cb=20220714134500",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/rahasia55\/AG-BACKUP2@master\/backup%20vexana.zip"
+    },
+    "Vexana_2": {
+        "hero_name": "Vexana",
+        "tag_name": "no",
+        "name": "Cursed Shackle",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c2\/Hero384-portrait.png\/revision\/latest?cb=20220604034152",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/rahasia55\/AG-BACKUP2@master\/backup%20vexana.zip"
+    },
+    "Pharsa_1": {
+        "hero_name": "Pharsa",
+        "tag_name": "no",
+        "name": "Wings of Heaven",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c2\/Hero522-portrait.png\/revision\/latest?cb=20220525165341",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP2\/master\/backup%20pharsa.zip"
+    },
+    "Pharsa_2": {
+        "hero_name": "Pharsa",
+        "tag_name": "no",
+        "name": "Peafowl's Dance",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d7\/Hero523-portrait.png\/revision\/latest?cb=20220525165342",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP2\/master\/backup%20pharsa.zip"
+    },
+    "Pharsa_3": {
+        "hero_name": "Pharsa",
+        "tag_name": "no",
+        "name": "Indigo Aviatrix",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/16\/Hero524-portrait.png\/revision\/latest?cb=20220525165343",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP2\/master\/backup%20pharsa.zip"
+    },
+    "Pharsa_4": {
+        "hero_name": "Pharsa",
+        "tag_name": "no",
+        "name": "Enchanting Witch",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/67\/Hero525-portrait.png\/revision\/latest?cb=20220525165344",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP2\/master\/backup%20pharsa.zip"
+    },
+    "Pharsa_5": {
+        "hero_name": "Pharsa",
+        "tag_name": "no",
+        "name": "Peony Bloom",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f6\/Hero528-portrait.png\/revision\/latest?cb=20220525165347",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP2\/master\/backup%20pharsa.zip"
+    },
+    "Pharsa_6": {
+        "hero_name": "Pharsa",
+        "tag_name": "no",
+        "name": "Samba Muse",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/12\/Hero527-portrait.png\/revision\/latest?cb=20220525165346",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/pharsa_def_backup.zip"
+    },
+    "Pharsa_7": {
+        "hero_name": "Pharsa",
+        "tag_name": "no",
+        "name": "Neon Shingetsu",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/2a\/Hero105210-portrait.png\/revision\/latest?cb=20230917045337",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/pharsa_def_backup.zip"
+    },
+    "Valir_1": {
+        "hero_name": "Valir",
+        "tag_name": "no",
+        "name": "Pale Flame",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0d\/Hero572-portrait.png\/revision\/latest?cb=20220525165457",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/rahasia55\/AG-BACKUP2@master\/backup%20valir.zip"
+    },
+    "Valir_2": {
+        "hero_name": "Valir",
+        "tag_name": "no",
+        "name": "Dictator",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/cb\/Hero574-portrait.png\/revision\/latest?cb=20220525165459",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/rahasia55\/AG-BACKUP2@master\/backup%20valir.zip"
+    },
+    "Vale_1": {
+        "hero_name": "Vale",
+        "tag_name": "no",
+        "name": "Cerulean Winds",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a2\/Vale_%28Cerulean_Winds%29.jpg\/revision\/latest?cb=20211010164949",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/vale_def_backup.zip"
+    },
+    "Vale_2": {
+        "hero_name": "Vale",
+        "tag_name": "no",
+        "name": "Blizzard Storm",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/bd\/Hero663-portrait.png\/revision\/latest?cb=20220525165647",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/vale_def_backup.zip"
+    },
+    "Vale_3": {
+        "hero_name": "Vale",
+        "tag_name": "no",
+        "name": "Kannagi",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/57\/Hero664-portrait.png\/revision\/latest?cb=20220525165648",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/vale_def_backup.zip"
+    },
+    "Vale_4": {
+        "hero_name": "Vale",
+        "tag_name": "no",
+        "name": "Soaring Devata",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/90\/Hero665-portrait.png\/revision\/latest?cb=20220525165649",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/vale_def_backup.zip"
+    },
+    "Lunox_1": {
+        "hero_name": "Lunox",
+        "tag_name": "no",
+        "name": "Bloody Mary",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/06\/Hero682-portrait.png\/revision\/latest?cb=20220525165713",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lunox%20backup.zip"
+    },
+    "Lunox_2": {
+        "hero_name": "Lunox",
+        "tag_name": "no",
+        "name": "Cosmic Harmony",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/12\/Hero683-portrait.png\/revision\/latest?cb=20220525165714",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lunox%20backup.zip"
+    },
+    "Lunox_3": {
+        "hero_name": "Lunox",
+        "tag_name": "no",
+        "name": "Ash Blossom",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8f\/Hero684-portrait.png\/revision\/latest?cb=20220525165715",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lunox%20backup.zip"
+    },
+    "Harith_1": {
+        "hero_name": "Harith",
+        "tag_name": "no",
+        "name": "Fashion Expert",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a1\/Hero734-portrait.png\/revision\/latest?cb=20220525165756",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Harith\/Harith%20515\/Harith%20515%20Backup.zip"
+    },
+    "Harith_2": {
+        "hero_name": "Harith",
+        "tag_name": "no",
+        "name": "Savannah Cat",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8b\/Hero732-portrait.png\/revision\/latest?cb=20220525165754",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/WarlitoTools2024\/Mage@main\/Harith%20Backup.zip"
+    },
+    "Harith_3": {
+        "hero_name": "Harith",
+        "tag_name": "no",
+        "name": "Stardust",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ec\/Hero733-portrait.png\/revision\/latest?cb=20220525165755",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Harith\/Harith%20Elite\/Harith%20Elite%20Backup.zip"
+    },
+    "Harith_4": {
+        "hero_name": "Harith",
+        "tag_name": "no",
+        "name": "Lightborn - Inspirer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/51\/Hero735-portrait.png\/revision\/latest?cb=20220525165757",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/Maharlikoders\/Mobile-Legends-Script\/main\/Harith\/Harith%20Lighborn\/Harith%20Lighborn.json"
+    },
+    "Lylia_1": {
+        "hero_name": "Lylia",
+        "tag_name": "no",
+        "name": "School Idol",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b2\/Hero862-portrait.png\/revision\/latest?cb=20220525170048",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/rahasia55\/AG-BACKUP1@master\/backup%20lilya.zip"
+    },
+    "Lylia_2": {
+        "hero_name": "Lylia",
+        "tag_name": "no",
+        "name": "Star Student",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/68\/Hero863-portrait.png\/revision\/latest?cb=20220525170049",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/rahasia55\/AG-BACKUP1@master\/backup%20lilya.zip"
+    },
+    "Cecilion_1": {
+        "hero_name": "Cecilion",
+        "tag_name": "no",
+        "name": "Wisteria Count",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/db\/Hero912-portrait.png\/revision\/latest?cb=20220525170158",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/MAGE-SHIROTOOLS@main\/CECILLION%20BACKUP.zip"
+    },
+    "Luo Yi_1": {
+        "hero_name": "Luo Yi",
+        "tag_name": "no",
+        "name": "Yin-yang Mage",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/46\/Hero962-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20220525170244",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/luo_def_backup.zip"
+    },
+    "Luo Yi_2": {
+        "hero_name": "Luo Yi",
+        "tag_name": "no",
+        "name": "Tenko",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e2\/Hero963-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20220525170246",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/luo_def_backup.zip"
+    },
+    "Luo Yi_3": {
+        "hero_name": "Luo Yi",
+        "tag_name": "no",
+        "name": "Dawning Future",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8b\/Hero964-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20221111133616",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/luo_def_backup.zip"
+    },
+    "Luo Yi_4": {
+        "hero_name": "Luo Yi",
+        "tag_name": "no",
+        "name": "Siren Priestess",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/65\/Hero965-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20220525170248",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/luo_def_backup.zip"
+    },
+    "Luo Yi_5": {
+        "hero_name": "Luo Yi",
+        "tag_name": "no",
+        "name": "Oracle of Sol",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/06\/Hero967-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20230514163426",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/MageD@main\/luo_def_backup.zip"
+    },
+    "Valentina_1": {
+        "hero_name": "Valentina",
+        "tag_name": "no",
+        "name": "Twilight Charmer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/fd\/Hero1102-portrait.png\/revision\/latest?cb=20220525170523",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/rahasia55\/AG-BACKUP2@master\/backup%20valentina.zip"
+    },
+    "Xavier_1": {
+        "hero_name": "Xavier",
+        "tag_name": "no",
+        "name": "Verdict of Light",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/5f\/Hero1152-portrait.png\/revision\/latest?cb=20220525170636",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Xavier\/Xavier%20Basic\/Xavier%20Basic%20Backup.zip"
+    },
+    "Xavier_2": {
+        "hero_name": "Xavier",
+        "tag_name": "no",
+        "name": "Hardlight Artificer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7c\/Hero1154-portrait.png\/revision\/latest?cb=20241024133422",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Xavier\/Xavier%20Starlight\/Xavier%20Starlight%20Backup.zip"
+    },
+    "Novaria_1": {
+        "hero_name": "Novaria",
+        "tag_name": "no",
+        "name": "Sugar Glaze",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/24\/Hero1194-portrait.png\/revision\/latest?cb=20240923124141",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/MAGE-SHIROTOOLS@main\/NOVARIA%20BACKUP.zip"
+    },
+    "Novaria_2": {
+        "hero_name": "Novaria",
+        "tag_name": "no",
+        "name": "Dark Star",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/69\/Hero1192-portrait.png\/revision\/latest?cb=20240129072018",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/MAGE-SHIROTOOLS@main\/NOVARIA%20BACKUP.zip"
+    },
+    "Balmond_1": {
+        "hero_name": "Balmond",
+        "tag_name": "no",
+        "name": "Power Source",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/cd\/Hero022-portrait.png\/revision\/latest?cb=20220525164259",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/Maharlikoders\/random-files\/main\/02.zip"
+    },
+    "Balmond_2": {
+        "hero_name": "Balmond",
+        "tag_name": "no",
+        "name": "Ghoul's Fury",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a9\/Hero023-portrait.png\/revision\/latest?cb=20220525164302",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/Maharlikoders\/random-files\/main\/02.zip"
+    },
+    "Balmond_3": {
+        "hero_name": "Balmond",
+        "tag_name": "no",
+        "name": "Savage Hunter",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f6\/Hero024-portrait.png\/revision\/latest?cb=20220525164306",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/Maharlikoders\/random-files\/main\/02.zip"
     },
     "Alucard_1": {
         "hero_name": "Alucard",
-        "tag_name": "Lightborn",
-        "name": "Sword Master",
+        "tag_name": "no",
+        "name": "Empire Agent",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/14\/Hero078-portrait.png\/revision\/latest?cb=20220525164443",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/june-2024@main\/alucard%20backup.zip"
+    },
+    "Alucard_2": {
+        "hero_name": "Alucard",
+        "tag_name": "no",
+        "name": "Lone Hero",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/fe\/Hero072-portrait.png\/revision\/latest?cb=20220525164436",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Alucard\/Alucard%20Basic\/Alucard%20Basic%20Backup.zip"
+    },
+    "Alucard_3": {
+        "hero_name": "Alucard",
+        "tag_name": "no",
+        "name": "Fiery Inferno",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/36\/Hero073-portrait.png\/revision\/latest?cb=20220525164437",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Alucard\/Alucard%20s2\/Alucard%20s2%20Backup.zip"
+    },
+    "Alucard_4": {
+        "hero_name": "Alucard",
+        "tag_name": "no",
+        "name": "Viscount",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/96\/Hero075-portrait.png\/revision\/latest?cb=20220525164439",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Alucard\/Alucard%20Starlight\/Alucard%20Starlight%20Backup.zip"
+    },
+    "Alucard_5": {
+        "hero_name": "Alucard",
+        "tag_name": "no",
+        "name": "Romantic Fantasy",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/28\/Hero076-portrait.png\/revision\/latest?cb=20220525164441",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Alucard\/Alucard%20Valentines\/Alucard%20Valentines%20Backup.zip"
+    },
+    "Alucard_6": {
+        "hero_name": "Alucard",
+        "tag_name": "no",
+        "name": "Lightborn - Striker",
         "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/13\/Hero079-portrait.png\/revision\/latest?cb=20220920090132",
-        "background": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/13\/Hero079-portrait.png\/revision\/latest?cb=20220920090132",
-        "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Alucard\/Alucard%20Lightborn\/Alucard%20Lightborn%20Backup.zip"
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Alucard\/Alucard%20Lightborn\/Alucard%20Lightborn%20Backup.zip"
+    },
+    "Zilong_1": {
+        "hero_name": "Zilong",
+        "tag_name": "no",
+        "name": "Blazing Lancer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e9\/Hero165-portrait.png\/revision\/latest?cb=20220525164648",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/JhoweeMylab\/Fighter-Backup@main\/Zilong%20Backup.zip"
+    },
+    "Zilong_2": {
+        "hero_name": "Zilong",
+        "tag_name": "no",
+        "name": "Elite Warrior",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0e\/Hero162-portrait.png\/revision\/latest?cb=20220525164645",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/JhoweeMylab\/Fighter-Backup@main\/Zilong%20Backup.zip"
+    },
+    "Zilong_3": {
+        "hero_name": "Zilong",
+        "tag_name": "no",
+        "name": "Loyal Spear",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f1\/Hero168-portrait.png\/revision\/latest?cb=20220525164652",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/JhoweeMylab\/Fighter-Backup@main\/Zilong%20Backup.zip"
+    },
+    "Zilong_4": {
+        "hero_name": "Zilong",
+        "tag_name": "no",
+        "name": "Christmas Carnival - Zilong",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f2\/Hero167-portrait.png\/revision\/latest?cb=20220525164650",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/JhoweeMylab\/Fighter-Backup@main\/Zilong%20Backup.zip"
+    },
+    "Freya_1": {
+        "hero_name": "Freya",
+        "tag_name": "no",
+        "name": "Dark Rose",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/06\/Hero222-portrait.png\/revision\/latest?cb=20220525164801",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/freya%20backup.zip"
+    },
+    "Freya_2": {
+        "hero_name": "Freya",
+        "tag_name": "no",
+        "name": "Dragon Hunter",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/80\/Hero223-portrait.png\/revision\/latest?cb=20220525164802",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/freya%20backup.zip"
+    },
+    "Chou_1": {
+        "hero_name": "Chou",
+        "tag_name": "no",
+        "name": "King of Muay Thai",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/af\/Hero264-portrait.png\/revision\/latest?cb=20220525164852",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Chou\/Chou%20Elite\/Chou%20Elite%20Backup.zip"
+    },
+    "Chou_2": {
+        "hero_name": "Chou",
+        "tag_name": "no",
+        "name": "Dragon Boy",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/be\/Hero263-portrait.png\/revision\/latest?cb=20220525164851",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Chou\/Chou%20Luckybox\/Chou%20Luckybox%20Backup.zip"
+    },
+    "Chou_3": {
+        "hero_name": "Chou",
+        "tag_name": "no",
+        "name": "Hip-hop Boy",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/fa\/Hero262-portrait.png\/revision\/latest?cb=20220719071254",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Chou\/Chou%20Basic\/Chou%20Basic%20Backup.zip"
+    },
+    "Chou_4": {
+        "hero_name": "Chou",
+        "tag_name": "no",
+        "name": "Go Ballistic",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/73\/Hero267-portrait.png\/revision\/latest?cb=20220525164855",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Chou\/Chou%20Starlight\/Chou%20Starlight%20Backup.zip"
+    },
+    "Chou_5": {
+        "hero_name": "Chou",
+        "tag_name": "no",
+        "name": "S.T.U.N. Chou",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/68\/Hero269-portrait.png\/revision\/latest?cb=20220525164857",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Chou\/Chou%20S.T.U.N\/Chou%20STUN%20Backup.zip"
+    },
+    "Chou_6": {
+        "hero_name": "Chou",
+        "tag_name": "no",
+        "name": "Furious Tiger",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/26\/Hero265-portrait.png\/revision\/latest?cb=20220525164853",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Chou\/Chou%20Special\/Chou%20Special%20Backup.zip"
+    },
+    "Sun_1": {
+        "hero_name": "Sun",
+        "tag_name": "no",
+        "name": "Battle Buddha",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0a\/Hero272-portrait.png\/revision\/latest?cb=20240131101410",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/sun%20backup.zip"
+    },
+    "Sun_2": {
+        "hero_name": "Sun",
+        "tag_name": "no",
+        "name": "Street Legend",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c5\/Hero274-portrait.png\/revision\/latest?cb=20240121135455",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/sun%20backup.zip"
+    },
+    "Alpha_1": {
+        "hero_name": "Alpha",
+        "tag_name": "no",
+        "name": "Fierce Dragon",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/23\/Hero283-portrait.png\/revision\/latest?cb=20220525164920",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/june-2024@main\/alpha%20backup.zip"
+    },
+    "Alpha_2": {
+        "hero_name": "Alpha",
+        "tag_name": "no",
+        "name": "Sea Gladiator",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/79\/Hero284-portrait.png\/revision\/latest?cb=20220525164921",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/june-2024@main\/alpha%20backup.zip"
+    },
+    "Alpha_3": {
+        "hero_name": "Alpha",
+        "tag_name": "no",
+        "name": "Crimson Warrior",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a4\/Hero285-portrait.png\/revision\/latest?cb=20220525164922",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/june-2024@main\/alpha%20backup.zip"
+    },
+    "Alpha_4": {
+        "hero_name": "Alpha",
+        "tag_name": "no",
+        "name": "Star Enforcer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/40\/Hero287-portrait.png\/revision\/latest?cb=20230805043831",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/june-2024@main\/alpha%20backup.zip"
+    },
+    "Ruby_1": {
+        "hero_name": "Ruby",
+        "tag_name": "no",
+        "name": "Cat Girl",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8b\/Hero292-portrait.png\/revision\/latest?cb=20220525164933",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/ruby%20backup.zip"
+    },
+    "Ruby_2": {
+        "hero_name": "Ruby",
+        "tag_name": "no",
+        "name": "Hidden Orchid Butterfly",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/13\/Hero293-portrait.png\/revision\/latest?cb=20220525164934",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/ruby%20backup.zip"
+    },
+    "Ruby_3": {
+        "hero_name": "Ruby",
+        "tag_name": "no",
+        "name": "Edelweiss",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/32\/Hero294-portrait.png\/revision\/latest?cb=20220525164936",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/ruby%20backup.zip"
+    },
+    "Ruby_4": {
+        "hero_name": "Ruby",
+        "tag_name": "no",
+        "name": "Pirate Parrot",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/9e\/Hero296-portrait.png\/revision\/latest?cb=20220525164937",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/ruby%20backup.zip"
+    },
+    "Lapu-Lapu_1": {
+        "hero_name": "Lapu-Lapu",
+        "tag_name": "no",
+        "name": "Ancestral Blade",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/ad\/Hero372-portrait.png\/revision\/latest?cb=20220525165115",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lapu%20backup.zip"
+    },
+    "Lapu-Lapu_2": {
+        "hero_name": "Lapu-Lapu",
+        "tag_name": "no",
+        "name": "Imperial Champion",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ea\/Hero373-portrait.png\/revision\/latest?cb=20220525165116",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lapu%20backup.zip"
+    },
+    "Lapu-Lapu_3": {
+        "hero_name": "Lapu-Lapu",
+        "tag_name": "no",
+        "name": "Son of the Wild",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/75\/Hero376-portrait.png\/revision\/latest?cb=20230317102332",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/lapu%20backup.zip"
+    },
+    "Roger_1": {
+        "hero_name": "Roger",
+        "tag_name": "no",
+        "name": "Dark Gent",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a9\/Hero392-portrait.png\/revision\/latest?cb=20220525165131",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/roger%20backup.zip"
+    },
+    "Roger_2": {
+        "hero_name": "Roger",
+        "tag_name": "no",
+        "name": "Anubis",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/08\/Hero394-portrait.png\/revision\/latest?cb=20220525165133",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/roger%20backup.zip"
+    },
+    "Argus_1": {
+        "hero_name": "Argus",
+        "tag_name": "no",
+        "name": "Light of Dawn",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/4c\/Hero452-portrait.png\/revision\/latest?cb=20220525165229",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/june-2024@main\/argus%20backup.zip"
+    },
+    "Argus_2": {
+        "hero_name": "Argus",
+        "tag_name": "no",
+        "name": "Catastrophe",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/1e\/Hero454-portrait.png\/revision\/latest?cb=20220525165231",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/june-2024@main\/argus%20backup.zip"
+    },
+    "Argus_3": {
+        "hero_name": "Argus",
+        "tag_name": "no",
+        "name": "Winged Nightmare",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e3\/Hero457-portrait.png\/revision\/latest?cb=20221118130656",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/june-2024@main\/argus%20backup.zip"
+    },
+    "Argus_4": {
+        "hero_name": "Argus",
+        "tag_name": "no",
+        "name": "Dark Draconic",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e0\/Hero453-portrait.png\/revision\/latest?cb=20220525165230",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/june-2024@main\/argus%20backup.zip"
+    },
+    "Jawhead_1": {
+        "hero_name": "Jawhead",
+        "tag_name": "no",
+        "name": "Foo Quarterback",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/09\/Hero544-portrait.png\/revision\/latest?cb=20220525165414",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Jawhead\/Jawhead%20Elite\/Jawhead%20Elite%20Backup.zip"
+    },
+    "Jawhead_2": {
+        "hero_name": "Jawhead",
+        "tag_name": "no",
+        "name": "Girl Scout",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/5e\/Hero542-portrait.png\/revision\/latest?cb=20220525165412",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-H-I-J@main\/jawhead%20backup.zip"
+    },
+    "Jawhead_3": {
+        "hero_name": "Jawhead",
+        "tag_name": "no",
+        "name": "The Nutcracker",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/1d\/Hero545-portrait.png\/revision\/latest?cb=20220525165416",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/Maharlikoders\/Mobile-Legends-Script@main\/Jawhead\/Jawhead%20Special\/Jawhead%20Special%20Backup.zip"
+    },
+    "Martis_1": {
+        "hero_name": "Martis",
+        "tag_name": "no",
+        "name": "Tyrant",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7b\/Hero582-portrait.png\/revision\/latest?cb=20220525165506",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/martis%20backup.zip"
+    },
+    "Martis_2": {
+        "hero_name": "Martis",
+        "tag_name": "no",
+        "name": "Searing Maw",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/13\/Hero583-portrait.png\/revision\/latest?cb=20220525165507",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/martis%20backup.zip"
+    },
+    "Martis_3": {
+        "hero_name": "Martis",
+        "tag_name": "no",
+        "name": "Deathrock",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/eb\/Hero586-portrait.png\/revision\/latest?cb=20220525165510",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/martis%20backup.zip"
+    },
+    "Aldous_1": {
+        "hero_name": "Aldous",
+        "tag_name": "no",
+        "name": "Blazing Force",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/72\/Hero646-portrait.png\/revision\/latest?cb=20220525165623",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/zmaxph\/fighter@main\/aldous%20backup.zip"
+    },
+    "Aldous_2": {
+        "hero_name": "Aldous",
+        "tag_name": "no",
+        "name": "Death",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/9c\/Hero643-portrait.png\/revision\/latest?cb=20220525165620",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/zmaxph\/fighter@main\/aldous%20backup.zip"
+    },
+    "Aldous_3": {
+        "hero_name": "Aldous",
+        "tag_name": "no",
+        "name": "Red Mantle",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/38\/Hero642-portrait.png\/revision\/latest?cb=20220525165619",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/zmaxph\/fighter@main\/aldous%20backup.zip"
+    },
+    "Aldous_4": {
+        "hero_name": "Aldous",
+        "tag_name": "no",
+        "name": "The Insentient",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0e\/Hero644-portrait.png\/revision\/latest?cb=20220525165621",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/zmaxph\/fighter@main\/aldous%20backup.zip"
+    },
+    "Aldous_5": {
+        "hero_name": "Aldous",
+        "tag_name": "no",
+        "name": "King of Supermacy",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/96\/Hero645-portrait.png\/revision\/latest?cb=20220525165622",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/FIGHTER-SHIROTOOLS@main\/ALDOUS%20BACKUP.zip"
+    },
+    "Leomord_1": {
+        "hero_name": "Leomord",
+        "tag_name": "no",
+        "name": "Hell Knight",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f1\/Hero672-portrait.png\/revision\/latest?cb=20220628173711",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/leo%20backup.zip"
+    },
+    "Leomord_2": {
+        "hero_name": "Leomord",
+        "tag_name": "no",
+        "name": "Frostborn Paladin",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/34\/Hero673-portrait.png\/revision\/latest?cb=20220525165656",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/leo%20backup.zip"
+    },
+    "Leomord_3": {
+        "hero_name": "Leomord",
+        "tag_name": "no",
+        "name": "Jack-o'-lantern",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/83\/Hero676-portrait.png\/revision\/latest?cb=20220525165738",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/leo%20backup.zip"
+    },
+    "Thamuz_1": {
+        "hero_name": "Thamuz",
+        "tag_name": "no",
+        "name": "Lord of Wraith",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/bc\/Hero722-portrait.png\/revision\/latest?cb=20220525165748",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/thamuz%20backup.zip"
+    },
+    "Thamuz_2": {
+        "hero_name": "Thamuz",
+        "tag_name": "no",
+        "name": "Abyssal Reaper",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3f\/Hero724-portrait.png\/revision\/latest?cb=20220525165749",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/thamuz%20backup.zip"
+    },
+    "Thamuz_3": {
+        "hero_name": "Thamuz",
+        "tag_name": "no",
+        "name": "Liquid Fire",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3f\/Hero723-portrait.png\/revision\/latest?cb=20220525165749",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/thamuz%20backup.zip"
+    },
+    "Minsithar_1": {
+        "hero_name": "Minsithar",
+        "tag_name": "no",
+        "name": "King of War",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/54\/Hero742-portrait.png\/revision\/latest?cb=20230317100603",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/minsi%20backup.zip"
+    },
+    "Badang_1": {
+        "hero_name": "Badang",
+        "tag_name": "no",
+        "name": "Ironfist",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ea\/Hero772-portrait.png\/revision\/latest?cb=20220525165818",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/JhoweeMylab\/Fighter-Backup@main\/Badang%20Backup.zip"
+    },
+    "Badang_2": {
+        "hero_name": "Badang",
+        "tag_name": "no",
+        "name": "Susanoo",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/09\/Hero773-portrait.png\/revision\/latest?cb=20220525165819",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/JhoweeMylab\/Fighter-Backup@main\/Badang%20Backup.zip"
+    },
+    "Guinevere_1": {
+        "hero_name": "Guinevere",
+        "tag_name": "no",
+        "name": "Fleur de Bleau",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/83\/Hero802-portrait.png\/revision\/latest?cb=20220525165903",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/guin%20backup.zip"
+    },
+    "Guinevere_2": {
+        "hero_name": "Guinevere",
+        "tag_name": "no",
+        "name": "Lotus",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/cb\/Hero804-portrait.png\/revision\/latest?cb=20220525165909",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/guin%20backup.zip"
+    },
+    "Guinevere_3": {
+        "hero_name": "Guinevere",
+        "tag_name": "no",
+        "name": "Amethyst Dance",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3f\/Hero805-portrait.png\/revision\/latest?cb=20220525165913",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/guin%20backup.zip"
+    },
+    "Terizla_1": {
+        "hero_name": "Terizla",
+        "tag_name": "no",
+        "name": "Abyss Guard",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d1\/Hero822-portrait.png\/revision\/latest?cb=20220525165943",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/terizla%20backup.zip"
+    },
+    "X.Borg_1": {
+        "hero_name": "X.Borg",
+        "tag_name": "no",
+        "name": "Blue Storm",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/69\/Hero832-portrait.png\/revision\/latest?cb=20220525165957",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP2\/master\/backup%20xborg.zip"
+    },
+    "X.Borg_2": {
+        "hero_name": "X.Borg",
+        "tag_name": "no",
+        "name": "Moto Drifter",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/ac\/Hero833-portrait.png\/revision\/latest?cb=20220525165958",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/rahasia55\/AG-BACKUP2\/master\/backup%20xborg.zip"
+    },
+    "Dyrroth_1": {
+        "hero_name": "Dyrroth",
+        "tag_name": "no",
+        "name": "Scalebore",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/2c\/Hero852-portrait.png\/revision\/latest?cb=20220525170032",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/dyroth%20backup.zip"
+    },
+    "Dyrroth_2": {
+        "hero_name": "Dyrroth",
+        "tag_name": "no",
+        "name": "Ruins Scavenger",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a5\/Hero854-portrait.png\/revision\/latest?cb=20220525170034",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-C@main\/dyroth%20backup.zip"
+    },
+    "Dyrroth_3": {
+        "hero_name": "Dyrroth",
+        "tag_name": "no",
+        "name": "V.E.N.O.M Cobra",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/1b\/Hero856-portrait.png\/revision\/latest?cb=20220525170036",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/FIGHTER-SHIROTOOLS@main\/DYROTH%20BACKUP.zip"
+    },
+    "Masha_1": {
+        "hero_name": "Masha",
+        "tag_name": "no",
+        "name": "Winter Guard",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/14\/Hero882-portrait.png\/revision\/latest?cb=20220525170108",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/masha%20backup.zip"
+    },
+    "Masha_2": {
+        "hero_name": "Masha",
+        "tag_name": "no",
+        "name": "Spirited Gauntlet",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/bf\/Hero885-portrait.png\/revision\/latest?cb=20220525170111",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/masha%20backup.zip"
+    },
+    "Silvanna_1": {
+        "hero_name": "Silvanna",
+        "tag_name": "no",
+        "name": "Hallowed Lance",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/51\/Hero902-portrait.png\/revision\/latest?cb=20220525170143",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/silvana%20backup.zip"
+    },
+    "Silvanna_2": {
+        "hero_name": "Silvanna",
+        "tag_name": "no",
+        "name": "Future Cop",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/84\/Hero906-portrait.png\/revision\/latest?cb=20220525170147",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-R-S-T@main\/silvana%20backup.zip"
+    },
+    "Yu Zhong_1": {
+        "hero_name": "Yu Zhong",
+        "tag_name": "no",
+        "name": "Emerald Dragon",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/3e\/Hero952-portrait.png\/revision\/latest?cb=20220525170237",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-ad-ons@main\/yuzhong%20backup.zip"
+    },
+    "Yu Zhong_2": {
+        "hero_name": "Yu Zhong",
+        "tag_name": "no",
+        "name": "Biohazard",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/82\/Hero953-portrait.png\/revision\/latest?cb=20220525170238",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-ad-ons@main\/yuzhong%20backup.zip"
+    },
+    "Khaleed_1": {
+        "hero_name": "Khaleed",
+        "tag_name": "no",
+        "name": "Prince of Sand",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/5f\/Hero982-portrait.png\/revision\/latest?cb=20220525170301",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/khaleed%20backup.zip"
+    },
+    "Khaleed_2": {
+        "hero_name": "Khaleed",
+        "tag_name": "no",
+        "name": "Crescent Scimitar",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/99\/Hero983-portrait.png\/revision\/latest?cb=20220525170302",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-K-L-M@main\/khaleed%20backup.zip"
+    },
+    "Paquito_1": {
+        "hero_name": "Paquito",
+        "tag_name": "no",
+        "name": "Death Blow",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/68\/Hero1032-portrait.png\/revision\/latest?cb=20220525170358",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-N-O-P@main\/paquito%20backup.zip"
+    },
+    "Paquito_2": {
+        "hero_name": "Paquito",
+        "tag_name": "no",
+        "name": "Underground Boxer",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f9\/Hero1034-portrait.png\/revision\/latest?cb=20220525170359",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-N-O-P@main\/paquito%20backup.zip"
+    },
+    "Paquito_3": {
+        "hero_name": "Paquito",
+        "tag_name": "no",
+        "name": "Fist of Light",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/94\/Hero1036-portrait.png\/revision\/latest?cb=20221216103142",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-N-O-P@main\/paquito%20backup.zip"
+    },
+    "Paquito_4": {
+        "hero_name": "Paquito",
+        "tag_name": "no",
+        "name": "Fulgent Punch",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f9\/Hero1035-portrait.png\/revision\/latest?cb=20220525170401",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-N-O-P@main\/paquito%20backup.zip"
+    },
+    "Yin_1": {
+        "hero_name": "Yin",
+        "tag_name": "no",
+        "name": "M-World Yin",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e7\/Hero1133-portrait.png\/revision\/latest?cb=20220525170605",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-W-X-Y@main\/yin%20backup.zip"
+    },
+    "Yin_2": {
+        "hero_name": "Yin",
+        "tag_name": "no",
+        "name": "Fists of Valor",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a8\/Hero1132-portrait.png\/revision\/latest?cb=20240619154300",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-W-X-Y@main\/yin%20backup.zip"
+    },
+    "Yin_3": {
+        "hero_name": "Yin",
+        "tag_name": "no",
+        "name": "Eternal Guardian",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/34\/Hero1135-portrait.png\/revision\/latest?cb=20230623125844",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June2024-W-X-Y@main\/yin%20backup.zip"
+    },
+    "Fredrinn_1": {
+        "hero_name": "Fredrinn",
+        "tag_name": "no",
+        "name": "Regal Renegade",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/6a\/Hero1172-portrait.png\/revision\/latest?cb=20220807093441",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/fredrinn%20backup.zip"
+    },
+    "Fredrinn_2": {
+        "hero_name": "Fredrinn",
+        "tag_name": "no",
+        "name": "Jewel Connoisseur",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/9\/92\/Hero1173-portrait.png\/revision\/latest?cb=20221216103153",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/June-2024-E-F@main\/fredrinn%20backup.zip"
+    },
+    "Arlott_1": {
+        "hero_name": "Arlott",
+        "tag_name": "no",
+        "name": "Wandering Lance",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/db\/Hero1202-portrait.png\/revision\/latest?cb=20230208125754",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/missnapokita\/june-2024@main\/arlott%20backup.zip"
+    },
+    "Lukas_1": {
+        "hero_name": "Lukas",
+        "tag_name": "no",
+        "name": "Ardent Roar",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a0\/Hero1272-portrait.png\/revision\/latest?cb=20240922103748",
+        "background": "no",
+        "script": "https:\/\/cdn.jsdelivr.net\/gh\/azizboy2007\/ZongHubSCRIPT@main\/LUCAS%20BACKUP.zip"
+    },
+    "Alice_2": {
+        "hero_name": "Alice",
+        "tag_name": "no",
+        "name": "Steam Glider",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/4e\/Hero045-portrait.png\/revision\/latest?cb=20220525164352",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/Mexica23\/April_2026_3\/main\/alice_backup_sts.zip"
+    },
+    "Alice_3": {
+        "hero_name": "Alice",
+        "tag_name": "no",
+        "name": "Divine Owl",
+        "portrait": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/d6\/Hero044-portrait.png\/revision\/latest?cb=20220525164350",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/Mexica23\/April_2026_3\/main\/alice_backup_sts.zip"
+    },
+    "Julian_2": {
+        "hero_name": "Julian",
+        "tag_name": "no",
+        "name": "Meowkin Tracker",
+        "portrait": "https:\/\/cdn.jsdelivr.net\/gh\/Mexi23\/AugustUpdate@main\/cutout-1756031794.png",
+        "background": "no",
+        "script": "https:\/\/raw.githubusercontent.com\/Mexica23\/April_skins\/main\/julian_allBackuo.zip"
     }
 }
