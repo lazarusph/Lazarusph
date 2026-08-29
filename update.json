@@ -1,202 +1,210 @@
 {
-  "Argus_1": {
-    "hero_name": "Argus",
-    "skin_name": "Raiden Maru",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
-    "background": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/Argus_colT.jpg",
-    "script_link": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/argus_def_collectorT.zip",
+  "Paquito_1": {
+    "hero_name": "Paquito",
+    "skin_name": "Ryu",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/20260605_003718.png",
+    "script_link": "https://raw.githubusercontent.com/missnapokita/june26-image/main/paq%20street.zip",
     "tag_name": "NEW"
   },
-  "Balmond_1": {
-    "hero_name": "Balmond",
-    "skin_name": "Vulcan Lionheart",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20240602234350",
-    "background": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/Balmond_ColT.jpg",
-    "script_link": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/balmond_def_collectorT.zip",
+  "Guinevere_1": {
+    "hero_name": "Guinevere",
+    "skin_name": "Chun-Li",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/20260605_003820.png",
+    "script_link": "https://raw.githubusercontent.com/missnapokita/june26-image/main/guin%20chun.zip",
+    "tag_name": "NEW"
+  },
+  "Dyrroth_1": {
+    "hero_name": "Dyrroth",
+    "skin_name": "Guile",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/20260605_003847.png",
+    "script_link": "https://raw.githubusercontent.com/missnapokita/june26-image/main/dy%20street.zip",
+    "tag_name": "NEW"
+  },
+  "Chou_1": {
+    "hero_name": "Chou",
+    "skin_name": "Ken Masters",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/20260605_003749.png",
+    "script_link": "https://raw.githubusercontent.com/missnapokita/june26-image/main/chou%20ken.zip",
     "tag_name": "NEW"
   },
   "Helcurt_1": {
     "hero_name": "Helcurt",
     "skin_name": "Kaiju of the Deep",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20240502101747",
-    "background": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/HelcurtCol.jpg",
-    "script_link": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/helcurt_def_collector.zip",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/20260605_003639.png",
+    "script_link": "https://raw.githubusercontent.com/missnapokita/june26-image/main/hc%20collector.zip",
     "tag_name": "NEW"
   },
-  "Sun_1": {
-    "hero_name": "Sun",
-    "skin_name": "Celestial Rebel",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20240605114146",
-    "background": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/Sun_Colt.jpg",
-    "script_link": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/sun_def_collectorT.zip",
-    "tag_name": "NEW"
-  },
-  "Yi_Sun_Shin_1": {
-    "hero_name": "Yi Sun-Shin",
-    "skin_name": "Lone Destructor",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
-    "background": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
-    "script_link": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/yss_def_collector.zip",
-    "tag_name": "NEW"
-  },
-  "Chou_1": {
-    "hero_name": "Chou",
-    "skin_name": "Ken (outfit 1)",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
-    "background": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/chou_ken2.jpg",
-    "script_link": "https://raw.githubusercontent.com/Mexica23/june_2026/main/chou_def_ken1.zip",
-    "tag_name": "NEW"
-  },
-  "Chou_2": {
-    "hero_name": "Chou",
-    "skin_name": "Ken (outfit 2)",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
-    "background": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/chou_ken1.jpg",
-    "script_link": "https://raw.githubusercontent.com/Mexica23/june_2026/main/chou_def_ken2.zip",
-    "tag_name": "NEW"
-  },
-  "Guinevere_1": {
-    "hero_name": "Guinevere",
-    "skin_name": "Chun-li (outfit 1)",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113",
-    "background": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/guin_chun2.jpg",
-    "script_link": "https://raw.githubusercontent.com/Mexica23/june_2026/main/guin_def_chun.zip",
-    "tag_name": "NEW"
-  },
-  "Guinevere_2": {
-    "hero_name": "Guinevere",
-    "skin_name": "Chun-li (outfit 2)",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113",
-    "background": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/guin_chun1.jpg",
-    "script_link": "https://raw.githubusercontent.com/Mexica23/june_2026/main/guin_def_chun2.zip",
-    "tag_name": "NEW"
-  },
-  "Paquito_1": {
-    "hero_name": "Paquito",
-    "skin_name": "Ryu (outfit 1)",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
-    "background": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/paquito_ryu2.jpg",
-    "script_link": "https://raw.githubusercontent.com/Mexica23/june_2026/main/paquito_def_ryu1.zip",
-    "tag_name": "NEW"
-  },
-  "Paquito_2": {
-    "hero_name": "Paquito",
-    "skin_name": "Ryu (outfit 2)",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
-    "background": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/paquito_ryu1.jpg",
-    "script_link": "https://raw.githubusercontent.com/Mexica23/june_2026/main/paquito_def_ryu2.zip",
-    "tag_name": "NEW"
-  },
-  "Dyrroth_1": {
-    "hero_name": "Dyrroth",
-    "skin_name": "Guile (outfit 1)",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
-    "background": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/dyroth_guile2.jpg",
-    "script_link": "https://raw.githubusercontent.com/Mexica23/june_2026/main/dyroth_def_guile1.zip",
-    "tag_name": "NEW"
-  },
-  "Dyrroth_2": {
-    "hero_name": "Dyrroth",
-    "skin_name": "Guile (outfit 2)",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
-    "background": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/dyroth_guile1.jpg",
-    "script_link": "https://raw.githubusercontent.com/Mexica23/june_2026/main/dyroth_def_guile2.zip",
+  "Balmond_1": {
+    "hero_name": "Balmond",
+    "skin_name": "Vulcan Lionheart",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20240602234350",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/20260605_003231.png",
+    "script_link": "https://raw.githubusercontent.com/missnapokita/june26-image/main/balmond%20titans.zip",
     "tag_name": "NEW"
   },
   "Lesley_1": {
     "hero_name": "Lesley",
     "skin_name": "Angelic Agent",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png/revision/latest?cb=20240623134201",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/leslie.png",
-    "script_link": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/lesley_def_legend.zip",
+    "background": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/lesley_legendPort.png",
+    "script_link": "https://github.com/Mexica23/April_2026_3/raw/refs/heads/main/lesley_def_legend.zip",
     "tag_name": "NEW"
   },
   "Pharsa_1": {
     "hero_name": "Pharsa",
     "skin_name": "Seasworn",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png/revision/latest?cb=20240122082105",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/pharsa.png",
-    "script_link": "https://cdn.jsdelivr.net/gh/Mexica23/April_2026_3@main/pharsa_def_allstar.zip",
+    "background": "https://github.com/Mexica23/april_images/raw/refs/heads/main/pharsaAllPor.jpg",
+    "script_link": "https://github.com/Mexica23/April_2026_3/raw/refs/heads/main/pharsa_def_allstar.zip",
     "tag_name": "NEW"
   },
   "Alice_1": {
     "hero_name": "Alice",
-    "skin_name": "Dreaming Monarch",
+    "skin_name": "Draming Monarch",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20240605132522",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/alice.png",
-    "script_link": "https://raw.githubusercontent.com/Mexica23/April_2026_3/main/alice_def_collector.zip",
+    "background": "https://github.com/Mexica23/april_images/raw/refs/heads/main/AliceColPort.jpg",
+    "script_link": "https://github.com/Mexica23/April_2026_3/raw/refs/heads/main/alice_def_collector.zip",
     "tag_name": "NEW"
   },
   "Yu_Zhong_1": {
     "hero_name": "Yu Zhong",
     "skin_name": "Tidescale Sealord",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20240621033746",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/yuzhong.png",
-    "script_link": "https://cdn.jsdelivr.net/gh/Mexi23/April_2026@main/yuZhing_def_allstar.zip",
+    "background": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/YZPortrait.jpg",
+    "script_link": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yuZhing_def_allstar.zip",
     "tag_name": "NEW"
   },
   "Ling_1": {
     "hero_name": "Ling",
     "skin_name": "Phantom Current",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20240621034004",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/ling.png",
-    "script_link": "https://raw.githubusercontent.com/Mexi23/April_2026/main/ling_def_allstar.zip",
+    "background": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/LingPortrait.jpg",
+    "script_link": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/ling_def_allstar.zip",
     "tag_name": "NEW"
   },
   "Julian_1": {
     "hero_name": "Julian",
     "skin_name": "Itachi",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/julian.png",
-    "script_link": "https://cdn.jsdelivr.net/gh/Mexi23/others_2026@main/julian_itachi.zip",
+    "background": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/itachi_julian.jpg",
+    "script_link": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Skin/julian/julian%20itachi%20v2.zip",
     "tag_name": "NEW"
   },
   "Gusion_1": {
     "hero_name": "Gusion",
     "skin_name": "Minato",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20240611065025",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/gusion.png",
-    "script_link": "https://cdn.jsdelivr.net/gh/zetsuya05/assa_feb2026@main/gusion_minato.zip",
+    "background": "https://raw.githubusercontent.com/zetsuya05/january_2026/refs/heads/main/images%20(61).jpeg",
+    "script_link": "https://github.com/zetsuya05/assa_feb2026/raw/refs/heads/main/gusion_minato.zip",
     "tag_name": "NEW"
   },
   "Leomord_1": {
     "hero_name": "Leomord",
     "skin_name": "Auspicious Blaze",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/leomord.png",
-    "script_link": "https://cdn.jsdelivr.net/gh/Mexi23/others_2026@main/leomord_lunarfest.zip",
+    "background": "https://github.com/Mexi23/others_2026/raw/main/20260309_130459.jpg",
+    "script_link": "https://github.com/Mexi23/others_2026/raw/main/leomord_lunarfest.zip",
     "tag_name": "NEW"
   },
   "Grock_1": {
     "hero_name": "Grock",
     "skin_name": "Collector Titans",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero441-portrait.png/revision/latest?cb=20240501074233",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/grock.png",
-    "script_link": "https://raw.githubusercontent.com/Mexi23/others_2026/main/grock_collector.zip",
+    "background": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_123451.jpg",
+    "script_link": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/grock_collector.zip",
     "tag_name": "NEW"
   },
   "Lylia_1": {
     "hero_name": "Lylia",
     "skin_name": "Phantasmal Revelry",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png/revision/latest?cb=20220525170038",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/lylia.png",
-    "script_link": "https://cdn.jsdelivr.net/gh/Mexi23/others_2026@main/lylia_covenant.zip",
+    "background": "https://github.com/Mexi23/others_2026/raw/main/20260309_131018.jpg",
+    "script_link": "https://github.com/Mexi23/others_2026/raw/main/lylia_covenant.zip",
     "tag_name": "NEW"
   },
   "Eudora_1": {
     "hero_name": "Eudora",
     "skin_name": "Atomic Pop Eudora",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png/revision/latest?cb=20240605150035",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/eudora.png",
-    "script_link": "https://cdn.jsdelivr.net/gh/Mexi23/others_2026@main/eudora_covenant.zip",
+    "background": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_120503.jpg",
+    "script_link": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/eudora_covenant.zip",
     "tag_name": "NEW"
   },
   "Fanny_1": {
     "hero_name": "Fanny",
     "skin_name": "Galactic Starhawk",
     "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
-    "background": "https://cdn.jsdelivr.net/gh/Mexi23/New_added@main/fanny.png",
-    "script_link": "https://raw.githubusercontent.com/tin0521/January_2026/main/fanny_def_legend.zip",
+    "background": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny%20legend.jpg",
+    "script_link": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip",
+    "tag_name": "NEW"
+  },
+  "Zetian_1": {
+    "hero_name": "Zetian",
+    "skin_name": "Starlight",
+    "icon": "https://github.com/zetsuya05/january_2026/raw/main/Untitled.png",
+    "background": "https://github.com/Mexi23/others_2026/raw/main/20260309_133923.jpg",
+    "script_link": "https://github.com/Mexi23/others_2026/raw/main/zetia_starlight.zip",
+    "tag_name": "NEW"
+  },
+  "Lancelot_1": {
+    "hero_name": "Lancelot",
+    "skin_name": "Blade of Devotion",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243",
+    "background": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot%20valentine.jpg",
+    "script_link": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot_def_valentine.zip",
+    "tag_name": "NEW"
+  },
+  "Odette_1": {
+    "hero_name": "Odette",
+    "skin_name": "Song of Devotion",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233",
+    "background": "https://github.com/tin0521/January_2026/raw/refs/heads/main/odette%20valentines.jpg",
+    "script_link": "https://github.com/tin0521/January_2026/raw/refs/heads/main/odette_def_valen.zip",
+    "tag_name": "NEW"
+  },
+  "Benedetta_1": {
+    "hero_name": "Benedetta",
+    "skin_name": "Vessel of Pride",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
+    "background": "https://github.com/tin0521/January_2026/raw/refs/heads/main/benedetta%20soul.jpg",
+    "script_link": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Benedetta_def_soulVessel.zip",
+    "tag_name": "NEW"
+  },
+  "Miya_1": {
+    "hero_name": "Miya",
+    "skin_name": "Eternal Season - Miya",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20231231181124",
+    "background": "https://github.com/tin0521/January_2026/raw/main/miya%20ethernal.jpg",
+    "script_link": "https://github.com/tin0521/January_2026/raw/refs/heads/main/miya_def_eternal.zip",
+    "tag_name": "NEW"
+  },
+  "Floryn_1": {
+    "hero_name": "Floryn",
+    "skin_name": "Arrow of Spring",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20220525170535",
+    "background": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn%20ethernal.jpg",
+    "script_link": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn_def_eternal.zip",
+    "tag_name": "NEW"
+  },
+  "Clint_1": {
+    "hero_name": "Clint",
+    "skin_name": "Vessel of Ruin",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20240605133854",
+    "background": "https://github.com/tin0521/January_2026/raw/refs/heads/main/clint%20soul.jpg",
+    "script_link": "https://github.com/tin0521/January_2026/raw/refs/heads/main/clint_def_soul.zip",
+    "tag_name": "NEW"
+  },
+  "Cecilion_1": {
+    "hero_name": "Cecilion",
+    "skin_name": "Vessel of Gluttony",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest?cb=20220525171232",
+    "background": "https://github.com/tin0521/January_2026/raw/refs/heads/main/cecilion%20soul.jpg",
+    "script_link": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Ceciliom_Def_SoulVessel.zip",
     "tag_name": "NEW"
   }
 }
