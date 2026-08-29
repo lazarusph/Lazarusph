@@ -1,217 +1,355 @@
 {
   "1": {
     "hero_name": "Saber",
-    "portrait_icon": "https:\/\/github.com\/Mexi23\/JCGameUtility\/raw\/refs\/heads\/main\/Saber_Default_image.png",
-    "script": "https:\/\/github.com\/missnapokita\/June2024-R-S-T\/raw\/main\/saber%20backup.zip",
+    "portrait_icon": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/Saber_Default_image.png",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/Saber_Default_image.png"
   },
   "2": {
     "hero_name": "Karina",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/41\/Hero081-portrait.png\/revision\/latest?cb=20240605133151",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Karina\/Karina%20Default\/Karina%20Backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20240605133151",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20240605133151"
   },
   "3": {
     "hero_name": "Fanny",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero171-portrait.png\/revision\/latest?cb=20240605151224",
-    "script": "https:\/\/github.com\/zetsuya05\/others_2026\/raw\/main\/fanny_aspirant.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
+    "script": "https://github.com/zetsuya05/others_2026/raw/main/fanny_aspirant.zip",
     "role": "Assassin",
     "lane": "Jungle Lane",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7f\/Hero171-portrait.png\/revision\/latest?cb=20240605151224"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224"
   },
   "4": {
     "hero_name": "Hayabusa",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/3\/35\/Hero211-portrait.png\/revision\/latest?cb=20220525170632",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Hayabusa\/Hayabusa%20Default\/Hayabusa%20Backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20220525170632",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hayabusa/Hayabusa%20Default/Hayabusa%20Backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20220525170632"
   },
   "5": {
     "hero_name": "Natalia",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/68\/Hero241-portrait.png\/revision\/latest?cb=20240121131843",
-    "script": "https:\/\/github.com\/missnapokita\/June2024-N-O-P\/raw\/main\/nata%20backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest?cb=20240121131843",
+    "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/nata%20backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest?cb=20240121131843"
   },
   "6": {
     "hero_name": "Yi Sun-Shin",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/29\/Hero301-portrait.png\/revision\/latest?cb=20220525171302",
-    "script": "https:\/\/github.com\/missnapokita\/June2024-W-X-Y\/raw\/main\/yss%20backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
+    "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302"
   },
   "7": {
     "hero_name": "Harley",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/81\/Hero421-portrait.png\/revision\/latest?cb=20231231170336",
-    "script": "https:\/\/github.com\/missnapokita\/June2024-H-I-J\/raw\/main\/harley%20backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20231231170336",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20231231170336"
   },
   "8": {
     "hero_name": "Lancelot",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/d\/df\/Hero471-portrait.png\/revision\/latest?cb=20240501053243",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Lancelot\/Lancelot%20Default\/Lancelot%20Backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243"
   },
   "9": {
     "hero_name": "Helcurt",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/ac\/Hero511-portrait.png\/revision\/latest?cb=20240502101747",
-    "script": "https:\/\/github.com\/missnapokita\/June2024-H-I-J\/raw\/main\/helcurt%20backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20240502101747",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/helcurt%20backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20240502101747"
   },
   "10": {
     "hero_name": "Gusion",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a2\/Hero561-portrait.png\/revision\/latest?cb=20240611065025",
-    "script": "https:\/\/github.com\/missnapokita\/June-2024-E-F\/raw\/main\/gusion%20backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20240611065025",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20240611065025"
   },
   "11": {
     "hero_name": "Selena",
     "lane": "Jungle Lane",
     "role": "Assassin",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a4\/Hero631-portrait.png\/revision\/latest?cb=20240122041957",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/a4\/Hero631-portrait.png\/revision\/latest?cb=20240122041957",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Selena\/Selena%20Default\/Selena%20Backup.zip"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20240122041957",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20240122041957",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Backup.zip"
   },
   "12": {
     "hero_name": "Hanzo",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/f8\/Hero691-portrait.png\/revision\/latest?cb=20240112141926",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Hanzo\/Hanzo%20Default\/Hanzo%20Backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20240112141926",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hanzo/Hanzo%20Default/Hanzo%20Backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20240112141926"
   },
   "13": {
     "hero_name": "Ling",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/e0\/Hero841-portrait.png\/revision\/latest?cb=20240621034004",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Ling\/Ling%20Default\/Ling%20Backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20240621034004",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Ling/Ling%20Default/Ling%20Backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20240621034004"
   },
   "14": {
     "hero_name": "Benedetta",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/1\/1d\/Hero971-portrait.png\/revision\/latest?cb=20240611063830",
-    "script": "https:\/\/github.com\/tin0521\/assn\/raw\/refs\/heads\/main\/benedetta_backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830"
   },
   "15": {
     "hero_name": "Aamon",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c8\/Hero1091-portrait.png\/revision\/latest?cb=20220525171725",
-    "script": "https:\/\/github.com\/tin0521\/assn\/raw\/refs\/heads\/main\/aamon_backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725"
   },
   "16": {
     "hero_name": "Julian",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/0c\/Hero1161-portrait.png\/revision\/latest?cb=20220525170638",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Julian\/Julian%20Default\/Julian%20Backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Julian/Julian%20Default/Julian%20Backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638"
   },
   "17": {
     "hero_name": "Joy",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/fb\/Hero1181-portrait.png\/revision\/latest?cb=20240501100807",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Joy\/Joy%20Default\/Joy%20Backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20240501100807",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Joy/Joy%20Default/Joy%20Backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20240501100807"
   },
   "18": {
     "hero_name": "Nolan",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/f\/fc\/Hero1221-portrait.png\/revision\/latest?cb=20231224180931",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb=20231224180931",
     "script": "",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb=20231224180931"
   },
   "19": {
     "hero_name": "Suyou",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/41\/Hero1261-portrait.png\/revision\/latest?cb=20241021140902",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb=20241021140902",
     "script": "",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb=20241021140902"
   },
   "20": {
     "hero_name": "Balmond",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/c\/c4\/Hero021-portrait.png\/revision\/latest?cb=20240602234350",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Balmond\/Balmond%20Default\/Balmond%20Backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20240602234350",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Balmond/Balmond%20Default/Balmond%20Backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20240602234350"
   },
   "21": {
     "hero_name": "Alucard",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero071-portrait.png\/revision\/latest?cb=20240605132947",
-    "script": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero071-portrait.png\/revision\/latest?cb=20240605132947",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+    "script": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
     "role": "Fighter",
     "lane": "Mid Lane",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/0\/01\/Hero071-portrait.png\/revision\/latest?cb=20240605132947"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947"
   },
   "22": {
     "hero_name": "Bane",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/8d\/Hero111-portrait.png\/revision\/latest?cb=20240605133609",
-    "script": "https:\/\/github.com\/JhoweeMylab\/Fighter-Backup\/raw\/main\/Bane%20Backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20240605133609",
+    "script": "https://github.com/JhoweeMylab/Fighter-Backup/raw/main/Bane%20Backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20240605133609"
   },
   "23": {
     "hero_name": "Zilong",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/7\/7a\/Hero161-portrait.png\/revision\/latest?cb=20240602234915",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Zilong\/Zilong%20Default\/Zilong%20Backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20240602234915",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Zilong/Zilong%20Default/Zilong%20Backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20240602234915"
   },
   "24": {
     "hero_name": "Freya",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/5\/54\/Hero221-portrait.png\/revision\/latest?cb=20231230160944",
-    "script": "https:\/\/github.com\/missnapokita\/June-2024-E-F\/raw\/main\/freya%20backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20231230160944",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/freya%20backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20231230160944"
   },
   "25": {
     "hero_name": "Chou",
     "lane": "Roam Lane",
     "role": "Fighter",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Chou\/Chou%20Default\/Chou%20Backup.zip"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Default/Chou%20Backup.zip"
   },
   "26": {
     "hero_name": "Sun",
-    "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/89\/Hero271-portrait.png\/revision\/latest?cb=20240605114146",
-    "script": "https:\/\/github.com\/Maharlikoders\/Mobile-Legends-Script\/raw\/main\/Sun\/Sun%20Default\/Sun%20Backup.zip",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20240605114146",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Sun/Sun%20Default/Sun%20Backup.zip",
     "role": "no",
     "lane": "no",
-    "head_icon": "no"
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20240605114146"
   },
   "27": {
     "hero_name": "Alpha",
     "lane": "Exp Lane",
     "role": "Fighter",
-    "head_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b0\/Hero281-portrait.png\/revision\/latest?cb=20240517115107",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
+    "script": "Alpha"
+  },
+  "28": {
+    "hero_name": "Ruby",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20240612224841",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/refs/heads/main/Ruby/Ruby%20Default/Ruby%20Backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20240612224841"
+  },
+  "29": {
+    "hero_name": "Hilda",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20240112140916",
+    "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/hilda%20backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20240112140916"
+  },
+  "30": {
+    "hero_name": "Lapu-Lapu",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lapu%20backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107"
+  },
+  "31": {
+    "hero_name": "Roger",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20220525165125",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/roger%20backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20220525165125"
+  },
+  "32": {
+    "hero_name": "Argus",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Argus/Argus%20Default/Argus%20Backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226"
+  },
+  "33": {
+    "hero_name": "Jawhead",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20240501074636",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Jawhead/Jawhead%20Default/Jawhead%20Backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20240501074636"
+  },
+  "34": {
+    "hero_name": "Aldous",
+    "lane": "Exp Lane",
+    "role": "Fighter",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20240501075708",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20240501075708",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Aldous/Aldous%20Default/Aldous%20Backup.zip"
+  },
+  "35": {
+    "hero_name": "Leomord",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Leomord/Leomord%20Default/Leomord%20Backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702"
+  },
+  "36": {
+    "hero_name": "Thamuz",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/thamuz%20backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744"
+  },
+  "37": {
+    "hero_name": "Minsitthar",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/minsi%20backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559"
+  },
+  "38": {
+    "hero_name": "Badang",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Badang/Badang%20Default/Badang%20Backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815"
+  },
+  "39": {
+    "hero_name": "Guinevere",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/guin%20backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113"
+  },
+  "40": {
+    "hero_name": "Dyrroth",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052"
+  },
+  "41": {
+    "hero_name": "Masha",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/masha%20backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858"
+  },
+  "42": {
+    "hero_name": "Silvanna",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/silvana%20backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133"
+  },
+  "43": {
+    "hero_name": "Yu Zhong",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20240621033746",
+    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Yu%20Zhong/Yu%20Zhong%20Default/Yu%20Zhong%20Backup.zip",
+    "role": "no",
+    "lane": "no",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20240621033746"
+  },
+  "44": {
+    "hero_name": "Khaleed",
+    "lane": "Exp Lane",
+    "role": "Fighter",
+    "head_icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png/revision/latest?cb=20220525170258",
+    "portrait_icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png/revision/latest?cb=20220525170258",
+    "scriptortrait.png\/revision\/latest?cb=20240517115107",
     "portrait_icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/b\/b0\/Hero281-portrait.png\/revision\/latest?cb=20240517115107",
     "script": "Alpha"
   },
