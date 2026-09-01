@@ -1,6 +1,6 @@
 {
   "features": {
-    "skins_enabled": true,
+    "skins_enabled": false,
     "recalls_enabled": true,
     "emotes_enabled": false,
     "trails_enabled": true
