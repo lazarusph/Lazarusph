@@ -16,7 +16,7 @@
   "recalls": [
     {
       "name": "Fire Crown",
-      "enabled": false,
+      "enabled": true,
       "disabled_message": "Under maintenance"
     }
   ],
@@ -24,7 +24,7 @@
   "emotes": [
     {
       "name": "Special Emote",
-      "enabled": false
+      "enabled": true
     }
   ],
 
