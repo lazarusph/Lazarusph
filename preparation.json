@@ -1,7 +1,7 @@
 {
   "Recall": {
     "1": {
-      "name": "Backup",
+      "name": "Original",
       "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Classic_Recall_Effect.png/revision/latest/scale-to-width-down/100?cb=20211204090007",
       "script": "https://github.com/Maharlikoders/Preparation/raw/main/Recalls/Replacement%20to%20Classic%20Recall/Classic%20Recall%20Backup.zip"
     },
@@ -154,7 +154,7 @@
   "Emote": {
     "1": {
       "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Genius%21.png/revision/latest/scale-to-width-down/100?cb=20220118062722",
-      "name": "Backup",
+      "name": "Original",
       "script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip"
     },
     "2": {
@@ -200,7 +200,7 @@
   },
   "Eliminations": {
     "1": {
-      "name": "Backup",
+      "name": "Original",
       "image": "https://i.imgur.com/x9jMkVq.png",
       "script": "https://github.com/missnapokita/2024-eli/raw/main/eli%20backup.zip"
     },
@@ -257,7 +257,7 @@
   },
   "Notification": {
     "1": {
-      "name": "Backup",
+      "name": "Original",
       "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Classic_Notification.png",
       "script": "https://github.com/lanz132/NOTIFICATION/raw/main/1.zip"
     },
@@ -289,7 +289,7 @@
   },
   "Trail": {
     "1": {
-      "name": "Backup",
+      "name": "Original",
       "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Classic_Trail_Effect.png",
       "script": "https://github.com/lanz132/TRAIL-EFFECTS/raw/main/0.zip"
     },
