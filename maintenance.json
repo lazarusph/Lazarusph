@@ -1,0 +1,37 @@
+{
+  "features": {
+    "skins_enabled": true,
+    "recalls_enabled": true,
+    "emotes_enabled": false,
+    "trails_enabled": true
+  },
+
+  "skins": [
+    {
+      "name": "Minato",
+      "enabled": true
+    }
+  ],
+
+  "recalls": [
+    {
+      "name": "Fire Crown",
+      "enabled": false,
+      "disabled_message": "Under maintenance"
+    }
+  ],
+
+  "emotes": [
+    {
+      "name": "Special Emote",
+      "enabled": false
+    }
+  ],
+
+  "trails": [
+    {
+      "name": "Blue Trail",
+      "enabled": true
+    }
+  ]
+}
