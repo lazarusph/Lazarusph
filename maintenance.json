@@ -1,4 +1,9 @@
 {
+"ads_enabled": false,
+"interstitial_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/INTERSTITIAL_ID",
+"app_open_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/APP_OPEN_ID",
+"banner_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/BANNER_ID"
+  
   "features": {
     "skins_enabled": true,
     "recalls_enabled": true,
