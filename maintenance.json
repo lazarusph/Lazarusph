@@ -1,8 +1,9 @@
 {
 "ads_enabled": true,
+"ads_test_mode": true,
 "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
-"app_open_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/APP_OPEN_ID",
-"banner_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/BANNER_ID"
+"app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+"banner_ad_unit_id": "ca-app-pub-3940256099942544/9214589741"
   
   "features": {
     "skins_enabled": true,
