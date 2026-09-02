@@ -1,43 +1,13 @@
-{
-"ads_enabled": true,
-"ads_test_mode": true,
-"interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
-"app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
-"banner_ad_unit_id": "ca-app-pub-3940256099942544/9214589741"
-  
-  "features": {
-    "skins_enabled": true,
-    "recalls_enabled": true,
-    "emotes_enabled": true,
-    "trails_enabled": false
-  },
+"features": {
+  "skins_enabled": true,
+  "recalls_enabled": true,
+  "emotes_enabled": true,
+  "trails_enabled": true,
 
-  "skins": [
-    {
-      "name": "Minato",
-      "enabled": true
-    }
-  ],
+  "ads_enabled": true,
+  "ads_test_mode": true,
 
-  "recalls": [
-    {
-      "name": "Fire Crown",
-      "enabled": true,
-      "disabled_message": "Under maintenance"
-    }
-  ],
-
-  "emotes": [
-    {
-      "name": "Special Emote",
-      "enabled": true
-    }
-  ],
-
-  "trails": [
-    {
-      "name": "Blue Trail",
-      "enabled": true
-    }
-  ]
+  "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+  "app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+  "banner_ad_unit_id": "ca-app-pub-3940256099942544/9214589741"
 }
