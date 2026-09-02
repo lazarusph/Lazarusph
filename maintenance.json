@@ -2,7 +2,7 @@
   "skins_enabled": true,
   "recalls_enabled": true,
   "emotes_enabled": true,
-  "trails_enabled": true,
+  "trails_enabled": false,
 
   "ads_enabled": true,
   "ads_test_mode": true,
