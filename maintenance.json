@@ -1,9 +1,9 @@
 {
   "features": {
     "skins_enabled": true,
-    "recalls_enabled": false,
+    "recalls_enabled": true,
     "emotes_enabled": true,
-    "trails_enabled": false,
+    "trails_enabled": true,
 
     "ads_enabled": true,
     "ads_test_mode": false,
