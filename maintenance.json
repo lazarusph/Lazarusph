@@ -6,9 +6,9 @@
     "trails_enabled": true,
 
     "ads_enabled": true,
-    "ads_test_mode": true,
+    "ads_test_mode": false,
 
-    "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial_ad_unit_id": "ca-app-pub-3776471213540155/9971133984",
     "app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
     "banner_ad_unit_id": "ca-app-pub-3940256099942544/9214589741"
   }
