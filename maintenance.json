@@ -2,10 +2,10 @@
   "features": {
     "skins_enabled": true,
     "recalls_enabled": true,
-    "emotes_enabled": false,
+    "emotes_enabled": true,
     "trails_enabled": true,
 
-    "ads_enabled": true,
+    "ads_enabled": false,
     "ads_test_mode": true,
 
     "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
