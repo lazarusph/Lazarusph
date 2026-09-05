@@ -1,42 +1,42 @@
 {
-  "Paquito_1": {
-    "hero_name": "Sun",
-    "skin_name": "Celestial Rebel",
-    "icon": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/Sun_Colt.jpg",
-    "background": "https://github.com/lazarusph/Img/raw/refs/heads/main/FB_IMG_1788591469634.jpg",
-    "script_link": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/sun_def_collectorT.zip",
-    "tag_name": "NEW"
-  },
-  "Guinevere_1": {
-    "hero_name": "Guinevere",
-    "skin_name": "Chun-Li",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113",
-    "background": "https://github.com/lazarusph/Img/raw/refs/heads/main/FB_IMG_1788005620847.jpg",
-    "script_link": "https://raw.githubusercontent.com/missnapokita/june26-image/main/guin%20chun.zip",
-    "tag_name": "NEW"
-  },
-  "Dyrroth_1": {
-    "hero_name": "Dyrroth",
-    "skin_name": "Guile",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
-    "background": "https://github.com/lazarusph/Img/raw/refs/heads/main/FB_IMG_1788005728862.jpg",
-    "script_link": "https://raw.githubusercontent.com/missnapokita/june26-image/main/dy%20street.zip",
-    "tag_name": "NEW"
-  },
-  "Chou_1": {
-    "hero_name": "Chou",
-    "skin_name": "Ken Masters",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
-    "background": "https://github.com/lazarusph/Img/raw/refs/heads/main/chou_ken_mlbb_sf6_splash_art_by_dsfsdfsdfew134_dm4zqc7-pre.jpg",
-    "script_link": "https://raw.githubusercontent.com/missnapokita/june26-image/main/chou%20ken.zip",
-    "tag_name": "NEW"
-  },
-  "Helcurt_1": {
-    "hero_name": "Helcurt",
-    "skin_name": "Kaiju of the Deep",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20240502101747",
-    "background": "https://github.com/lazarusph/Img/raw/refs/heads/main/helcurt_kaiju_of_the_deep_collector_render_png_by_wolvesdzn_djun07w-pre.png",
-    "script_link": "https://raw.githubusercontent.com/missnapokita/june26-image/main/hc%20collector.zip",
-    "tag_name": "NEW"
-  }
+    "Paquito_1": {
+        "hero_name": "Sun",
+        "skin_name": "Celestial Rebel",
+        "icon": "https:\/\/github.com\/Mexi23\/Aug_2026\/raw\/refs\/heads\/main\/Sun_Colt.jpg",
+        "background": "https:\/\/github.com\/lazarusph\/Img\/raw\/refs\/heads\/main\/FB_IMG_1788591469634.jpg",
+        "script_link": "https:\/\/github.com\/Mexi23\/Aug_2026\/raw\/refs\/heads\/main\/sun_def_collectorT.zip",
+        "tag_name": "NEW"
+    },
+    "Guinevere_1": {
+        "hero_name": "Guinevere",
+        "skin_name": "Chun-Li",
+        "icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/88\/Hero801-portrait.png\/revision\/latest?cb=20240121140113",
+        "background": "https:\/\/github.com\/lazarusph\/Img\/raw\/refs\/heads\/main\/FB_IMG_1788005620847.jpg",
+        "script_link": "https:\/\/raw.githubusercontent.com\/missnapokita\/june26-image\/main\/guin%20chun.zip",
+        "tag_name": "NEW"
+    },
+    "Dyrroth_1": {
+        "hero_name": "Dyrroth",
+        "skin_name": "Guile",
+        "icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/2\/2c\/Hero851-portrait.png\/revision\/latest?cb=20240111124052",
+        "background": "https:\/\/github.com\/lazarusph\/Img\/raw\/refs\/heads\/main\/FB_IMG_1788005728862.jpg",
+        "script_link": "https:\/\/raw.githubusercontent.com\/missnapokita\/june26-image\/main\/dy%20street.zip",
+        "tag_name": "NEW"
+    },
+    "Chou_1": {
+        "hero_name": "Chou",
+        "skin_name": "Ken Masters",
+        "icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/ed\/Hero261-portrait.png\/revision\/latest?cb=20220525164846",
+        "background": "https:\/\/github.com\/lazarusph\/Img\/raw\/refs\/heads\/main\/chou_ken_mlbb_sf6_splash_art_by_dsfsdfsdfew134_dm4zqc7-pre.jpg",
+        "script_link": "https:\/\/raw.githubusercontent.com\/missnapokita\/june26-image\/main\/chou%20ken.zip",
+        "tag_name": "NEW"
+    },
+    "Helcurt_1": {
+        "hero_name": "Helcurt",
+        "skin_name": "Kaiju of the Deep",
+        "icon": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/a\/ac\/Hero511-portrait.png\/revision\/latest?cb=20240502101747",
+        "background": "https:\/\/github.com\/lazarusph\/Img\/raw\/refs\/heads\/main\/IMG_20260905_150234.jpg",
+        "script_link": "https:\/\/raw.githubusercontent.com\/missnapokita\/june26-image\/main\/hc%20collector.zip",
+        "tag_name": "Collector"
+    }
 }
