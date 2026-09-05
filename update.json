@@ -1,10 +1,10 @@
 {
   "Paquito_1": {
-    "hero_name": "Paquito",
-    "skin_name": "Ryu",
-    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
-    "background": "https://github.com/lazarusph/Img/raw/refs/heads/main/FB_IMG_1788005695686.jpg",
-    "script_link": "https://raw.githubusercontent.com/missnapokita/june26-image/main/paq%20street.zip",
+    "hero_name": "Sun",
+    "skin_name": "Celestial Rebel",
+    "icon": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/Sun_Colt.jpg",
+    "background": "https://github.com/lazarusph/Img/raw/refs/heads/main/FB_IMG_1788591469634.jpg",
+    "script_link": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/sun_def_collectorT.zip",
     "tag_name": "NEW"
   },
   "Guinevere_1": {
