@@ -1,12 +1,12 @@
 {
   "features": {
-    "skins_enabled": false,
-    "recalls_enabled": false,
-    "emotes_enabled": false,
-    "trails_enabled": false,
+    "skins_enabled": true,
+    "recalls_enabled": true,
+    "emotes_enabled": true,
+    "trails_enabled": true,
 
     "ads_enabled": true,
-    "ads_test_mode": false,
+    "ads_test_mode": true,
 
     "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
