@@ -7,8 +7,8 @@
 
     "ads_enabled": true,
     "ads_test_mode": true,
-    "rewarded_ads_enabled": true,
-"interstitial_ads_enabled": false,
+    "rewarded_ads_enabled": false,
+"interstitial_ads_enabled": true,
 
     "interstitial_ad_unit_id": "ca-app-pub-3776471213540155/9971133984",
     "app_open_ad_unit_id": "ca-app-pub-3776471213540155/2372061167",
