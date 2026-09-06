@@ -6,13 +6,18 @@
     "trails_enabled": true,
 
     "ads_enabled": true,
-    "ads_test_mode": false,
+    "ads_test_mode": true,
     "rewarded_ads_enabled": true,
 "interstitial_ads_enabled": false,
 
     "interstitial_ad_unit_id": "ca-app-pub-3776471213540155/9971133984",
+    "app_open_ad_unit_id": "ca-app-pub-3776471213540155/2372061167",
+    "banner_ad_unit_id": "ca-app-pub-3776471213540155/3932554840",
+    "rewarded_ad_unit_id": "ca-app-pub-3776471213540155/9038271788",
+
+    "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
-    "banner_ad_unit_id": "ca-app-pub-3940256099942544/9214589741",
-    "rewarded_ad_unit_id": "ca-app-pub-3776471213540155/9038271788"
+    "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917"
   }
 }
