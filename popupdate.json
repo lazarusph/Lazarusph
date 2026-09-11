@@ -1,5 +1,5 @@
 {
-  "show_update_dialog": true,
+  "show_update_dialog": false,
   "show_play_store_update": false,
   "cancellable": true,
   "latest_version_code": 2,
