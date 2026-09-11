@@ -1,7 +1,7 @@
 {
   "show_update_dialog": true,
   "show_play_store_update": false,
-  "cancellable": true,
+  "cancellable": false,
   "latest_version_code": 1,
   "latest_version_name": "1.1",
   "title": "Update Released",
