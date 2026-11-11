@@ -6,7 +6,7 @@
     "trails_enabled": true,
 
     "ads_enabled": true,
-    "ads_test_mode": true,
+    "ads_test_mode": false,
     "rewarded_ads_enabled": true,
 "interstitial_ads_enabled": false,
 
