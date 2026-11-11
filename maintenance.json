@@ -5,9 +5,9 @@
     "emotes_enabled": true,
     "trails_enabled": true,
 
-    "ads_enabled": false,
+    "ads_enabled": true,
     "ads_test_mode": true,
-    "rewarded_ads_enabled": true,
+    "rewarded_ads_enabled": false,
 "interstitial_ads_enabled": false,
 
     "interstitial_ad_unit_id": "ca-app-pub-3776471213540155/9971133984",
