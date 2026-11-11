@@ -5,8 +5,8 @@
     "emotes_enabled": true,
     "trails_enabled": true,
 
-    "ads_enabled": true,
-    "ads_test_mode": false,
+    "ads_enabled": false,
+    "ads_test_mode": true,
     "rewarded_ads_enabled": true,
 "interstitial_ads_enabled": false,
 
