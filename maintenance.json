@@ -1,11 +1,11 @@
 {
   "features": {
-    "skins_enabled": false,
-    "recalls_enabled": false,
-    "emotes_enabled": false,
-    "trails_enabled": false,
+    "skins_enabled": true,
+    "recalls_enabled": true,
+    "emotes_enabled": true,
+    "trails_enabled": true,
 
-    "ads_enabled": false,
+    "ads_enabled": true,
     "ads_test_mode": false,
     "rewarded_ads_enabled": false,
 "interstitial_ads_enabled": true,
