@@ -1,0 +1,1977 @@
+[
+  {
+    "hero_name": "Phoveus",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143231",
+    "name": "Phoveus",
+    "script": "https://github.com/tin0521/ff/raw/main/phoveus_backup.zip",
+    "featured": false,
+    "targets": [
+      {
+        "hero_name": "Phoveus",
+        "skin_name": "Jiraya",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/phov%20jiraya.png",
+        "name": "",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/phov%20jiraya.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "skin_name": "Ace",
+        "image": "https://images8.alphacoders.com/872/thumb-1920-872837.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/064ba4ee-mvbynylf-1-ywo5u-ace-x-phov.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Phoveus"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "hero_name": "Martis",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
+    "name": "Martis",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/martis_backup.zip",
+    "featured": false,
+    "targets": [
+      {
+        "hero_name": "Martis",
+        "skin_name": "Inosuke",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/images%20(11).jpeg",
+        "name": "Martis",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/martis%20inosuke%20v2.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "skin_name": "Allain",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/martis.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/martis%20allain.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Martis"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "hero_name": "Paquito",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
+    "name": "Paquito",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/pacquito_backup.zip",
+    "featured": false,
+    "targets": [
+      {
+        "hero_name": "Paquito",
+        "skin_name": "Yuji",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/paquito%20yuji%20hok.png",
+        "name": "Paquito",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/paquito%20yuji%20hok.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "name": "Paquito",
+        "skin_name": "Jollibee",
+        "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/10300001.jpg",
+        "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/103/10300001.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "skin_name": "CJ",
+        "image": "https://i.pinimg.com/474x/c2/d8/75/c2d8751cd9e4cc8fd8ac9ff3cc35d6e2.jpg",
+        "name": "Paquito",
+        "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/paquito%20cj.zip",
+        "hero_name": "",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "skin_name": "Naruto",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101452",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/paquito%20naruto.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Paquito"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "hero_name": "Nana",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png/revision/latest?cb=20240602234727",
+    "name": "Nana",
+    "script": "https://github.com/tin0521/supp/raw/main/nana_backup.zip",
+    "featured": false,
+    "targets": [
+      {
+        "hero_name": "Nana",
+        "skin_name": "Anya",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/nana%20anya.png",
+        "name": "",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/nana%20anya.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "skin_name": "Xiao-Xiao",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/nana.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/nana%20xiao.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Nana"
+      },
+      {
+        "skin_name": "Aspirants",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/img/nana%20aspi.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/nana%20aspi.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Nana"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "hero_name": "Hilda",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20240112140916",
+    "name": "Hilda",
+    "script": "https://github.com/tin0521/tnk/raw/main/hilda_backup.zip",
+    "featured": false,
+    "targets": [
+      {
+        "hero_name": "Hilda",
+        "skin_name": "Kushina",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/hilda%20kushina.png",
+        "name": "",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/hilda%20kushina.zip",
+        "featured": false,
+        "enabled": true
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "hero_name": "Estes",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20240501095928",
+    "name": "Estes",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_backup.zip",
+    "featured": false,
+    "targets": [
+      {
+        "hero_name": "Estes",
+        "skin_name": "Kabuto",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/estes.png",
+        "name": "",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/estes%20kabuto.zip",
+        "featured": false,
+        "enabled": true
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "hero_name": "Cyclops",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20240122082946",
+    "name": "Cyclops",
+    "script": "https://github.com/zetsuya05/january/raw/main/cyclops_backup.zip",
+    "featured": false,
+    "targets": [
+      {
+        "hero_name": "Cyclops",
+        "skin_name": "Gojo",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/cylops%20gojo.png",
+        "name": "",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/cylops%20gojo.zip",
+        "featured": false,
+        "enabled": true
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "hero_name": "Bane",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20240605133609",
+    "name": "Bane",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/bane_backup.zip",
+    "featured": false,
+    "targets": [
+      {
+        "skin_name": "Escanor",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cBRng4NkDaV-6H91fLjhKxht71-JXPY3NxOThX-sQurzeRvHcrPknac&s=10",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/b7f9203a-mvjpjt97-1-pmrzh-bane-escanor.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Bane"
+      },
+      {
+        "hero_name": "Bane",
+        "skin_name": "Shino",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/bane%20shino.png",
+        "name": "",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/ban%20shino.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Bane",
+        "skin_name": "Kisame",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/bane%20kisame.png",
+        "name": "",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/bane%20kisame.zip",
+        "featured": false,
+        "enabled": true
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "hero_name": "Carmilla",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142902",
+    "name": "Carmilla",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+    "featured": false,
+    "targets": [
+      {
+        "hero_name": "Carmilla",
+        "skin_name": "Nezuko",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CARMILA%20X%20NEZUKO.png",
+        "name": "Carmilla",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Carmila%20X%20Nezuko.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "hero_name": "Carmilla",
+        "skin_name": "Nezuko",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CARMILA%20X%20NEZUKO.png",
+        "name": "Carmilla",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Carmila%20X%20Nezuko.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Carmilla",
+        "skin_name": "Nezuko",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CARMILA%20X%20NEZUKO.png",
+        "name": "Carmilla",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Carmila%20X%20Nezuko.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "hero_name": "Aulus",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
+    "name": "Aulus",
+    "script": "https://github.com/missnapokita/june-2024/raw/main/aulos%20backup.zip",
+    "featured": false,
+    "targets": [
+      {
+        "hero_name": "Aulus",
+        "skin_name": "Tanjiro",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/aulus%20tanjiro.png",
+        "name": "Aulus",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/aulos%20tanjiro.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Aulus",
+        "skin_name": "Renguko",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/refs/heads/main/img/aulos%20renguko.png",
+        "name": "Aulus",
+        "script": "https://github.com/missnapokita/custom-skin-ngayong-2026/raw/refs/heads/main/aulos%20renguko.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Aulus1",
+        "skin_name": "Renguko",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/refs/heads/main/img/aulos%20renguko.png",
+        "name": "Aulus",
+        "script": "https://github.com/missnapokita/custom-skin-ngayong-2026/raw/refs/heads/main/aulos%20renguko.zip",
+        "featured": false,
+        "enabled": true
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "hero_name": "Arlott",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20230208125736",
+    "name": "Arlott",
+    "script": "https://github.com/tin0521/assassin/raw/main/arlott_backup.zip",
+    "featured": false,
+    "targets": [
+      {
+        "hero_name": "Arlott",
+        "skin_name": "Shirou",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/arlott%20shirou.png",
+        "name": "",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/arlott%20shirou.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Arlott",
+        "skin_name": "Chainsaw Man",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ARLOT%20X%20CHAINSAWMAN.jpg",
+        "name": "",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Arlott%20X%20Chainsawman.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "skin_name": "Gojo",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnUrCk0zZVFGRw3_JmKdYxzcsY0cSfxoTKRiLycavaRZxd4nE7VrzkR4Iv&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/arlott%20gojo.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Arlott"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "hero_name": "Aurora",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141501",
+    "name": "Aurora",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+    "targets": [
+      {
+        "hero_name": "Aurora",
+        "skin_name": "Aokiji",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20AURORA%20X%20ONEPIECE.jpg",
+        "name": "Aurora",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Aurora%20X%20Aokiji%20Onepiece.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "skin_name": "Conan",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aurora%20conan.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aurora%20conan.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Aurora"
+      },
+      {
+        "skin_name": "Keshin Dinetsu",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aurora%20keshin.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aurora%20keshin.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Aurora"
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Dyrroth",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest/scale-to-width-down/150?cb=20250917081250",
+    "name": "Dyrroth",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+    "targets": [
+      {
+        "hero_name": "Dyrroth",
+        "skin_name": "Gojo",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG_20260310_232748_122.jpg",
+        "name": "Dyrroth",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Dyroth%20X%20Gojo.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "hero_name": "Dyrroth",
+        "skin_name": "Ace",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20DYROTH%20X%20ACE.jpg",
+        "name": "Dyrroth",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Dyroth%20X%20Ace%20Onepiece.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Esmeralda",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142615",
+    "name": "Esmeralda",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+    "targets": [
+      {
+        "hero_name": "Esmeralda",
+        "skin_name": "Tsunade",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ESMI%20TSUNADE.jpg",
+        "name": "Esmeralda",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Esmeralda%20X%20Tsunade.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Zilong",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141000",
+    "name": "Zilong",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+    "targets": [
+      {
+        "hero_name": "Zilong",
+        "skin_name": "Chucky",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ZILONG%20CHUCKY.jpg",
+        "name": "Zilong",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ZILONG%20X%20CHUKKY.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Jawhead",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141935",
+    "name": "Jawhead",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+    "targets": [
+      {
+        "hero_name": "Jawhead",
+        "skin_name": "Four Arms",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20JawHEAD%20BENTEN%204ARMS.jpg",
+        "name": "Jawhead",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20JAWHEAD%20X%20BENTEN.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Gatotkaca",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero411-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141617",
+    "name": "Gatotkaca",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+    "targets": [
+      {
+        "hero_name": "Gatotkaca",
+        "skin_name": "Hulk",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20GATOTKACA%20HULK.jpg",
+        "name": "Gatotkaca",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20GATOTKACA%20X%20HULK.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "hero_name": "Gatotkaca",
+        "skin_name": "Venom",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20Gatotkaca%20VENOM.jpg",
+        "name": "Gatotkaca",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Gatotkaca%20X%20Venom%20Marvel.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "skin_name": "Jiraya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwfJ2XB5rxNNcbFJc5GDi2ZKjl5Ii8qvWxNW-bBuIcMMOo3hWac9bwh_k&s=10",
+        "script": "https://github.com/azizboy2007/DESKTOP-GERMA/raw/refs/heads/main/gatot%20jiraya.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Gatotkaca"
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Badang",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142519",
+    "name": "Badang",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+    "targets": [
+      {
+        "skin_name": "Jotaro Black",
+        "image": "https://wallpapercat.com/w/full/1/1/2/813045-3840x2160-desktop-4k-jotaro-kujo-wallpaper-photo.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/9899bec1-mvjpizdz-1-rp8l3-badang-jotaro.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Badang"
+      },
+      {
+        "hero_name": "Badang",
+        "skin_name": "Akaza",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BADANG%20AKAZA.jpg",
+        "name": "Badang",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/badang%20akaza.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Badang",
+        "skin_name": "Genos",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/badang%20genus.png",
+        "name": "Badang",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/badang%20genos.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "skin_name": "Katakuri",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTggObA6mFbYxGF0bRY5mHiBtOiJZ-FRdnFXKIUstU4ndwRvmBp1zAH4eOU&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/badang%20katakori.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Badang"
+      },
+      {
+        "skin_name": "Madara",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxp2iU65XgplMxkKtI6qWmFiu25DU_ZgNGRew_pPRKHnWyjkMaPx3v58&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/badang%20madara.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Badang"
+      },
+      {
+        "skin_name": "Neji",
+        "image": "https://wallpaper.forfun.com/fetch/ba/ba7cdc9d577b11f21eb4fad2899bd99e.jpeg",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/badang%20neji.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Badang"
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Alpha",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802155020",
+    "name": "Alpha",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+    "targets": [
+      {
+        "hero_name": "Alpha",
+        "skin_name": "Homelander",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBq0OLG7Ss6Ml6qXrLh6zegg9NlJZMKZjv2RKAP0nsDgg8Y0eGGqUQs4k&s=10",
+        "name": "Alpha",
+        "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/alpha%20home%20lander.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Alpha",
+        "skin_name": "Igris",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMW4AONT-DRSEtianzJuwLXdEJ3thWUybatz7LHab8yu_BUQ0UNPXwNU&s=10",
+        "name": "Alpha",
+        "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/alpha%20igris.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Balmond",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest/scale-to-width-down/150?cb=20251110110543",
+    "name": "Balmond",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/alpha%20igris.zip",
+    "targets": [
+      {
+        "hero_name": "Balmond",
+        "skin_name": "Big Smoke",
+        "image": "https://i.pinimg.com/1200x/e2/5e/fe/e25efeabd2c47412d568fd0a018077e9.jpg",
+        "name": "Balmond",
+        "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/balmond%20big%20smoke.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Nolan",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140807",
+    "name": "Nolan",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+    "targets": [
+      {
+        "hero_name": "Nolan",
+        "skin_name": "Nanami",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
+        "name": "Nolan",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Argus",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest/scale-to-width-down/150?cb=20250407160733",
+    "name": "Argus",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20X%20TOJI%20V2.zip",
+    "targets": [
+      {
+        "skin_name": "Denji",
+        "image": "https://wallpapers.com/images/hd/all-anime-chainsaw-man-denji-bcum1oc88t5mw92t.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c323f92a-mvbyocxz-1-i3q9g-argus-denji.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Argus"
+      },
+      {
+        "skin_name": "Asta",
+        "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/12/black-clover-season-2-new-anime-with-asta-holding-a-sword-and-grinning.jpg?w=1600&h=1200&fit=crop",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/853d18ed-mvbyowug-1-ecly3-argus-x-asta.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Argus"
+      },
+      {
+        "skin_name": "Guts",
+        "image": "https://i.pinimg.com/736x/d9/ca/67/d9ca679e5874fabb2cba91437c767a66.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/6d5f6bdf-mvbyoltn-1-wa9et-argus-guts.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Argus"
+      },
+      {
+        "hero_name": "Argus",
+        "skin_name": "Hidan",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20hidan.png",
+        "name": "Argus",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20hidan.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Argus",
+        "skin_name": "Toji",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Argus%20X%20Toji%20V2.jpg",
+        "name": "Argus",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20X%20TOJI%20V2.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "hero_name": "Argus",
+        "skin_name": "Kokushibo",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20kukoshibo.png",
+        "name": "Argus",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20kukoshibo.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Argus",
+        "skin_name": "Kenpatchi",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20kenpatchi.png",
+        "name": "Argus",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20kenpachi.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Argus",
+        "skin_name": "Ryu Yamada",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20ryu%20yamada.png",
+        "name": "Argus",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20ryu%20yamada.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Argus",
+        "skin_name": "Arogante",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/argus%20arogante.jpeg",
+        "name": "Argus",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/argus%20arogante.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Argus",
+        "skin_name": "Baraggan",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/argus%20baraggan.png",
+        "name": "Argus",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/argus%20baraggan.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "",
+        "skin_name": "Steve",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ARGUS%20STEVE.jpg",
+        "name": "Argus",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ARGUS%20X%20STEVE%20MINECRFAFT.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "skin_name": "Aizen",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
+        "name": "Argus",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Argus%20X%20Sosuke%20Aizen.zip",
+        "hero_name": "",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "skin_name": "Shadow",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/img/argus%20shadow.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/argus%20shadow.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Argus"
+      },
+      {
+        "skin_name": "Ken Kaneki",
+        "image": "https://images7.alphacoders.com/565/565455.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/e26f0841-mwcyegnn-1-aov6y-argus-ken-kaniki.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Argus"
+      },
+      {
+        "skin_name": "Orochimaru",
+        "image": "https://getwallpapers.com/wallpaper/full/6/1/d/1140699-orochimaru-wallpapers-3840x2160-for-4k.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/Nov/argus%20orutsimaru.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Argus"
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Brody",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143102",
+    "name": "Brody",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip",
+    "targets": [
+      {
+        "hero_name": "Brody",
+        "skin_name": "Choso",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BRODY%20JUJUTSU%20KAISEN.jpg",
+        "name": "Brody",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Cecilion",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142846",
+    "name": "Cecilion",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20X%20SUGURU%20JJK.zip",
+    "targets": [
+      {
+        "skin_name": "Heino",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/cecilion.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/cecilion%20heino.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Cecilion"
+      },
+      {
+        "hero_name": "Cecilion",
+        "skin_name": "Madara",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20CECILLION%20MADARA.jpg",
+        "name": "Cecilion",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20CECILLION%20X%20MADARA.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "hero_name": "Cecilion",
+        "skin_name": "Suguru Geto",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20VALIR%20JJK.jpg",
+        "name": "Cecilion",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20X%20SUGURU%20JJK.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "hero_name": "Cecilion",
+        "skin_name": "Shino",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/cecilion%20shino.png",
+        "name": "Cecilion",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/cecillion%20shino.zip",
+        "featured": false,
+        "enabled": true
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+    "script": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip",
+    "targets": [
+      {
+        "skin_name": "Shanks",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/alu%20shanks.png",
+        "name": "Alucard",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/alu%20shanks.zip",
+        "hero_name": "",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "skin_name": "Ichigo",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ALUCARD%20ICHIGO.jpg",
+        "name": "Alucard",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ALUCARD%20X%20ICHIGO.zip",
+        "hero_name": "",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "name": "Alucard",
+        "skin_name": "Steve",
+        "image": "https://raw.githubusercontent.com/missnapokita/aug-squad/refs/heads/main/Picsart_26-03-17_11-21-49-831.jpg",
+        "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/1/_0100001.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "name": "Alucard",
+        "skin_name": "Rimuru",
+        "image": "https://i.pinimg.com/736x/80/e9/a6/80e9a6de84fd88c1a89151c0521fc6dc.jpg",
+        "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/custom/alu%20rimuru.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "name": "Alucard",
+        "skin_name": "Exorcist",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20EXORSIT.jpg",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20EXORCIST.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "skin_name": "Roger",
+        "image": "https://images7.alphacoders.com/132/1323417.jpeg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/47eb3733-mvbyo844-1-w0uc3-alu-roger.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Alucard"
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "name": "Belerick",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png/revision/latest?cb=20220525165729",
+    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/belerick%20backup.zip",
+    "targets": [
+      {
+        "name": "Belerick",
+        "skin_name": "Iron Golem",
+        "image": "https://ccdn.g-portal.com/mc_blog_iron_golem_2_1775af75bd.png",
+        "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/70/7000001.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//chou%20backup.zip",
+    "targets": [
+      {
+        "skin_name": "Michael Jackson",
+        "image": "https://github.com/missnapokita/bagong-custom-skins/blob/main/michael-jackson-portrait-v0-6544v66elo6g1.png?raw=true",
+        "name": "Chou",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/chou%20mj.zip",
+        "hero_name": "Chou",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "name": "Chou",
+        "skin_name": "Mc Donald's",
+        "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600004.jpg",
+        "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600004.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "name": "Chou",
+        "skin_name": "Crimson Talisman",
+        "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600003.png",
+        "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600003.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "name": "Chou",
+        "skin_name": "Northern Fist",
+        "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600002.zip",
+        "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600002.jpg",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "name": "Chou",
+        "skin_name": "Mario",
+        "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600001.jpg",
+        "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600001.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "skin_name": "Red Ranger",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CHOU%20X%20RANGER%20RED.jpg",
+        "name": "Chou",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Chou%20X%20Red%20Ranger.zip",
+        "hero_name": "",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "skin_name": "IQ",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/chou.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/chou%20iq.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Chou"
+      },
+      {
+        "skin_name": "Flash",
+        "image": "https://w0.peakpx.com/wallpaper/458/35/HD-wallpaper-flash-art.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/chou%20flash.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Chou"
+      },
+      {
+        "skin_name": "Naruto",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCw3BlDEFoDCxSbLX78KJFVRRBJQJ6JcgBGqDpe_71sdnXQXwnOaqh5S0-&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/chou%20naruto.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Chou"
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "name": "Lapu-Lapu",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lapu%20backup.zip",
+    "targets": [
+      {
+        "name": "Lapu-Lapu",
+        "skin_name": "Aurora Gaming",
+        "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/3700001.jpg",
+        "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/37/3700001.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "name": "Popol & Kupa",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20240430165645",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Marksman//popol%20backup.zip",
+    "targets": [
+      {
+        "name": "Popol & Kupa",
+        "skin_name": "Steve & Dog",
+        "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/9400001.jpg",
+        "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/94/9400001.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "skin_name": "Ted Lutz",
+        "image": "https://pbs.twimg.com/amplify_video_thumb/1922713264217022464/img/2bm5ub3gyXvb4Q0p?format=webp&name=medium",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/anime/popol%20x%20subway.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Popol & Kupa"
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Khufra",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142534",
+    "name": "Khufra",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20EXORCIST.zip",
+    "targets": [
+      {
+        "hero_name": "",
+        "skin_name": "Jake",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Hb0oX51Vu5zoxuyC94cFW8mcR2OdtH5CBgLzDSw7eecCbQb4T0-XZSI&s=10",
+        "name": "Khufra",
+        "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/khufra%20jake.zip",
+        "enabled": true,
+        "featured": false
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "name": "Paquito",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
+    "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/paquito%20backup.zip",
+    "targets": [],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143417",
+    "name": "Yin",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/paquito%20cj.zip",
+    "targets": [
+      {
+        "hero_name": "Yin",
+        "skin_name": "Oggy",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/yin%20oggy.png",
+        "name": "Yin",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/yin%20oggy.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Yin",
+        "skin_name": "Diavolo",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/yin%20diavolo.png",
+        "name": "Yin",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/yin%20diavolo.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "Yin",
+        "skin_name": "Obito",
+        "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/yin%20obito.png",
+        "name": "Yin",
+        "script": "https://raw.githubusercontent.com/missnapokita/meow/main/yin%20obito.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "",
+        "skin_name": "Taro Sakamoto",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20YIN%20TARO%20SAKAMOTO.jpg",
+        "name": "Yin",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20YIN%20TARO%20SAKAMOTO.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "hero_name": "",
+        "skin_name": "Sukuna",
+        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/yin%20sukuna.png",
+        "name": "Yin",
+        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/yin%20sukuna.zip",
+        "featured": false,
+        "enabled": true
+      },
+      {
+        "hero_name": "",
+        "skin_name": "Ultraman",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YIN%20ULTRAMAN.jpg",
+        "name": "Yin",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Yin%20X%20Ultra%20Man%20Red.zip",
+        "enabled": true,
+        "featured": false
+      },
+      {
+        "skin_name": "Eren HOK",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24OQkSNa6J9sBn9pLlZtv5Wa8wObrOWYcgNm4vftwHOf-jKmSfmaaviFE&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/yin%20eren.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Yin"
+      },
+      {
+        "skin_name": "Kakashi",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
+        "script": "https://github.com/azizboy2007/DESKTOP-GERMA/raw/refs/heads/main/yin%20kakashi.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Yin"
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "hero_name": "Angela",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png/revision/latest/scale-to-width-down/150?cb=20250406000910",
+    "name": "Angela",
+    "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/angela.png",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Dyadia",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/angela.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/angela%20dyadia.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Angela"
+      }
+    ]
+  },
+  {
+    "hero_name": "Claude",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero651-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142219",
+    "name": "Claude",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Marco Polo",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/claude.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/claude%20marco%20polo.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Claude"
+      }
+    ]
+  },
+  {
+    "hero_name": "Fanny",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141015",
+    "name": "Fanny",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Spiderman",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2FhZmNhMTUtMWJkNy00NTUzLTk1ZjQtOGM5YjYxNTZjOTlkXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,500,281_.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/142960f3-mvbyp4o4-1-sozrs-fanny-spider.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Fanny"
+      },
+      {
+        "skin_name": "Mikasa HOK",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/fanny.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/fanny%20mikasa.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Fanny"
+      },
+      {
+        "skin_name": "Levi",
+        "image": "https://i.pinimg.com/474x/cf/d8/21/cfd821a87c6c5987720df8e4f3c92e16.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/fanny%20levi.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Fanny"
+      }
+    ]
+  },
+  {
+    "hero_name": "Franco",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101-portrait.png/revision/latest/scale-to-width-down/150?cb=20260626040250",
+    "name": "Franco",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Kui",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/franco.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/franco%20kui.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Franco"
+      }
+    ]
+  },
+  {
+    "hero_name": "Karina",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140357",
+    "name": "Karina",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Arkle",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/karina.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/karina%20arkle.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Karina"
+      }
+    ]
+  },
+  {
+    "hero_name": "Julian",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140636",
+    "name": "Julian",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Fushiguro HOK",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhMkwo203KKiDkLO1nyZBYD1mEPdG5RZMiau9UOKjsF3iLDg-dAFa29Y&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/julian%20hok%20fushiguro.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Julian"
+      }
+    ]
+  },
+  {
+    "hero_name": "Lancelot",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141749",
+    "name": "Lancelot",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Zenitsu",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6RX4ihD0lN0iaBoRb0nkT0JqopBNB3Cr2DBfLt1q7QFoqjwDrxM2jWM0&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/anime/lance%20zenitsu.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Lancelot"
+      },
+      {
+        "skin_name": "Charlotte",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/lance.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/lance%20charlotte.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Lancelot"
+      },
+      {
+        "skin_name": "Sasuke",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/lance%20sasuke.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Lancelot"
+      },
+      {
+        "skin_name": "Soul Vessel",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/img/lance%20soul.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/lance%20soul%20vessel.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Lancelot"
+      }
+    ]
+  },
+  {
+    "hero_name": "Layla",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141031",
+    "name": "Layla",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Lady Sun",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/layla.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/layla%20lady%20sun.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Layla"
+      }
+    ]
+  },
+  {
+    "hero_name": "Ling",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142700",
+    "name": "Ling",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Byakuya",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/ling.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/ling%20byakuya.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Ling"
+      }
+    ]
+  },
+  {
+    "hero_name": "Odette",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117141936",
+    "name": "Odette",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Dolia",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/odette.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/odette%20dolia.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Odette"
+      }
+    ]
+  },
+  {
+    "hero_name": "Roger",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141547",
+    "name": "Roger",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Zhang Fei",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/roger.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/roger%20zhang%20fei.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Roger"
+      }
+    ]
+  },
+  {
+    "hero_name": "Ruby",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802152205",
+    "name": "Ruby",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Mulan",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/ruby.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/ruby%20mulan.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Ruby"
+      },
+      {
+        "skin_name": "Mori",
+        "image": "https://images.steamusercontent.com/ugc/1686021626145135169/6AD1E4B4CDCE624E6D2903C938CCDEF800A2FDA7/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/ruby%20mori%20calliope.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Ruby"
+      }
+    ]
+  },
+  {
+    "hero_name": "Silvanna",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142831",
+    "name": "Silvanna",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Ying",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/silvana.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/silvana%20ying.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Silvanna"
+      }
+    ]
+  },
+  {
+    "hero_name": "Terizla",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802145756",
+    "name": "Terizla",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Biron",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/terizla.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/terizla%20biron.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Terizla"
+      },
+      {
+        "skin_name": "Mario",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1q1Gsupvn9NZy3VOcUmjV_giW3ecjGg0b-dA6upnmHmc26rtc1cA8mD1C&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/terizla%20mario.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Terizla"
+      }
+    ]
+  },
+  {
+    "hero_name": "Uranus",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero591-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142052",
+    "name": "Uranus",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Mozi",
+        "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/uranos.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/uranos%20mozzy.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Uranus"
+      }
+    ]
+  },
+  {
+    "hero_name": "Melissa",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143430",
+    "name": "Melissa",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Nobara HOK",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrHCl3iYPj-v-r9uMFI4VggId4HUSxA6uABrrT1iyi7kVPYJ4v93Voz3c&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/melissa%20nobara.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Melissa"
+      }
+    ]
+  },
+  {
+    "hero_name": "Aamon",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest/scale-to-width-down/150?cb=20251225192214",
+    "name": "Aamon",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Alhaitham",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aamon%20alfam.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aamon%20alhaitham.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Aamon"
+      },
+      {
+        "skin_name": "Naruto",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aamon%20naruto.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aamon%20naruto.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Aamon"
+      }
+    ]
+  },
+  {
+    "hero_name": "Aldous",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142204",
+    "name": "Aldous",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Saitama",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aldous%20saitama.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aldous%20saitama.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Aldous"
+      },
+      {
+        "skin_name": "Naruto",
+        "image": "https://w0.peakpx.com/wallpaper/118/173/HD-wallpaper-orange-eyes-naruto-uzumaki-galaxy-background-naruto.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/aldous%20naruto.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Aldous"
+      }
+    ]
+  },
+  {
+    "hero_name": "Benedetta",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143017",
+    "name": "Benedetta",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Maki Zenin",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhLciZ1DRx148jkhu7u60h8khvf1N5ACfbeRVnMKPF-SgCC1sqwW-pLEte&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/bene%20maki%20zenin.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Benedetta"
+      },
+      {
+        "skin_name": "Okita Souji",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkBxbzOH9icFvxyaolM2eDqGsH0564NMHvCwXm27Vcofuh76_xRIzeG2I5&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/bene%20okita%20souji.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Benedetta"
+      }
+    ]
+  },
+  {
+    "hero_name": "Helcurt",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141850",
+    "name": "Helcurt",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Naruto",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5pM59WnFL11s9qTl03x1zndb5OpgcqWCPbOg68IxhEv8JvX85RKhW3qR&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/hc%20naruto.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Helcurt"
+      }
+    ]
+  },
+  {
+    "hero_name": "Moskov",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141344",
+    "name": "Moskov",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Naruto",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqqyvV5_21KDeexQQIGsjwihvuNcLrzFYZKeniJeL5Re30fbLQ-WiawtT&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/moskov%20naruto.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Moskov"
+      }
+    ]
+  },
+  {
+    "hero_name": "Gord",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero231-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045016",
+    "name": "Gord",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Ironman",
+        "image": "https://wallpapercave.com/wp/wp11799657.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/gord%20ironman.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Gord"
+      }
+    ]
+  },
+  {
+    "hero_name": "Hayabusa",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141115",
+    "name": "Hayabusa",
+    "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/haya%20minato.zip",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Minato",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Gusion_%28Minato_Namikaze%29.jpg/revision/latest?cb=20260322234004",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/haya%20minato.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Hayabusa"
+      },
+      {
+        "skin_name": "Sasuke",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/haya%20sasuke.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Hayabusa"
+      }
+    ]
+  },
+  {
+    "hero_name": "Johnson",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero321-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141359",
+    "name": "Johnson",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Bumble bee",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/js%20bumble%20bee.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Johnson"
+      }
+    ]
+  },
+  {
+    "hero_name": "Kaja",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero621-portrait.png/revision/latest/scale-to-width-down/150?cb=20260805104241",
+    "name": "Kaja",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Spiderman",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QVqHsa5H-7DNTxVsoCfw5x222cjISdYkQsW4Myu1HZyj8VnKjaPva0uj&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/kaja%20spiderman.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Kaja"
+      }
+    ]
+  },
+  {
+    "hero_name": "Obsidia",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png/revision/latest/scale-to-width-down/150?cb=20250928040037",
+    "name": "Obsidia",
+    "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/obsidia%20blazing.zip",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Blazing West",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/img/obsidia%20blazing.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/obsidia%20blazing.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Obsidia"
+      }
+    ]
+  },
+  {
+    "hero_name": "Sun",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141243",
+    "name": "Sun",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Kakashi",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/sun%20kakashi.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Sun"
+      },
+      {
+        "skin_name": "Sasuke",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/sun%20sasuke.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Sun"
+      },
+      {
+        "skin_name": "Minato",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Gusion_%28Minato_Namikaze%29.jpg/revision/latest?cb=20260322234004",
+        "script": "https://github.com/azizboy2007/DESKTOP-GERMA/raw/refs/heads/main/sun%20minato.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Sun"
+      }
+    ]
+  },
+  {
+    "hero_name": "Yi Sun-shin",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest/scale-to-width/360?cb=20241021141329",
+    "name": "Yi Sun-shin",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Kazuma Soto",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60e7QhFvh-DPl1QbckCgnGig5FOd1T_ZdhP0gmGC9IQNWSEugH10B3dc&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/yss%20kazuma%20soto.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Yi Sun-shin"
+      }
+    ]
+  },
+  {
+    "hero_name": "Granger",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero791-portrait.png/revision/latest/scale-to-width-down/150?cb=20250407160652",
+    "name": "Granger",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Kaito Kid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/24/576/1019/detective-conan-magic-kaito-kaito-kid-cape-wallpaper-preview.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/granger%20kaito.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Granger"
+      }
+    ]
+  },
+  {
+    "hero_name": "Suyou",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest/scale-to-width-down/150?cb=20250412174335",
+    "name": "Suyou",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Yuuta",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKGEjRby544ltz5VdmgrNWb1qRnULg-kGcX3YARLDiq2gIfgDOysNv40&s=10",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/7b046b4e-mvbypj2d-1-5fnef-suyou-yuta.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Suyou"
+      }
+    ]
+  },
+  {
+    "hero_name": "Lukas",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png/revision/latest/scale-to-width-down/150?cb=20250412174341",
+    "name": "Lukas",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Guko",
+        "image": "https://wallpapercave.com/wp/wp4529480.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/89e16203-mvmgkk70-1-0bgnf-lukas-guko.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Lukas"
+      },
+      {
+        "skin_name": "Madara",
+        "image": "https://www.desktophut.com/images/1716137143.webp",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/Nov/lukas%20madara.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Lukas"
+      }
+    ]
+  },
+  {
+    "hero_name": "Valir",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero571-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142021",
+    "name": "Valir",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Deidara",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Bk8g2SQy0ePa1Sm9wQKYIdq4AQKe0ZF9UEyOAmoQP86tTCzhBxq5EuM&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/Nov/valir%20dadira.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Valir"
+      }
+    ]
+  },
+  {
+    "hero_name": "X-Borg",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142646",
+    "name": "X-Borg",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Pain",
+        "image": "https://images8.alphacoders.com/820/thumb-1920-820039.png",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/3e0a5d3e-mwcyoioq-1-ld0fr-xb-x-pain.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "X-Borg"
+      }
+    ]
+  }
+]
