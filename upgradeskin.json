@@ -9880,5 +9880,1193 @@
     "background": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1173-portrait.png/revision/latest?cb=20221216103153",
     "script": "https://cdn.jsdelivr.net/gh/missnapokita/June-2024-E-F@main/fredrinn%20backup.zip",
     "id": "Jewel Connoisseur_3"
+  },
+  {
+    "hero_name": "Barserker",
+    "tag_name": "no",
+    "name": "Barren Pioneer",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest/scale-to-width-down/150?cb=20260619033752",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest/scale-to-width-down/150?cb=20260619033752",
+    "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aulus%20Basic%20to%20ELITE.zip",
+    "id": "aulus_baren_pioneer_to_barren_poneer"
+  },
+  {
+    "hero_name": "Barserker",
+    "tag_name": "no",
+    "name": "Starwake Corsair",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aulus%20star.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aulus%20star.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aulus%20nor%20star.zip",
+    "id": "aulus_berserker_to_starwake_corsair"
+  },
+  {
+    "hero_name": "Black Pearl",
+    "tag_name": "no",
+    "name": "Leona",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164500",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164500",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/ee242267-mwcymlji-1-gchsr-karina-star-to-kof.zip",
+    "id": "karina_black_pearl_to_leona"
+  },
+  {
+    "hero_name": "Campus Youth",
+    "tag_name": "no",
+    "name": "Galactic Starhawk",
+    "portrait": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "background": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/492f941d-mwcyi1wh-1-eyx08-fanny-elite-to-legend.zip",
+    "id": "fanny_campus_youth_to_galactic_starhawk"
+  },
+  {
+    "hero_name": "Punk Princess",
+    "tag_name": "no",
+    "name": "Galactic Starhawk",
+    "portrait": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "background": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/ae057f23-mwcyj0tq-1-y4ugi-fanny-s-to-legend.zip",
+    "id": "fanny_punk_princess_to_galactic_starhawk"
+  },
+  {
+    "hero_name": "Lifeguard",
+    "tag_name": "no",
+    "name": "Galactic Starhawk",
+    "portrait": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "background": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/63712fcd-mwcyjhxu-1-1svvq-fanny-sum-to-legend.zip",
+    "id": "fanny_lifeguard_to_galactic_starhawk"
+  },
+  {
+    "hero_name": "Royal Cavalry",
+    "tag_name": "no",
+    "name": "Galactic Starhawk",
+    "portrait": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "background": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/25823e38-mwcyj8kh-1-q1j8i-fanny-star-to-legend.zip",
+    "id": "fanny_royal_cavalry_to_galactic_starhawk"
+  },
+  {
+    "hero_name": "Lightborn - Ranger",
+    "tag_name": "no",
+    "name": "Galactic Starhawk",
+    "portrait": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "background": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/953fb5b2-mwcyijr8-1-3oqmk-fanny-lb-to-legend.zip",
+    "id": "fanny_lightborn_ranger_to_galactic_starhawk"
+  },
+  {
+    "hero_name": "Christmas Carnival - Fanny",
+    "tag_name": "no",
+    "name": "Galactic Starhawk",
+    "portrait": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "background": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/2de849bf-mwcyjq3z-1-unwq0-fanny-xmas-to-legend.zip",
+    "id": "fanny_christmas_carnival_fanny_to_galactic_starhawk"
+  },
+  {
+    "hero_name": "Imperial Warrior",
+    "tag_name": "no",
+    "name": "Galactic Starhawk",
+    "portrait": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "background": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/5b6762e9-mwcyiap1-1-4zvc3-fanny-empi-to-legend.zip",
+    "id": "fanny_imperial_warrior_to_galactic_starhawk"
+  },
+  {
+    "hero_name": "Heart Afloat",
+    "tag_name": "no",
+    "name": "Galactic Starhawk",
+    "portrait": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "background": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20valin%20to%20legend.zip",
+    "id": "fanny_heart_afloat_to_galactic_starhawk"
+  },
+  {
+    "hero_name": "Future Enforcer",
+    "tag_name": "no",
+    "name": "Kitsune's Shadow",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Hayabusa%20Elite%20to%20Starlight.zip",
+    "id": "hayabusa_future_enforcer_to_kitsune_s_shadow"
+  },
+  {
+    "hero_name": "Techie Ninja",
+    "tag_name": "no",
+    "name": "Kitsune's Shadow",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Hayabusa%20Elite%20Topup%20to%20Starlight.zip",
+    "id": "hayabusa_techie_ninja_to_kitsune_s_shadow"
+  },
+  {
+    "hero_name": "Spacetime Shadow",
+    "tag_name": "no",
+    "name": "Kitsune's Shadow",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Hayabusa%20Basic%20to%20starlight.zip",
+    "id": "hayabusa_spacetime_shadow_to_kitsune_s_shadow"
+  },
+  {
+    "hero_name": "Sushi Master",
+    "tag_name": "no",
+    "name": "Kitsune's Shadow",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Hayabusa%20Summer%20to%20Starlight.zip",
+    "id": "hayabusa_sushi_master_to_kitsune_s_shadow"
+  },
+  {
+    "hero_name": "Ice Scythe",
+    "tag_name": "Collector",
+    "name": "Kaiju of the Deep",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero518_CAB_d0359f3abb45a82e82b935e646015961.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero518_CAB_d0359f3abb45a82e82b935e646015961.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/hc%20elite%20to%20vulcan.zip",
+    "id": "helcurt_ice_scythe_to_kaiju_of_the_deep"
+  },
+  {
+    "hero_name": "Exoracial Executer",
+    "tag_name": "Collector",
+    "name": "Kaiju of the Deep",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero518_CAB_d0359f3abb45a82e82b935e646015961.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero518_CAB_d0359f3abb45a82e82b935e646015961.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/hc%20nor%20to%20vulcan.zip",
+    "id": "helcurt_exoracial_executer_to_kaiju_of_the_deep"
+  },
+  {
+    "hero_name": "Exoracial Executer",
+    "tag_name": "no",
+    "name": "Cyber Infiltrator",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/hc%20epic.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/hc%20epic.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/hc%20nor%20to%20epic.zip",
+    "id": "helcurt_exoracial_executer_to_cyber_infiltrator"
+  },
+  {
+    "hero_name": "Gothic Curse",
+    "tag_name": "no",
+    "name": "Silverbolt Raiko",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/sele%20elite%20to%20aspi.zip",
+    "id": "selena_gothic_curse_to_silverbolt_raiko"
+  },
+  {
+    "hero_name": "Wasp Queen",
+    "tag_name": "no",
+    "name": "Silverbolt Raiko",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/sele%20nor%20to%20aspi.zip",
+    "id": "selena_wasp_queen_to_silverbolt_raiko"
+  },
+  {
+    "hero_name": "Double Identity",
+    "tag_name": "no",
+    "name": "Silverbolt Raiko",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/sele%20star%20to%20aspi.zip",
+    "id": "selena_double_identity_to_silverbolt_raiko"
+  },
+  {
+    "hero_name": "Noble Crest",
+    "tag_name": "Soul",
+    "name": "Vessels of Deceit",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest?cb=20240619172936",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest?cb=20240619172936",
+    "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Elite%20to%20VESSELS.zip",
+    "id": "aamon_noble_crest_to_vessels_of_deceit"
+  },
+  {
+    "hero_name": "Shimmering Waves",
+    "tag_name": "no",
+    "name": "Tideborn Sailor",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kalea.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kalea.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Khalea%20basic%20to%20starlight.zip",
+    "id": "kalea_shimmering_waves_to_tideborn_sailor"
+  },
+  {
+    "hero_name": "Street Football",
+    "tag_name": "no",
+    "name": "The Purifier",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/d37c38a8-muwq4sst-1-h339a-brun-elite-st-to-collector.zip",
+    "id": "bruno_street_football_to_the_purifier"
+  },
+  {
+    "hero_name": "Vanguard Elite",
+    "tag_name": "no",
+    "name": "The Purifier",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/a49f48ca-muwq55re-1-uooq2-brun-elite-van-to-collector.zip",
+    "id": "bruno_vanguard_elite_to_the_purifier"
+  },
+  {
+    "hero_name": "Best DJ",
+    "tag_name": "no",
+    "name": "The Purifier",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/def1e0a0-muwq4hgi-1-sggiu-brun-dj-to-collector.zip",
+    "id": "bruno_best_dj_to_the_purifier"
+  },
+  {
+    "hero_name": "Rock and Roll",
+    "tag_name": "no",
+    "name": "Crimson Blast",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/35927b82-muwqafgr-1-32te8-clint-star-rock-to-collector.zip",
+    "id": "clint_rock_and_roll_to_crimson_blast"
+  },
+  {
+    "hero_name": "Decapitator",
+    "tag_name": "Collector",
+    "name": "Harbinger of Chaos",
+    "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+    "background": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/moscov%20elite%20to%20collector.zip",
+    "id": "moskov_decapitator_to_harbinger_of_chaos"
+  },
+  {
+    "hero_name": "Spear of Bone Dragon",
+    "tag_name": "Collector",
+    "name": "Harbinger of Chaos",
+    "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+    "background": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/moscov%20nor%20to%20collector.zip",
+    "id": "moskov_spear_of_bone_dragon_to_harbinger_of_chaos"
+  },
+  {
+    "hero_name": "Yasha",
+    "tag_name": "Collector",
+    "name": "Harbinger of Chaos",
+    "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+    "background": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/moscov%20s%20to%20collector.zip",
+    "id": "moskov_yasha_to_harbinger_of_chaos"
+  },
+  {
+    "hero_name": "Javelin Champion",
+    "tag_name": "no",
+    "name": "Backup",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest?cb=20220525165001",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest?cb=20220525165001",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/moskov%20backup.zip",
+    "id": "moskov_javelin_champion_to_backup"
+  },
+  {
+    "hero_name": "Javelin Champion",
+    "tag_name": "no",
+    "name": "Harbinger of Chaos",
+    "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+    "background": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/mosov%20old%20star%20to%20collector.zip",
+    "id": "moskov_javelin_champion_to_harbinger_of_chaos"
+  },
+  {
+    "hero_name": "Violet Spear",
+    "tag_name": "no",
+    "name": "Backup",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest?cb=20230316133752",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest?cb=20230316133752",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/moskov%20backup.zip",
+    "id": "moskov_violet_spear_to_backup"
+  },
+  {
+    "hero_name": "Blood Spear",
+    "tag_name": "no",
+    "name": "Backup",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero318-portrait.png/revision/latest?cb=20220525165006",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero318-portrait.png/revision/latest?cb=20220525165006",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/moskov%20backup.zip",
+    "id": "moskov_blood_spear_to_backup"
+  },
+  {
+    "hero_name": "Jester",
+    "tag_name": "no",
+    "name": "Backup",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero405-portrait.png/revision/latest?cb=20220525165147",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero405-portrait.png/revision/latest?cb=20220525165147",
+    "script": "https://github.com/Mexi23/Mm/raw/main/karrie_def_backup.zip",
+    "id": "karrie_jester_to_backup"
+  },
+  {
+    "hero_name": "Steam Researcher",
+    "tag_name": "no",
+    "name": "Starbound Sentry",
+    "portrait": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "background": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/b1ea3375-muwqgs8q-1-7pfrm-kim-nor-to-collector.zip",
+    "id": "kimmy_steam_researcher_to_starbound_sentry"
+  },
+  {
+    "hero_name": "Bio Frontier",
+    "tag_name": "no",
+    "name": "Starbound Sentry",
+    "portrait": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "background": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/31f65f1a-muwqha9t-1-p1wpy-kim-star-to-collector.zip",
+    "id": "kimmy_bio_frontier_to_starbound_sentry"
+  },
+  {
+    "hero_name": "Charge Leader",
+    "tag_name": "no",
+    "name": "Starbound Sentry",
+    "portrait": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "background": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/eb152229-muwqgyja-1-g6lr8-kim-spe-c-to-collector.zip",
+    "id": "kimmy_charge_leader_to_starbound_sentry"
+  },
+  {
+    "hero_name": "Rising Nova",
+    "tag_name": "no",
+    "name": "Starbound Sentry",
+    "portrait": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "background": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/a27906c4-muwqh4lz-1-rhm82-kim-spe-r-to-collector.zip",
+    "id": "kimmy_rising_nova_to_starbound_sentry"
+  },
+  {
+    "hero_name": "High Seas Cadet",
+    "tag_name": "no",
+    "name": "Starbound Sentry",
+    "portrait": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "background": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/48ab68cd-muwqgmp3-1-e4dww-kim-elite-to-collector.zip",
+    "id": "kimmy_high_seas_cadet_to_starbound_sentry"
+  },
+  {
+    "hero_name": "Flower Season",
+    "tag_name": "no",
+    "name": "Feast of Eternity",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/9c4f4198-mwcykp31-1-jb32o-kag-nor-to-legend.zip",
+    "id": "kagura_flower_season_to_feast_of_eternity"
+  },
+  {
+    "hero_name": "Cherry Witch",
+    "tag_name": "no",
+    "name": "Feast of Eternity",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Special%20to%20LEgend.zip",
+    "id": "kagura_cherry_witch_to_feast_of_eternity"
+  },
+  {
+    "hero_name": "Rainy Walk",
+    "tag_name": "no",
+    "name": "Feast of Eternity",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/10f994cb-mwcyl8si-1-f2mnh-kag-star-to-legend.zip",
+    "id": "kagura_rainy_walk_to_feast_of_eternity"
+  },
+  {
+    "hero_name": "Summer Festival",
+    "tag_name": "no",
+    "name": "Feast of Eternity",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Summer%20to%20Legend.zip",
+    "id": "kagura_summer_festival_to_feast_of_eternity"
+  },
+  {
+    "hero_name": "School Idol",
+    "tag_name": "no",
+    "name": "Dragon Charmer",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Lylia%20Basic%20to%20collector.zip",
+    "id": "lylia_school_idol_to_dragon_charmer"
+  },
+  {
+    "hero_name": "Star Student",
+    "tag_name": "no",
+    "name": "Dragon Charmer",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Lylia%20Elite%20to%20collector.zip",
+    "id": "lylia_star_student_to_dragon_charmer"
+  },
+  {
+    "hero_name": "Ghoul's Fury",
+    "tag_name": "Collector",
+    "name": "Vulcan Lionheart",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero100211_CAB_8d7da51e003a9a66c121dd761f8b401c.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero100211_CAB_8d7da51e003a9a66c121dd761f8b401c.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/balmond%20elite%20g%20to%20vulcan.zip",
+    "id": "balmond_ghoul_s_fury_to_vulcan_lionheart"
+  },
+  {
+    "hero_name": "Savage Hunter",
+    "tag_name": "Collector",
+    "name": "Vulcan Lionsheart",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero100211_CAB_8d7da51e003a9a66c121dd761f8b401c.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero100211_CAB_8d7da51e003a9a66c121dd761f8b401c.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/balmond%20elite%20s%20to%20vulcan.zip",
+    "id": "balmond_savage_hunter_to_vulcan_lionsheart"
+  },
+  {
+    "hero_name": "King of Muay Thai",
+    "tag_name": "no",
+    "name": "Ken",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/chou%20elite%20to%20st.zip",
+    "id": "chou_king_of_muay_thai_to_ken"
+  },
+  {
+    "hero_name": "Hip-hop Boy",
+    "tag_name": "Streetfighters",
+    "name": "Ryu",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/chou%20nor%20to%20ryu.zip",
+    "id": "chou_hip_hop_boy_to_ryu"
+  },
+  {
+    "hero_name": "Go Ballistic",
+    "tag_name": "Streetfighters",
+    "name": "Ryu",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/chou%20star%20to%20st.zip",
+    "id": "chou_go_ballistic_to_ryu"
+  },
+  {
+    "hero_name": "S.T.U.N. Chou",
+    "tag_name": "Streetfighters",
+    "name": "Ryu",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/chou%20stun%20to%20ryu.zip",
+    "id": "chou_s_t_u_n_chou_to_ryu"
+  },
+  {
+    "hero_name": "Furious Tiger",
+    "tag_name": "Streetfighters",
+    "name": "Ryu",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/chou%20special%20to%20st.zip",
+    "id": "chou_furious_tiger_to_ryu"
+  },
+  {
+    "hero_name": "Furious Tiger",
+    "tag_name": "no",
+    "name": "Thunderfist",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/f5e23750-muvdvpki-1-12w3u-chou-spe-to-hero.zip",
+    "id": "chou_furious_tiger_to_thunderfist"
+  },
+  {
+    "hero_name": "Battle Buddha",
+    "tag_name": "Collector",
+    "name": "Celestial Rebel",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+    "background": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20elitem%20to%20vulcan.zip",
+    "id": "sun_battle_buddha_to_celestial_rebel"
+  },
+  {
+    "hero_name": "Street Legend",
+    "tag_name": "Collector",
+    "name": "Celestial Rebel",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+    "background": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20spe%20to%20vulcan.zip",
+    "id": "sun_street_legend_to_celestial_rebel"
+  },
+  {
+    "hero_name": "Ancestral Blade",
+    "tag_name": "no",
+    "name": "Aurora Gaming",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lapu%20lapu%20basic%20to%20champion.zip",
+    "id": "lapu_lapu_ancestral_blade_to_aurora_gaming"
+  },
+  {
+    "hero_name": "Imperial Champion",
+    "tag_name": "no",
+    "name": "Aurora Gaming",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lapu%20lapu%20elite%20to%20champion.zip",
+    "id": "lapu_lapu_imperial_champion_to_aurora_gaming"
+  },
+  {
+    "hero_name": "Light of Dawn",
+    "tag_name": "Collector",
+    "name": "Raiden Maru",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vSbUAAxJ96.jpg",
+    "background": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vSbUAAxJ96.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/argus%20nor%20to%20vulcan.zip",
+    "id": "argus_light_of_dawn_to_raiden_maru"
+  },
+  {
+    "hero_name": "Catastrophe",
+    "tag_name": "no",
+    "name": "Raiden Maru",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vSbUAAxJ96.jpg",
+    "background": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vSbUAAxJ96.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/argus%20elite%20to%20vulcan%20.zip",
+    "id": "argus_catastrophe_to_raiden_maru"
+  },
+  {
+    "hero_name": "Winged Nightmare",
+    "tag_name": "Collector",
+    "name": "Raiden Maru",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vSbUAAxJ96.jpg",
+    "background": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vSbUAAxJ96.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/argus%20s%20tp%20vulcan.zip",
+    "id": "argus_winged_nightmare_to_raiden_maru"
+  },
+  {
+    "hero_name": "Blazing Force",
+    "tag_name": "no",
+    "name": "Oni Kabuto",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Aldous%20blazing%20to%20annual%20starlight.zip",
+    "id": "aldous_blazing_force_to_oni_kabuto"
+  },
+  {
+    "hero_name": "Death",
+    "tag_name": "no",
+    "name": "Oni Kabuto",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Aldous%20elite%20to%20annualstar.zip",
+    "id": "aldous_death_to_oni_kabuto"
+  },
+  {
+    "hero_name": "Red Mantle",
+    "tag_name": "no",
+    "name": "Oni Kabuto",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/aldous%20basic%20to%20annualstar.zip",
+    "id": "aldous_red_mantle_to_oni_kabuto"
+  },
+  {
+    "hero_name": "The Insentient",
+    "tag_name": "no",
+    "name": "Oni Kabuto",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Aldous%20starlight%20to%20annual%20staright.zip",
+    "id": "aldous_the_insentient_to_oni_kabuto"
+  },
+  {
+    "hero_name": "Liquid Fire",
+    "tag_name": "no",
+    "name": "The Annihilator",
+    "portrait": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/thamuz.png",
+    "background": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/thamuz.png",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20ELITE%20TO%2011.zip",
+    "id": "thamuz_liquid_fire_to_the_annihilator"
+  },
+  {
+    "hero_name": "Fleur de Bleau",
+    "tag_name": "Streetfighters",
+    "name": "Chun-Li",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20nor%20to%20st.zip",
+    "id": "guinevere_fleur_de_bleau_to_chun_li"
+  },
+  {
+    "hero_name": "Fleur de Bleau",
+    "tag_name": "Epic",
+    "name": "Electric Diva",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/Hero108011_CAB_034cedfd1435d509fd2ea6256693ce67.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/Hero108011_CAB_034cedfd1435d509fd2ea6256693ce67.png",
+    "script": "https://github.com/Meow00001/Files/raw/main/Guinevere/Guinevere%20Basic/Guinevere%20Basic%20to%20Epic%20-%20Electric%20Diva.zip",
+    "id": "guinevere_fleur_de_bleau_to_electric_diva"
+  },
+  {
+    "hero_name": "Lotus",
+    "tag_name": "no",
+    "name": "Chun-Li",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20star%20to%20st.zip",
+    "id": "guinevere_lotus_to_chun_li"
+  },
+  {
+    "hero_name": "Amethyst Dance",
+    "tag_name": "Streetfighters",
+    "name": "Chun-Li",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20spe%20to%20st.zip",
+    "id": "guinevere_amethyst_dance_to_chun_li"
+  },
+  {
+    "hero_name": "Scalebore",
+    "tag_name": "Streetfighters",
+    "name": "Guile",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/dy%20nor%20to%20guile.zip",
+    "id": "dyroth_scalebore_to_guile"
+  },
+  {
+    "hero_name": "Ruins Scavenger",
+    "tag_name": "Streetfighters",
+    "name": "Guile",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/dy%20star%20to%20guile.zip",
+    "id": "dyroth_ruins_scavenger_to_guile"
+  },
+  {
+    "hero_name": "Death Blow",
+    "tag_name": "Streetfighters",
+    "name": "Ken",
+    "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20nor%20to%20st.zip",
+    "id": "paquito_death_blow_to_ken"
+  },
+  {
+    "hero_name": "Underground Boxer",
+    "tag_name": "Streetfighters",
+    "name": "Ken",
+    "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20spe%20to%20st.zip",
+    "id": "paquito_underground_boxer_to_ken"
+  },
+  {
+    "hero_name": "Fist of Light",
+    "tag_name": "Streetfighters",
+    "name": "Ken",
+    "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20spe%20mpl%20to%20st.zip",
+    "id": "paquito_fist_of_light_to_ken"
+  },
+  {
+    "hero_name": "Fulgent Punch",
+    "tag_name": "no",
+    "name": "Ryu",
+    "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20star%20to%20st.zip",
+    "id": "paquito_fulgent_punch_to_ryu"
+  },
+  {
+    "hero_name": "Scalebore",
+    "tag_name": "Collector",
+    "name": "V.E.N.O.M",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest?cb=20230615180223",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest?cb=20230615180223",
+    "script": "https://github.com/missnapokita/Sepfix/raw/refs/heads/main/dyroth%20normal%20to%20collector.zip",
+    "id": "dyrroth_scalebore_to_naraka_flame"
+  },
+  {
+    "hero_name": "Ruins Scavenger",
+    "tag_name": "Venom",
+    "name": "V.E.N.O.M",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest?cb=20230615180223",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest?cb=20230615180223",
+    "script": "https://github.com/missnapokita/Sepfix/raw/refs/heads/main/dyroth%20star%20to%20collector.zip",
+    "id": "dyrroth_ruins_scavenger_to_v_e_n_o_m"
+  },
+  {
+    "hero_name": "V.E.N.O.M Cobra",
+    "tag_name": "Hunterxhunter",
+    "name": "Gon",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest?cb=20241207073218",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest?cb=20241207073218",
+    "script": "https://github.com/missnapokita/nov_25/raw/refs/heads/main/dy%20venom%20to%20gon.zip",
+    "id": "dyrroth_v_e_n_o_m_cobra_to_gon"
+  },
+  {
+    "hero_name": "Celestial Outlaw",
+    "tag_name": "Collector",
+    "name": "Celestial Rebel",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+    "background": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20s%20to%20vulcan.zip",
+    "id": "sun_celestial_outlaw_to_celestial_rebel"
+  },
+  {
+    "hero_name": "Simian Curse",
+    "tag_name": "no",
+    "name": "Celestial Rebel",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+    "background": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20star%20to%20vulcan.zip",
+    "id": "sun_simian_curse_to_celestial_rebel"
+  },
+  {
+    "hero_name": "Wild Totem",
+    "tag_name": "Msc",
+    "name": "Aegis of Honor",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/Picsart_26-07-22_14-51-58-926.jpg",
+    "background": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/Picsart_26-07-22_14-51-58-926.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/baxia%20nor%20to%20msc.zip",
+    "id": "baxia_wild_totem_to_aegis_of_honor"
+  },
+  {
+    "hero_name": "Black Tortoise",
+    "tag_name": "Msc",
+    "name": "Aegis of Honor",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/Picsart_26-07-22_14-51-58-926.jpg",
+    "background": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/Picsart_26-07-22_14-51-58-926.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/baxia%20s%20to%20msc.zip",
+    "id": "baxia_black_tortoise_to_aegis_of_honor"
+  },
+  {
+    "hero_name": "X Factor",
+    "tag_name": "M4",
+    "name": "Light Chaser",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
+    "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20M4.zip",
+    "id": "beatrix_x_factor_to_light_chaser"
+  },
+  {
+    "hero_name": "X Factor",
+    "tag_name": "M4",
+    "name": "Stellaris Briliance",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
+    "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20PRIME.zip",
+    "id": "beatrix_x_factor_to_stellaris_briliance"
+  },
+  {
+    "hero_name": "X Factor",
+    "tag_name": "Epic",
+    "name": "SkyForce Maverick",
+    "portrait": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013556.jpg",
+    "background": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013556.jpg",
+    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A2%20Beatrix%20FMVP%20Basic.zip",
+    "id": "beatrix_x_factor_to_skyforce_maverick"
+  },
+  {
+    "hero_name": "X Factor",
+    "tag_name": "Epic",
+    "name": "Four Seasons of Fragrance",
+    "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
+    "script": "https://github.com/Mr-Nutcracker/ntx/raw/main/Beatrix/Beatrix%20Basic/Beatrix%20Basic%20to%20Epic.zip",
+    "id": "beatrix_x_factor_to_four_seasons_of_fragrance"
+  },
+  {
+    "hero_name": "Blitz Attack",
+    "tag_name": "M4",
+    "name": "Light Chaser",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
+    "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20M4.zip",
+    "id": "beatrix_blitz_attack_to_light_chaser"
+  },
+  {
+    "hero_name": "Blitz Attack",
+    "tag_name": "M4",
+    "name": "Stellar Briliance",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
+    "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20PRIME.zip",
+    "id": "beatrix_blitz_attack_to_stellar_briliance"
+  },
+  {
+    "hero_name": "Blitz Attack",
+    "tag_name": "no",
+    "name": "Four Seasons of Fragrance",
+    "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
+    "script": "https://github.com/Mr-Nutcracker/ntx/raw/main/Beatrix/Beatrix%20Skins/Beatrix%20Epic%20Script%20(Skin02)%20-%20Nutx.zip",
+    "id": "beatrix_blitz_attack_to_four_seasons_of_fragrance"
+  },
+  {
+    "hero_name": "Space Agent",
+    "tag_name": "no",
+    "name": "Stellar Briliance",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
+    "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Starlight%20to%20PRIME.zip",
+    "id": "beatrix_space_agent_to_stellar_briliance"
+  },
+  {
+    "hero_name": "Space Agent",
+    "tag_name": "no",
+    "name": "Four Seasons of Fragrance",
+    "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
+    "script": "https://github.com/Mr-Nutcracker/ntx/raw/main/Beatrix/Beatrix%20Skins/Beatrix%20Epic%20Script%20(Skin03)%20-%20Nutx.zip",
+    "id": "beatrix_space_agent_to_four_seasons_of_fragrance"
+  },
+  {
+    "hero_name": "Christmas Carnival",
+    "tag_name": "no",
+    "name": "Galactic Vanguisher",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20christmas%20to%20legend.zip",
+    "id": "freya_christmas_carnival_to_galactic_vanguisher"
+  },
+  {
+    "hero_name": "Raven Shogun",
+    "tag_name": "no",
+    "name": "Galactic Vanguisher",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20epic%20to%20legend.zip",
+    "id": "freya_raven_shogun_to_galactic_vanguisher"
+  },
+  {
+    "hero_name": "Beach Sweetheart",
+    "tag_name": "no",
+    "name": "Galactic Vanguisher",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20summer%20to%20legend.zip",
+    "id": "freya_beach_sweetheart_to_galactic_vanguisher"
+  },
+  {
+    "hero_name": "Beach Sweetheart",
+    "tag_name": "no",
+    "name": "Starborn Resolve",
+    "portrait": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_122113.jpg",
+    "background": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_122113.jpg",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20SUMMER%20TO%20STARLIGHT.zip",
+    "id": "freya_beach_sweetheart_to_starborn_resolve"
+  },
+  {
+    "hero_name": "War Angel",
+    "tag_name": "no",
+    "name": "Galactic Vanguisher",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20luckybox%20to%20legend.zip",
+    "id": "freya_war_angel_to_galactic_vanguisher"
+  },
+  {
+    "hero_name": "S.A.B.E.R. Manhunter",
+    "tag_name": "no",
+    "name": "Galactic Vanguisher",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20legend.zip",
+    "id": "freya_s_a_b_e_r_manhunter_to_galactic_vanguisher"
+  },
+  {
+    "hero_name": "Gladiator",
+    "tag_name": "no",
+    "name": "Galactic Vanguisher",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/frey%20elite%20to%20legend.zip",
+    "id": "freya_gladiator_to_galactic_vanguisher"
+  },
+  {
+    "hero_name": "S.T.U.N. Selena",
+    "tag_name": "no",
+    "name": "Silverbolt Raiko",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+    "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.S.T.U.N.zip",
+    "id": "selena_s_t_u_n_selena_to_silverbolt_raiko"
+  },
+  {
+    "hero_name": "Elegant Butterfly",
+    "tag_name": "no",
+    "name": "Chun-Li",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20elite%20to%20st.zip",
+    "id": "guinevere_elegant_butterfly_to_chun_li"
+  },
+  {
+    "hero_name": "Lady Crane",
+    "tag_name": "no",
+    "name": "Chun-Li",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20luck%20to%20st.zip",
+    "id": "guinevere_lady_crane_to_chun_li"
+  },
+  {
+    "hero_name": "Sakura Wishes",
+    "tag_name": "no",
+    "name": "Chun-Li",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20sakura%20to%20st.zip",
+    "id": "guinevere_sakura_wishes_to_chun_li"
+  },
+  {
+    "hero_name": "Manny Pacquiao",
+    "tag_name": "no",
+    "name": "Ryu",
+    "portrait": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20man%20to%20st.zip",
+    "id": "paquito_manny_pacquiao_to_ryu"
+  },
+  {
+    "hero_name": "Manny Pacquiao",
+    "tag_name": "no",
+    "name": "Blazing Tiger",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163428",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163428",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/b6a3aae7-muwqk8ge-1-ybz30-paq-pac-to-collector.zip",
+    "id": "paquito_manny_pacquiao_to_blazing_tiger"
+  },
+  {
+    "hero_name": "Undying Remnants",
+    "tag_name": "no",
+    "name": "Impeatrix Arashi",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/obsidia%20aspi.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/obsidia%20aspi.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/obsidia%20nor%20to%20aspi.zip",
+    "id": "obsidia_undying_remnants_to_impeatrix_arashi"
+  },
+  {
+    "hero_name": "Undying Remnants",
+    "tag_name": "no",
+    "name": "Magitech Wraith",
+    "portrait": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
+    "background": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/obsidia%20star%20to%20aspi.zip",
+    "id": "obsidia_undying_remnants_to_magitech_wraith"
+  },
+  {
+    "hero_name": "Street Hype",
+    "tag_name": "no",
+    "name": "Firebolt",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/hero/bruno%20star%20to%20hero.zip",
+    "id": "bruno_street_hype_to_firebolt"
+  },
+  {
+    "hero_name": "Street Hype",
+    "tag_name": "no",
+    "name": "The Purifier",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/0f82752e-muwq5ngh-1-zyng5-brun-star-to-collector.zip",
+    "id": "bruno_street_hype_to_the_purifier"
+  },
+  {
+    "hero_name": "Demon's Bane",
+    "tag_name": "no",
+    "name": "Obsidian Blade",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603013303",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603013303",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alu%20sp%20to%20legend.zip",
+    "id": "alucard_demon_s_bane_to_obsidian_blade"
+  },
+  {
+    "hero_name": "Imperator Vitalis",
+    "tag_name": "no",
+    "name": "Conqueror",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091737",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091737",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/gord%20star%20to%20legend.zip",
+    "id": "gord_imperator_vitalis_to_conqueror"
+  },
+  {
+    "hero_name": "Iron Hound",
+    "tag_name": "no",
+    "name": "Codename - Storm",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603011956",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603011956",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/saber%20n%20star%20to%20legend.zip",
+    "id": "saber_iron_hound_to_codename_storm"
+  },
+  {
+    "hero_name": "Force Warrior",
+    "tag_name": "no",
+    "name": "Codename - Storm",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603011956",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603011956",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/saber%20old%20star%20to%20legend.zip",
+    "id": "saber_force_warrior_to_codename_storm"
+  },
+  {
+    "hero_name": "Steel Arms",
+    "tag_name": "no",
+    "name": "Fist of Zen",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050333",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050333",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/3f1ca65a-muwpzqii-1-h1uw6-badang-spe-arm-to-collector.zip",
+    "id": "badang_steel_arms_to_fist_of_zen"
+  },
+  {
+    "hero_name": "The Falcon",
+    "tag_name": "no",
+    "name": "The Purifier",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c6cf3a79-muwq5em6-1-jbubk-brun-falcon-to-collector.zip",
+    "id": "bruno_the_falcon_to_the_purifier"
+  },
+  {
+    "hero_name": "Badminton Champion",
+    "tag_name": "no",
+    "name": "Crimson Blast",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c6a3e96f-muwq9yvj-1-rflvc-clint-spe-to-collector.zip",
+    "id": "clint_badminton_champion_to_crimson_blast"
+  },
+  {
+    "hero_name": "Operator CL",
+    "tag_name": "no",
+    "name": "Crimson Blast",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/a30ed3e8-muwqa767-1-m61r8-clint-star-op-to-collector.zip",
+    "id": "clint_operator_cl_to_crimson_blast"
+  },
+  {
+    "hero_name": "Surging Torrent",
+    "tag_name": "no",
+    "name": "Astral Wanderer",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807055105",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807055105",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/34d226b9-muwqon5k-1-gatdj-yss-s-to-collector.zip",
+    "id": "yi_sun_shin_surging_torrent_to_astral_wanderer"
+  },
+  {
+    "hero_name": "Wavebreaker",
+    "tag_name": "no",
+    "name": "Astral Wanderer",
+    "portrait": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807055105",
+    "background": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807055105",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/fa6be590-muwqoumr-1-yv8io-yss-spe-to-collector.zip",
+    "id": "yi_sun_shin_wavebreaker_to_astral_wanderer"
+  },
+  {
+    "hero_name": "Grave Guardian",
+    "tag_name": "no",
+    "name": "Colossus of Light",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Grock%20basic%20FMVP.zip",
+    "id": "grock_grave_guardian_to_colossus_of_light"
+  },
+  {
+    "hero_name": "V.E.N.O.M. Monitor Lizard",
+    "tag_name": "no",
+    "name": "Colossus of Light",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Grock%20Venom%20to%20Fvmp.zip",
+    "id": "grock_v_e_n_o_m_monitor_lizard_to_colossus_of_light"
+  },
+  {
+    "hero_name": "Codename: Rhino",
+    "tag_name": "no",
+    "name": "Colossus of Light",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Grock%20Epic%20to%20Fmvp.zip",
+    "id": "grock_codename_rhino_to_colossus_of_light"
+  },
+  {
+    "hero_name": "Iceland Golem",
+    "tag_name": "no",
+    "name": "Colossus of Light",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Grock%20starlight%20to%20fmvp.zip",
+    "id": "grock_iceland_golem_to_colossus_of_light"
+  },
+  {
+    "hero_name": "Water Lily",
+    "tag_name": "no",
+    "name": "Feast of Eternity",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Annual%20to%20Legend.zip",
+    "id": "kagura_water_lily_to_feast_of_eternity"
+  },
+  {
+    "hero_name": "Jade Blossom",
+    "tag_name": "no",
+    "name": "Feast of Eternity",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Epic%20to%20Legend.zip",
+    "id": "kagura_jade_blossom_to_feast_of_eternity"
+  },
+  {
+    "hero_name": "Dragon Maiden",
+    "tag_name": "no",
+    "name": "Feast of Eternity",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/45960e5a-mwcykdfd-1-b3e72-kag-epic-to-legend.zip",
+    "id": "kagura_dragon_maiden_to_feast_of_eternity"
+  },
+  {
+    "hero_name": "Future Star",
+    "tag_name": "no",
+    "name": "Dragon Charmer",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lylia%20special%20to%20collector.zip",
+    "id": "lylia_future_star_to_dragon_charmer"
+  },
+  {
+    "hero_name": "Haunted Doll",
+    "tag_name": "no",
+    "name": "Dragon Charmer",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lylia%20halloween%20to%20collector.zip",
+    "id": "lylia_haunted_doll_to_dragon_charmer"
+  },
+  {
+    "hero_name": "Phantasmal Revelry",
+    "tag_name": "no",
+    "name": "Dragon Charmer",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lylia%20coevenant%20to%20collector.zip",
+    "id": "lylia_phantasmal_revelry_to_dragon_charmer"
+  },
+  {
+    "hero_name": "Vulcan",
+    "tag_name": "no",
+    "name": "Aurora Gaming",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lapu%20lapu%20special%20to%20champion.zip",
+    "id": "lapu_lapu_vulcan_to_aurora_gaming"
+  },
+  {
+    "hero_name": "Special Force",
+    "tag_name": "no",
+    "name": "Aurora Gaming",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lapu%20lapu%20starlight%20to%20champion.zip",
+    "id": "lapu_lapu_special_force_to_aurora_gaming"
+  },
+  {
+    "hero_name": "Lady Parasol",
+    "tag_name": "no",
+    "name": "Feast of Enternity",
+    "portrait": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "background": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c77ec03c-mwcyky0j-1-ykpuz-kag-spe-lad-to-legend.zip",
+    "id": "kagura_lady_parasol_to_feast_of_enternity"
   }
 ]
