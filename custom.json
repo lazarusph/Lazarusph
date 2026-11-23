@@ -423,7 +423,7 @@
         "name": "Dyrroth",
         "script": "https://raw.githubusercontent.com/missnapokita/exclu/refs/heads/main/Burat/burat/dy%20boruto.zip",
         "featured": false,
-        "enabled": false,
+        "enabled": true,
         "id": "exclusive_418670",
         "category": "exclusive"
       }
