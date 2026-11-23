@@ -415,6 +415,17 @@
         "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Dyroth%20X%20Ace%20Onepiece.zip",
         "enabled": true,
         "featured": false
+      },
+      {
+        "hero_name": "Dyrroth",
+        "skin_name": "Boruto",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP65UtLEsqHoOXiFffI9Dwe6uv4FX8qzQPBLxV69GXmftT7tsY76OdxFc&s=10",
+        "name": "Dyrroth",
+        "script": "https://raw.githubusercontent.com/missnapokita/exclu/refs/heads/main/Burat/burat/dy%20boruto.zip",
+        "featured": false,
+        "enabled": false,
+        "id": "exclusive_418670",
+        "category": "exclusive"
       }
     ],
     "enabled": true,
@@ -455,6 +466,17 @@
         "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ZILONG%20X%20CHUKKY.zip",
         "enabled": true,
         "featured": false
+      },
+      {
+        "hero_name": "Zilong",
+        "skin_name": "Okarun",
+        "image": "https://i.scdn.co/image/ab67616d00001e02b469d5767596e1779112c9c0",
+        "name": "Zilong",
+        "script": "https://raw.githubusercontent.com/missnapokita/exclu/refs/heads/main/Burat/burat/zilong%20okarun.zip",
+        "featured": false,
+        "enabled": true,
+        "id": "exclusive_001",
+        "category": "exclusive"
       }
     ],
     "enabled": true,
@@ -793,6 +815,18 @@
         "enabled": true,
         "name": "",
         "hero_name": "Argus"
+      },
+      {
+        "id": "argus_lizard",
+        "skin_name": "Lizard",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaz7Pbu7MUihBvevNrGRbyc9-4lXO9FK7uh7w6fqkiAeZfz0HqOHd7S9g&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/argus%20lizard.zip",
+        "featured": false,
+        "enabled": true,
+        "tags": [],
+        "name": "",
+        "hero_name": "Argus",
+        "category": "meme"
       }
     ],
     "enabled": true,
@@ -1626,6 +1660,17 @@
         "enabled": true,
         "name": "",
         "hero_name": "Aldous"
+      },
+      {
+        "skin_name": "Aldous Jet",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALDOUS%20BIGJETT.jpg",
+        "name": "Aldous",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALDOUS%20BIG%20ULTI%20TRANSFORMER.zip",
+        "hero_name": "Aldous",
+        "enabled": true,
+        "featured": false,
+        "id": "aldous_aldous_jet",
+        "category": "meme"
       }
     ]
   },
@@ -1675,6 +1720,42 @@
         "enabled": true,
         "name": "",
         "hero_name": "Helcurt"
+      },
+      {
+        "id": "helcurt_blue_buff",
+        "skin_name": "Blue Buff",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62U7pMSyrsi7JfjGSXWwvVuwYatHoUHxqCXQUiQ2sPmZtTBA3xwwDribb&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/hc%20blue%20buff.zip",
+        "featured": false,
+        "enabled": true,
+        "tags": [],
+        "name": "",
+        "hero_name": "Helcurt",
+        "category": "meme"
+      },
+      {
+        "id": "helcurt_legend_dog",
+        "skin_name": "Legend Dog",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/hc%20dog.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/hc%20dog.zip",
+        "featured": false,
+        "enabled": true,
+        "tags": [],
+        "name": "",
+        "hero_name": "Helcurt",
+        "category": "meme"
+      },
+      {
+        "id": "helcurt_cockroach",
+        "skin_name": "Cockroach",
+        "image": "https://c1.wallpaperflare.com/preview/103/890/570/beast-beetle-cockroach.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/hc%20ipis.zip",
+        "featured": false,
+        "enabled": true,
+        "tags": [],
+        "name": "",
+        "hero_name": "Helcurt",
+        "category": "meme"
       }
     ]
   },
@@ -1764,6 +1845,237 @@
         "enabled": true,
         "name": "",
         "hero_name": "Johnson"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Chibi",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20JOHNSON.jpg",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20JOHNSON.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_chibi",
+        "category": "meme"
+      },
+      {
+        "skin_name": "Pou",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JOHNSON%20X%20POU.jpg",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20JONHSON%20X%20POU.zip",
+        "hero_name": "Johnson",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_pou",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Airplane",
+        "image": "https://i.ibb.co/K0SFL6Y/Airplane.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Airplane.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_airplane",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Train Legend",
+        "image": "https://i.ibb.co/1KsVQ43/Clint-Fukact.jpg",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/v22/raw/main/TrainLegend.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_train_legend",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Wheelchair",
+        "image": "https://i.ibb.co/GxnMkJV/Wheel-Chair.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Wheelchair.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_wheelchair",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Minions",
+        "image": "https://i.ibb.co/345Sm24/Menyons.jpg",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Johnson%20Minions.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_minions",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Yacht",
+        "image": "https://i.ibb.co/tXJQ3zd/Yacht.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Yatcht.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_yacht",
+        "category": "meme"
+      },
+      {
+        "skin_name": "Jolibee Truck",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JOHNSON%20X%20JOLIBEE%20TRUCK.jpg",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Johnson%20X%20JolibeeCar.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_jolibee_truck",
+        "hero_name": "Johnson",
+        "category": "meme"
+      },
+      {
+        "skin_name": "Street Vendor",
+        "image": "https://i.ibb.co/4MGZT1f/Street-Vendor.jpg",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Johnson%20Street%20Vendors.zip",
+        "hero_name": "Johnson",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_street_vendor",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Pinoy Jeepney",
+        "image": "https://i.ibb.co/cLfSmYX/Philippines-Jepniey.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Ph%20jeepney.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_pinoy_jeepney",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Pedicab",
+        "image": "https://i.ibb.co/Dwfpc74/Pedicab.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/pedicab.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_pedicab",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "CJ GTA",
+        "image": "https://i.ibb.co/bN2T4wh/GTA-CJ.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/GTA%20CJ.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_cj_gta",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Chou Rich kid",
+        "image": "https://i.ibb.co/n6qkMfT/Richkid-Chou.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Richkid%20Chou.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_chou_rich_kid",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "F15 Eagle",
+        "image": "https://i.ibb.co/9hR7ps0/F15-Eagle.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/F-15%20Eagle.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_f15_eagle",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Chopper Bike",
+        "image": "https://i.ibb.co/5nxRN0V/Balmond-With-Motor.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Balmond%20Chooper%20Bike.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_chopper_bike",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Banana Boat",
+        "image": "https://i.ibb.co/Pjdyqb0/Banana-Boat.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Banana%20Boat.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_banana_boat",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Chou Ads",
+        "image": "https://i.ibb.co/MfsxWcj/Chou-Ads.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/chou%20ads.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_chou_ads",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Roger & Moskov",
+        "image": "https://i.ibb.co/mtbGdZ7/Roger-Mscov.jpg",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Johnson%20Quad%20Bike.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_roger_moskov",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Balmond Ads",
+        "image": "https://i.ibb.co/7gxjrJY/Balmond-Ads.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Balmond%20Ads.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_balmond_ads",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Mr Bean",
+        "image": "https://i.ibb.co/hmHsMN0/Mr-Bean.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/MrBean.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_mr_bean",
+        "category": "meme"
+      },
+      {
+        "hero_name": "Johnson",
+        "skin_name": "Rocketman",
+        "image": "https://i.ibb.co/MPCVp4J/rocketman.png",
+        "name": "Johnson",
+        "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Rocketman%20Paquito.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "johnson_rocketman",
+        "category": "meme"
       }
     ]
   },
@@ -1971,6 +2283,75 @@
         "enabled": true,
         "name": "",
         "hero_name": "X-Borg"
+      }
+    ]
+  },
+  {
+    "hero_name": "Guinevere",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142559",
+    "name": "Guinevere",
+    "script": "",
+    "targets": [
+      {
+        "hero_name": "Guinevere",
+        "skin_name": "Gaysion",
+        "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20GUINEVERE%20X%20GUSION.jpg",
+        "name": "Guinevere",
+        "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Guinevere%20X%20GUSION.zip",
+        "enabled": true,
+        "featured": false,
+        "id": "guinevere_gaysion",
+        "category": "meme"
+      }
+    ],
+    "enabled": true,
+    "featured": false
+  },
+  {
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143047",
+    "name": "Barats",
+    "script": "",
+    "hero_name": "Barats",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "id": "barats_colossal_titan",
+        "skin_name": "Colossal Titan",
+        "image": "https://i.pinimg.com/736x/16/04/d6/1604d6ac673944cf22b0fa96acf64879.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/barats%20colossal%20titan.zip",
+        "featured": false,
+        "enabled": true,
+        "tags": [],
+        "name": "",
+        "hero_name": "Barats",
+        "category": "meme"
+      },
+      {
+        "id": "barats_dinosaur",
+        "skin_name": "Dinosaur",
+        "image": "https://i.pinimg.com/236x/7c/c5/83/7cc5838fccaf5d54b574c4b11d975d38.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/barats%20dino.zip",
+        "featured": false,
+        "enabled": true,
+        "tags": [],
+        "name": "",
+        "hero_name": "Barats",
+        "category": "meme"
+      },
+      {
+        "id": "barats_iron_hide",
+        "skin_name": "Iron Hide",
+        "image": "https://i.pinimg.com/736x/2c/50/be/2c50be4d1845937df549b4ca6513d43c.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/barats%20iron%20hide.zip",
+        "featured": false,
+        "enabled": true,
+        "tags": [],
+        "name": "",
+        "hero_name": "Barats",
+        "category": "meme"
       }
     ]
   }
