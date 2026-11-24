@@ -3,7 +3,7 @@
   "radiant": [
     {
       "name": "Restore",
-      "image": "https://raw.githubusercontent.com/Mr-Nutcracker/RadKits/refs/heads/main/js.png",
+      "image": "https://github.com/lazarusph/Img/raw/refs/heads/main/IMG_20261124_143429.jpg",
       "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Radiant.Kits.Backup.zip",
       "upgradable_skin": "",
       "restore": true
