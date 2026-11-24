@@ -1,10 +1,10 @@
 {
   "features": {
-    "skins_enabled": true,
+    "skins_enabled": false,
     "custom_skins_enabled": false,
-    "recalls_enabled": true,
-    "emotes_enabled": true,
-    "trails_enabled": true,
+    "recalls_enabled": false,
+    "emotes_enabled": false,
+    "trails_enabled": false,
 
     "ads_enabled": true,
     "ads_test_mode": false,
