@@ -1,7 +1,7 @@
 {
   "features": {
     "skins_enabled": true,
-    "custom_skins_enabled": true,
+    "custom_skins_enabled": false,
     "recalls_enabled": true,
     "emotes_enabled": true,
     "trails_enabled": true,
